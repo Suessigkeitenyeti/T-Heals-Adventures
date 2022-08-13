@@ -1,3 +1,5 @@
+[Link](https://suessigkeitenyeti.github.io/T-Heals-Adventures/Berichte)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Suessigkeitenyeti/T-Heals-Adventures/edit/Public/README.md) to maintain and preview the content for your website in Markdown files.
