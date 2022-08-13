@@ -1,4 +1,4 @@
-[Link](https://suessigkeitenyeti.github.io/T-Heals-Adventures/Berichte)
+[Link](https://suessigkeitenyeti.github.io/T-Heals-Adventures/Berichte.md)
 
 ## Welcome to GitHub Pages
 
