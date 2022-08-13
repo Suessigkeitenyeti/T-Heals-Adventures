@@ -1,0 +1,46 @@
+[quote=Cortana (d) (Ca)][quote=BlueRaven]E7, F5, F3, C5, B2
+
+
+Vorne Ritter
+Hinten NK
+Zentrum Alle anderen
+
+ARF: zentrum, hinten, rücken, links, rechts, vorne
+
+Standard: Gaukler > Prophezeien > V, H
+Schamane > WdSM > Z
+Hasa > VS > V, H
+
+
+[size=15][color=yellow]E7[/color][/size] 
+VR
+Gelehrter - [item:Buch: Schadensvermeidungsstrategien - Abschrift] vorne
+Magier: [skill:Magischer Schutz] vorne
+
+HR
+Hasa: [skill:Verschleiern] vorne, zentrum
+Gelehrter: [item: Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift]  hinten
+
+[size=15][color=yellow]F5, C5[/color][/size] 
+Gelehrter - [item:Buch: Schadensvermeidungsstrategien - Abschrift] vorne
+Magier [skill:Magischer Schutz]  hinten
+Priester: [item:Kanon: Psalm 05-05 - Schutz gegen die dunkle Kunst] hinten
+HR
+Gelehrter: [item:Buch: Die defensive Zauberkunst - Abschrift] hinten
+Hasa: [skill:Verschleiern] vorne, hinten
+
+[size=15][color=yellow]F3[/color][/size] 
+ARF: rücken -.....
+VR
+Magier [skill:Magischer Schutz]  hinten
+Priester: [item:Kanon: Psalm 05-05 - Schutz gegen die dunkle Kunst] hinten
+Gelehrter: [item:Buch: Die defensive Zauberkunst - Abschrift] hinten
+HR
+Gelehrter - [item:Buch: Schadensvermeidungsstrategien - Abschrift] vorne
+
+[size=15][color=yellow]B2[/color][/size] 
+VR
+Magier [skill:Magischer Schutz] zentrum
+Gelehrter: [item:Buch: Die defensive Zauberkunst - Abschrift] zentrum
+Hasa: [skill:Verschleiern] vorne, zentrum
+Gelehrter - [item:Buch: Schadensvermeidungsstrategien - Abschrift] vorne[/quote][/quote]

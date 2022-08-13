@@ -1,0 +1,84 @@
+[quote=Gim Lee][quote=Mammut (Al)@Xerasia][b]1. Schnuffis Retter[/b] - Termindungeon (alle 2 Tage)
+
+[dungeonrating:906]
+[b]1.1. Aufbau, Stufenempfehlung, Verfügbarkeit[/b]
+5 Level mit 7 Räumen - Empfohlen für die Stufen 4 - 6 (offen ab stufe 4)
+[color=lightgreen][i]Verfügbar auf allen Welten[/i][/color]
+
+[b]1.2. Belohnungen[/b]
+[post:16480677|Informationen hierzu findet ihr hier]
+
+[b]2.1. Hintergrund:[/b]
+Hubert, der schmächtige Steuereintreiber mit der häßlichen Brille, welchen ihr bei eurer waghalsigen Flucht vor den Fischern beim letzten Besuch von Delasburg kennengelernt habt, meldete sich per Nachricht bei euch - es ginge um etwas sehr dringendes.
+Scheinbar hat seine Flucht – als er eigentlich seiner Pflicht als Steuereintreiber nachkommen sollte – ihn um seine anstehende Beförderung gebracht. Er bittet euch nun, ihm bei einem Auftrag zu helfen, von dem er sich erhofft, dass er damit die Gunst seiner Vorgesetzten zurückgewinnen kann.
+Obwohl ihr nicht gerade die besten Freunde der Behörden seid und schon bei mehr als einer Gelegenheit in Konflikt mit der Wache kamt, beschließt ihr, ihm zu helfen.
+Jedenfalls steht ihr schon kurz darauf wieder auf den Straßen von Delasburg und Hubert kommt im Laufschritt auf euch zugerauscht …
+
+[b]2.2. Informationen in der Enzyklopädie:[/b]
+Link zur Enzy und ggf. Karte
+
+[b]2.3. Hinweise zur Taktik:[/b]
+[b]Level 1:[/b][i] Hier sollte man trittsicher sein ... sonst droht Knochenbruch[/i]
+[b]Level 2:[/b][i] So eine verflixte Gaunerei ... Schläge auf den Hinterkopf müssen nun wirklich nicht sein![/i]
+[b]Level 3:[/b][i] (2 Räume) Ultraschalluntersuchung einmal anders ...[/i]
+[b]Level 4:[/b][i] Verdammt rattige Gegner ... aufpassen![/i]
+[b]Level 5:[/b][i] (2 Räume) Igitt, das mag keiner mehr Essen - da vergeht einem ja fast die Lust am Suchen ...
+jetzt aber mal hurtig raus hier![/i]
+
+[b]2.4. Überlebende berichten:[/b]
+
+
+[b]3. Auswahl der findbaren dungeonspezifischen Uniques:[/b]
+[list]
+[*][item: Cape des bösen Ganoven]
+[*][item: Abgebrochene Leitersprosse]
+[item: Armschienen aus poliertem Quarz]
+Allgemein erhöhte Dropwarscheinlichkeit:
+[*]Schätze mit Quarzsplitter
+[/list]
+[b]4.Besonderheiten:[/b]
+[i]Der Dungeon wird freigeschaltet, sobald "Das Rathaus von Delasburg (2. Besuch)" einmal erfolgreich besucht wurde.[/i][/quote]
+
+Vorne: Paladin, Gladiator
+Zentrum Rest
+Hinten Mönch
+
+ARF > Rücken,L,Z,H,V
+
+Wer sicher gehen will min. 20HP
+
+Level 1
+
+Essen
+
+Level 2 
+
+Falke Z
+Priester / 15-23 > V // 03-11 > Z
+
+
+Level 3 Bereich 1/2 – 2/2
+
+Priester / 03-11 Z
+Quacki / Vorbeugende Heilung > Z
+Heilen ab leicht verwundet wer kann
+
+
+Level 4 
+
+Trinken
+
+Priester / 15-23 > V
+Dieb Hinterhalt entdecken
+Quacki / Vorbeugende Heilung > V
+Hasa / Verschleiern V u. H
+
+
+Level 5 Bereich 1/2 
+
+Priester / 03-11 Z
+Quacki / Vorbeugende Heilung > Z
+
+Level 5 Bereich 2/2 
+
+Schnuffi, der Hund[/quote]

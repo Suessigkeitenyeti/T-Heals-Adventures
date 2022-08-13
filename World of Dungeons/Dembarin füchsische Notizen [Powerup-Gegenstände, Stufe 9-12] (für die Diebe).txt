@@ -1,0 +1,63 @@
+Dembarin füchsische Notizen [Powerup-Gegenstände, Stufe 9-12] (für die Diebe)
+
+Gegenstand - Dembarin rotwelsche Notizen
+
+So ganz ohne Belohnung seid ihr nicht ausgegangen, so sagte jedenfalls euer Dieb, als ihr
+auf eurem Weg zur Stadtwache einen Notizblock mit einigen Blättern langweiliger Texte
+und Zeichnungen in eurer Tasche gefunden habt. Ihr habt ihn weiter gereicht und wundertet euch 
+wie man nur so interessiert an Einkaufslisten und Hauseinrichtungstipps sein könne.
+
+Sind die Tricks eures Diebes seid dem noch gemeiner geworden? Nein, das müsst ihr euch nur
+Einbilden.
+
+Nach einer Idee von T' Yet
+
+Details
+Besonderheiten	1x veredelbar
+Klassen
+		ausschließlich für
+		Dieb
+Völker
+		für alle Völker
+
+Voraussetzung 		Stufe 6
+					Intelligenz 4
+					Geschicklichkeit 4
+Hitpoints 		20/20
+Wert			0 Gold/0 Gold
+Unique 			Unique für Held
+Anwendungen insgesamt 	unbegrenzt
+Anwendungen pro Dungeon	unbegrenzt
+Anwendungen pro Kampf 	unbegrenzt
+Wirkung 		-
+Benötigt 		-
+Wo getragen? 		Tasche
+
+Gegenstandsklasse 			
+ggf. mit Bonus auf (Probe/Wirkung)	Powerup-Gegenstände
+									Veredelungsart: Schriftstücke
+Fertigkeiten				
+ggf. mit Bonus auf (Probe/Wirkung)	-
+
+Designed by 		DESIGNER
+
+
+Auswirkungen auf den Besitzer des Gegenstands
+
+Diese Boni und Mali wirken (soweit nicht anders angegeben), wenn der Gegenstand getragen wird.
+
+Boni auf den Rang von Fertigkeiten
+Fertigkeit	Modifikator
+Beutelschneiden				+1
+Sprung in letzter Sekunde	+1
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird
+
+Boni auf Angriffe
+Angriffsart	Modifikator
+Hinterhalt		+1 +25%HS
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird
+
+Boni auf Paraden
+Angriffsart	Modifikator
+Hinterhalt		+1 +25%HS
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird

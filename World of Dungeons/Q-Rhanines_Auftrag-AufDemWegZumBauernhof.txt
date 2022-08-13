@@ -1,0 +1,59 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: -
+Links: -
+Zentrum: Alle
+Hinten: -
+
+Tiere:
+Vorne: Rest Wildhund
+Links:
+Zentrum:
+Hinten: Sozial, Heil, Flex Windhund
+
+[hr]
+
+[h1] WICHTIG [/h1]
+Wenn möglich 10-12HP+ anpeilen! Wer das nicht erreicht kann durch einen einzigen Pfeil umfallen! Die FKler schaffen hier bis zu 30er AWs, wir sollten sie zwar ausgeschaltet haben, bevor alle Hunde weg sind, aber man weiß ja nie!
+Vor Besuch die Kneipe besuchen, ein Bier trinken und das NK-AW Essen futtern!
+
+[hr]
+
+
+[b]Level 1-3 [/b]
+
+Besonderheiten der Gegner: 
+lvl 1
+[npc:Goblin] Vorne
+[npc:Goblinbogenschütze] Zentrum
+lvl 2
+[npc:Waldspinne] Links - der einzige Gegner der mir sorgen macht, da hohe NK-PW und 35 HP, müssen wir also echt gut rollen!
+lvl 3
+[npc:Bandit] V/L
+[npc:Hund] V
+[npc:Anführer der Banditen] Z
+[npc:Bandit mit Kurzbogen] H - Diesesmal gehen die FK Angriffe nicht nach vorne! aber wir sind so viele, dass der Schaden gut aufgeteilt werden sollte. Jeder sollte Mindestens 10-HP haben!
+Allgemein: Alle Angriffe gehen auf V und wir haben weder Hieb-Ausweichen noch Geschoss Ausweichen, also werden wir die Hunde wieder opfern. 
+
+Blocker Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Hügel-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Grenzi-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Jäger: [skill: Messerkampf]
+Blasrohr: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+FK-Jäger: [skill: Messerkampf]
+Hagel: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Schnee: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Supp-Jäger: [skill: Messerkampf]
+Sozial-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+Heil-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+Flex-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+
+[hr]
+
+Diesmal _etwas_ mehr Taktik, hiernach sollten wir alle Stufe 2 erreicht haben! Dann gibts "normalere" Taktiken ^^

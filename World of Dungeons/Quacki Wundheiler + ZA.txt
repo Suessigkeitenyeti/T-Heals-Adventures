@@ -1,0 +1,47 @@
+Kopf - [item: Diadem der Konzentration] (Wandlung/Buff auf Heilung)
+Ohren - [item: Rauschender Ohrclip]
+Brille - [item: Nietbrille]
+Halskette - [item: Kleines Notizbüchlein] (AH) (muss noch veredelt werden!)
+Torso - [item: Robe des Medikus]
+Gürtel - [item: Phiolengurt eines weißen Kriegers] ([set:Die weiße Kunst der Rohnin])
+Umhang - [item: Umhang des ängstlichen Feldschers] (AH)
+Schultern - [item: Lederrucksack der Heilkunst] (+20)
+Arme - [item: Armschienen mit Flickzeug] ([set:Die weiße Kunst der Rohnin])
+Handschuhe - [item: Gesegnete Seiden-Handschuhe der helfenden Hand] oder [item: Verstärkte Seiden-Handschuhe der helfenden Hand]
+Waffenhand - [item: Kristallschneider] ([set:Notfallausrüstung des Feldarztes])
+Schildhand - [item: Lebensretter ([set:Notfallausrüstung des Feldarztes])
+Beine - [item: Gesegnete Seiden-Hose der helfenden Hand]
+Füße - [item: Sandalen der Vorhersehung] (Glücksbringer) oder [item: Gesegnete Seiden-Schuhe der helfenden Hand]
+Ring 1 - [item: Geheiligter Ring der Heilkunst] (AH)
+Ring 2 - [item: Gesegneter Ring der Heilkunst] (AH) 
+Ring 3 - [item: Ring der Gewandtheit und Geschwindigkeit] (GE und SN Ringe iwie)
+Ring 4 - [item: Ring der Geschwindigkeit und Gewandtheit] (GE und SN Ringe iwie)
+Taschenplätze
+[item: Kristallphiole in Drachenhaut] ([set:Die weiße Kunst der Rohnin])
+[item: Faszikel der alchemistischen Ingredienzien]
+[item: Der Leitfaden der Alchemie]
+[item: Elfenstein mit grauen Schlieren] (Wandlung/Buff auf Erholungsfertigkeiten)
+[item: Kleines Helferlein]
+[item: Vollständiges lebloses Skelett]
+[item: Mephistos fast unzerbrechliche Flasche der absoluten Heilung]
+[item: Mephistos Anleitung zur absoluten Heilung]
+[item: Flasche mit Feenwasser]
+[item: Flasche mit Feenwhiskey]
+[item: Verknotete Windsaiten] (Glücksbringer)
+[item: Brutus Dunkells Patentiertes Alchimagisches Kräftigungselixier]
+[item: Heidmannstaler Zaubertrank] (evtl zu hohe Anforderungen ohne die Buffs von den anderen Gaben)
+[item: Geschnitzter Waschbär]
+2-3 Gebräue
+2-3 Zaubertränke an Dungeon angepasst
+2 Heiltränke
+
+Probleme:
+AH: 4/3
+Glücksbringer 2/1
+2 Sets:
+[set:Die weiße Kunst der Rohnin] (3 Items) und [set:Notfallausrüstung des Feldarztes] (2 Items)
+2 Wandlungsitems
+Taschenplätze übervoll
+
+Potentiell freie Plätze:
+Kopf, Umhang, Handschuhe, Beine, Füße, 1 Ring

@@ -1,0 +1,121 @@
+[quote=Gim Lee][quote=Abu ibn Ali Benim@Barkladesh][b]1. Ein ruhiger Tag im Gasthaus...[/b] - Standarddungeon 
+
+[dungeonrating:64] 
+[b]1.1. Aufbau, Stufenempfehlung, Verfügbarkeit[/b]
+Version 1: 4 Level mit 8 Räumen - Empfohlen für die Stufen 9 - 11 (offen ab Stufe 7)
+[color=lightgreen][i]Ab Version 14[/i][/color]
+Version 2: 6 Level mit 10 Räumen - Empfohlen für die Stufen 9 - 11 (offen ab Stufe 7)
+[color=lightgreen][i]Ab Version 14[/i][/color]
+Version 3: 4 Level mit 8 Räumen - Empfohlen für die Stufen 9 - 11 (offen ab Stufe 7)
+[color=lightgreen][i]Ab Version 14 aber nur für Doppellegenden[/i][/color]
+
+
+[b]1.2. Belohnungen[/b]
+[post:16480677|Informationen hierzu findet ihr hier]
+
+[b]2.1. Hintergrund:[/b]
+Gerade kommt ihr von einem aufregenden Abenteuer in die Stadt Ferdikar. Als erstes führt euch euer Weg natürlich ins örtliche Gasthaus...
+
+[b]2.2. Informationen in der Enzyklopädie:[/b]
+Link zur Enzy und ggf. Karte
+
+[b]2.3. Hinweise zur Taktik:[/b]
+…
+
+[b]2.4. Überlebende berichten:[/b]
+[post:13784914|Die Heldentaten der fiesen Knüppelpossi: Ein ruhiger Tag im Gasthaus ...]
+
+[b]3. Auswahl der findbaren dungeonspezifischen Uniques:[/b]
+[list]
+[*][item: Satz kleiner Holzbecher]
+[*][item: Buch: Von Ogern und anderen groben Kerlen]
+[*][item: Stück eines Jaguarfells]
+[*][item: Netz der Sklavenjäger]
+[*][item: Versteinerter Blutstropfen]
+[*][item: Schwarze Stiefel eines Sklavenjägers]
+[*][item: Halbedelstein mit feinen Sprüngen (gelb)] (nur mit entsprechendem Legendenlevel)
+[*][item: Rosarote Brille] (nur im Bonuslevel!)
+[*][item: Rindenstück der Sturmeiche]
+[*][item: Verdreckte Lederhose eines Orkanführers]
+[*][item: Eisernes Ogerhalsband]
+[*][item: Vampyrumhang]
+[/list]
+[b]4. Besonderheiten in der Levelstrukur[/b]
+Version 1: Standardversion
+Version 2: mit Bonuslevel, Auslöser: 
+- die Original Gruppe, die Merilias Paket gefunden hat und das Paket selber
+- Wochentag (schaut euch das Paket mal an)
+Version 3: "Winteranfang"-Version, wird automatisch getriggert sobald man Sommerende besiegt hat.[/quote]
+
+
+Aufstellung:
+Vorne: Ritter
+Rechts: NK
+Zentrum Alle Anderen
+Hinten: FK
+
+
+ARF Rücken, Zentrum, Hinten, Rechts, Links, Vorne
+Lvl 2 NK trinken um die AWs zu heben
+Level 3 und 4 gibts manareg für die NK, also dort Wildsau, Löwenherz usw einbaun bitte.
+
+Level 1 Zur blauen Traube
+
+Sklavenjäger vorne
+Sklavenjäger4 greift im Nahkampf an (Messerkampf/56)
+
+kein Problem
+
+Barde: - HR Liederfibel: Balladen des schnellen Ausweichens vorne
+Gelehrter: - VR Buch: Schadensvermeidungsstrategien - Abschrift vorne
+        
+Level 2 Ein kleines Wäldchen außerhalb
+
+Vampyr links
+
+NK pushen sonst kein Problem
+NK trinken AWs heben!
+Hasa: - Verschleiern vorne
+Barde: - Liederfibel: Balladen des schnellen Ausweichens vorne
+Gelehrter: - Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift rechts
+Priester: - Kanon: Psalm 08-15 - Demosans reinigendes Feuer rechts
+
+Level 3 Bereich 1/2 - 2/2
+
+Orks und Oger vorne
+Grizzly links, rechts
+Schützen hinten
+Oger2 greift im Nahkampf an (Hiebwaffen/97)
+
+Magier - HR 1 x Fauler Zauber > Haben wir nicht, oder?
+Hasa: - Verschleiern vorne, rechts
+Barde: - VR Liederfibel: Balladen des schnellen Ausweichens vorne
+      HR Liederfibel: Ballade der mystizistischen Wiederkehr rechts, zentrum
+Gelehrter: - VR Buch: Schadensvermeidungsstrategien - Abschrift VR vorne, HR rechts
+Priester: - Kanon: Psalm 08-15 - Demosans reinigendes Feuer rechts
+
+
+Level 4 Bereich 1/4 - 3/4
+
+Dschungelschlingpflanze vorne, links, rechts
+Dschungelschlingpflanze2 greift im Nahkampf an (Rankenangriff/45)
+
+Level 4 Bereich 4/4 kommt dann zu dem ganzen noch ne katze dazu
+Jaguar rechts
+Jaguar greift im Nahkampf an (Tatzenhieb/96)
+der hat sehr hohe paraden außer magie also
+
+ARF: rechts, links, vorne
+das selbe wie Level 3
+
+Version 2: mit Bonusl 
+Level 5
+Stadtgardist mit Hellebarde vorne
+Merilia zentrum
+Stadtgardist mit Armbrust hinten
+Stadtgardist mit Hellebarde2 greift im Nahkampf an (Stangenwaffen/62)
+
+weis nicht ob wir Merilia angreifen können, wolln wir es lieber nicht versuchen!
+ARF hinten, vorne
+
+wie lvl 3[/quote]

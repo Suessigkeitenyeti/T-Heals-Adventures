@@ -1,0 +1,41 @@
+nur eine kurze takke diesmal, keine Generäle und sollte recht easy sein
+
+Aufstellung für beide
+Vorne: Blocker
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+Norden:
+lvl 1
+[npc:Ork-Oberbrecher] + [npc:Orkmeuchler]
+sollte std gehen, greifen nur hiha und nk an
+
+lvl 2
+[npc:Orksöldner] V/R
+[npc:Goblin mit Netz] H
+[npc:Brückentroll] R (Priorität!)
+ARF: R/H/V/Rest
+den troll so gut wie möglich debuffen/wegbursten, das is der einzige der weh tut
+buffen auf NKler und FKler mit Feuer/Bücher/usw
+
+
+Norden (innen):
+lvl 1
+[npc:Energiebarriere (klein)] V
+[npc:Goblinmeisterschamane] H
+
+HP-Dereg V macht den kampf ez
+hier Gnolliger Eiter, da PW bei der barriere net vorhanden
+goblimschami sollte mit einem angriff draufgehen sobald die barriere down is
+
+lvl 2
+[npc:Terug Nur (Krieger)] V/R/L
+[npc:Terug Nur (Champion)] Z
+[npc:Orkschamane] H
+[npc:Terug Nur (Berserker)] H
+
+Champion > Berserker > Krieger > Schami
+ARF: Z/H/V/R/L
+Curare usw, ihr kennt es ja
+buffen auf NKler und FKler mit Feuer/Bücher/usw

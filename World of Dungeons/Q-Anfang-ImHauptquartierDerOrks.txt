@@ -1,0 +1,43 @@
+[quote=Gim Lee]Im Hauptquartier der Orks
+
+Vorne: Paladin, Gladiator
+Zentrum: NK
+Hinten: Rest
+
+ARF > Rücken,H,R,L,Z,V
+Blasrohr Standard Curare
+
+Level 1
+
+Essen
+Priester / 12-17 > Z
+Quacki / Vitalitätsschub > V
+Hasa / Verschleiern > Z
+
+Level 2
+
+Priester / 15-23 > V
+Hasa / Verschleiern > V, Z
+Dieb / HiHa entdecken
+Quacki / Vitalitätsschub > V
+
+
+Level 3
+
+Trinken
+
+Priester / 15-23 > V
+Hasa / Verschleiern > V, Z
+Quacki / Vitalitätsschub > V
+
+Level 4
+
+Dieb / Fallen Entdecken
+
+Level 5
+
+Trinken 2. Prio
+
+Priester / 15-23 > V
+Hasa / Verschleiern > V, Z
+Quacki / Vitalitätsschub > V[/quote]

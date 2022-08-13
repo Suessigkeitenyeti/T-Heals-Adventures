@@ -1,0 +1,77 @@
+[quote][pre]
+Gegenstand - Wappen der "Weißen Kittel"
+
+Viele Abendteurer sehen die Heilkünste ihrer Mitstreiter als selbstverständlich an und wenn ein großer Triumpf gefeiert wird, werden diese zumeist nicht erwähnt oder gar gefeiert.
+Die Heiler, die nach Annerkennung ihrer Leistungen sehnen, haben vor langer Zeit angefangen ihre Taten zu dokumentieren und zu veröffentlichen. Schnell haben viele Helden mitgemacht
+und die Flugblätter und Aushänge in den diversen Tavernen nahm die Überhand an. Um dieser Übermacht Herr zu werden wurden die "Weißen Kittel" gegründet. Sie haben Vielerorts
+ihre Zweigstellen und durch regelmäßige Boten verbreiten sich die Heldentaten der normalerweise ruhigeren Helfer weiter als je zuvor, nicht aber ohne zuerst fein säuberlich katalogisiert
+zu werden. Heiler die in besonders brenzlichen Situationen einen kühlen Kopf bewahrt oder ihre Gruppe gegen aller Wahrscheinlichkeit doch irgendwie zusammengehalten haben werden auf öffentlichen Aushängen gepriesen. 
+Diese Berühmtheiten werden von den erfahrensten Gruppen angeheuert, da sie wissen wie sie im Kampfgetümmel unterstützen können ohne selbst ins Visier ankommender Geschosse 
+und Zauber zu gelangen. Auch sind sie nicht sonderlich nachtragend, wenn sie in den Lobliedern diverser Heldentaten nur Nebenbei erwähnt werden, sie haben ja ihre eigenen Kreise um sich zu brüsten.
+Heiler, die endweder häufig oder außergewöhnliche Dokumentationen abliefern werden werden halb-jährlich zu einer weitreichenden Wahl nominiert. 
+
+Dieses Wappen, das einen strahlenden Heiler, der über den Rest seiner Gruppe wacht, darstellt, wird nur an die zur Wahl nominierten Heiler verliehen. 
+Jeder Abenteurer weiß, dass ein solcher Heiler sich schon bewährt hat.
+
+Nach einer Idee von T' Yet
+
+Details
+Besonderheiten				keine Sockel
+Klassen
+					für alle Heldenklassen
+Völker
+					ausschließlich für:
+					[*] Grenzländer
+
+Voraussetzung 				Stufe ab 10
+					[skill:Heraldik] ab 8
+Hitpoints 				22/22
+Wert					176 Gold/176 Gold
+Unique 					Unique für Held
+Anwendungen insgesamt 			unbegrenzt
+Anwendungen pro Dungeon			unbegrenzt
+Anwendungen pro Kampf 			unbegrenzt
+Wirkung 				-
+Benötigt 				-
+Wo getragen? 				Tasche
+
+Gegenstandsklasse 			[wiki:Gegenstandsklasse - Wappen] (max. 2 Gegenstände tragbar)
+ggf. mit Bonus auf (Probe/Wirkung)	Veredelungsart: Zierart
+Fertigkeiten				[skill:Heraldik]
+ggf. mit Bonus auf (Probe/Wirkung)
+
+Designed by 		DESIGNER
+
+
+Auswirkungen auf den Besitzer des Gegenstands
+
+Diese Boni und Mali wirken (soweit nicht anders angegeben), wenn der Gegenstand getragen wird.
+
+Boni auf den Rang von Fertigkeiten
+Fertigkeit				Modifikator
+[skill:Heraldik]				[color=lime]+2(a)[/color]
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird
+
+
+Auswirkungen auf den Betroffenen des Gegenstands
+
+Diese Boni und Mali wirken nur, wenn der Gegenstand mit einer der oben genannten Fertigkeiten
+eingesetzt wird.
+
+Boni auf den Rang von Fertigkeiten
+Fertigkeit					Modifikator				Dauer		Bemerkung
+[skill:Erste Hilfe]					[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+[skill:Beruhigende Worte]				[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+[skill:Hand Auflegen]					[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+alle Fertigkeiten der Klasse Heilfertigkeiten	[color=lime]+34% des Fertigkeitenrangs[/color]		bis Kampfende		
+
+Boni auf die Wirkung von Fertigkeiten
+Fertigkeit					Modifikator				Dauer		Bemerkung
+alle Fertigkeiten der Klasse Heilfertigkeiten	[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+
+Boni auf Paraden
+Angriffsart					Modifikator				Dauer		Bemerkung
+Fernkampf					[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+Zauber						[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+Sozial						[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+[/pre][/quote]

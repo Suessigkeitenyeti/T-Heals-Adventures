@@ -1,0 +1,551 @@
+[h1]Übersicht der Artefakte für AdS[/h1]
+diese geben [color=red]-25 auf den Rang von AdSaGa bei Anwendung[/color] oder sind für keine Klasse mit AdSaGa freigeschaltet.
+
+wenn nicht anders angegeben wirken sie unbegrenzt.
+
+[table border=2]
+[tr][td align=center]Name[/td]
+[td align=center]Boni auf Eigenschaften[/td]
+[td align=center]Boni auf Würfe[/td][/tr]
+
+[tr][td align=center][item: Alter Haftel]
+[size=10]aus dem Dungeon "???“"[/size][/td]
+[td align=center]-[/td]
+[td align=center][color=lime]Parade Naturgewalt +2+34% [size=9]des FR[/size], bis Kampfende[/td]
+wirkt bis Kampfende[/tr]
+
+[tr][td align=center][item: Angefeilte Affenklauen]
+[size=10]aus dem Dungeon "Windgeflüster in A-Dur“"[/size]
+[size=10][color=red]nur für Schamane[/color][/size][/td]
+[td align=center][color=red]Geschicklichkeit -2, bis Kampfende 	 
+Initiativwurf -50% [size=9]des FR[/size], eine Runde
+Heilung Hitpoints -2, bis Kampfende[/color]
+[color=lime]Rang Krallenhand +1+75% [size=9]des FR[/size], bis Kampfende 	 
+Wirkung Krallenhand +125% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Altarkerze]
+[size=10]aus dem Dungeon "Heilige Hallen"[/size]
+[size=10][color=red]nur für Priester[/color][/size][/td]
+[td align=center][color=lime]Konstitution +1 +12% [size=9]des FR[/size], unbegrenzt[/color]
+[color=red]Wahrnehmung -3, unbegrenzt[/color]
+[color=lime]Mana +100% [size=9]des FR[/size], unbegrenzt
+MP-Reg +50% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Blitz]
+
+[size=10]Boni auf den Betroffenen kommen
+durch die Setwirkung: [post:16426111][/size][/td]
+[td align=center]Wirkung nur als Set:[/td]
+[td align=center][post:16426111][/td][/tr]
+
+[tr][td align=center][item: Das verwunschene Juwel]
+[size=10]aus dem Dungeon "Das Geheimnis von Semarkesh"[/size][/td]
+[td align=center][color=lime]Rang [i]Kräuterkunst[/i] +1 +17% [size=9]des FR[/size], 3 Runden
+Rang [skill: Eigene Waffe vergiften] +1+17% [size=9]des FR[/size], 3 Runden
+Rang [skill: Waffengift] +1+17% [size=9]des FR[/size], 3 Runden[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Fingerzeig des Todes]
+[size=10]aus dem Dungeon "Schatten der Vergangenheit"[/size]
+Boni Ändern sich durch Setwirkung,
+für die genauen Boni siehe Itemlink.[/td]
+[td align=center][color=lime]Schnelligkeit +x, unbegrenzt
+Anzahl Aktionen +x, unbegrenzt[/color]
+[color=red]HP-Reg -x, unbegrenzt[/color][/td]
+[td align=center][color=lime]AW NK +x, unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Gewolans Kristallamulett]
+[size=10]aus dem Dungeon "Das erste Portal"[/size][/td]
+[td align=center][color=lime]Schaden Manaschaden (alle) +1+75%/+1+75%/+1+75% [size=9]des FR[/size], bis Kampfende
+MP-Reg +1 +75% [size=9]des FR[/size], Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Gewundene Wurzel einer Pappel]
+[size=10]aus dem Dungeon "Das Ende"[/size]
+[size=10][color=red]nur für Schamane[/color][/size][/td]
+[td align=center][color=Lime][skill: Gabe: Herr der Wurzeln] +34% [size=9]des FR[/size], 3 Runden[/color]
+[color=Red]Wahrnehmung -2, Rundenende[/color][/td]
+[td align=center][color=Lime]AW NG +3 +50% [size=9]des FR[/size], 3 Runden[/color]
+[color=red]Initiativwurf -2 -20% [size=9]des FR[/size], Rundenende[/color][/td][/tr]
+
+[tr][td align=center][item: Goldpulver]
+[size=10]aus dem Dungeon "Expedition zum Feuerarchipel"[/size]
+
+[size=10]Siehe Gegenstandslink für genauen Rüstungsbonus[/size][/td]
+[td align=center][color=Lime]Hitpoints +100% [size=9]des FR[/size], bis Kampfende
++diverse Rüstung, bis Kampfende[/color][/td]
+[td align=center][color=Lime]PW Magie +34% [size=9]des FR[/size], bis Kampfende
+PW Fernkampf +25% [size=9]des FR[/size], bis Kampfende[/color]
+[color=red]Initiativwurf -6 x [size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Grottengestein]
+
+[size=10]die Höhe der Boni stehen in den 
+Gegenstandsdetails.[/size][/td]
+[td align=center][color=lime]Rüstung Hieb/Stich/Schneid[/color]
+[color=red]Wahrnehmung -20% [size=9]des FR[/size][/color][/td]
+[td align=center][color=lime]Parade Nahkampf
+Parade Fernkampf
+Parade Naturgewalt[/color][/td][/tr]
+
+[tr][td align=center][item: Grün und braun gefärbte Haferflocken][/td]
+[td align=center][color=red]CH -1, 3 Runden[/color][/td]
+[td align=center][color=lime]AW Sozial +2 +25% [size=9]des FR[/size], eine Runde
+AW Sozial +2 +25% [size=9]des FR[/size], 3 Runden
+PW NK +2 +25% [size=9]des FR[/size], 1 Runde
+PW NK +2 +25% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Herz des Winters][/td]
+[td align=center][color=red]Konstitution -34% [size=9]des FR[/size], bis Kampfende
+Stärke -25% [size=9]des FR[/size], bis Kampfende
+Heilung Hitpoints -[size=9]des FR[/size], bis Kampfende[/color]
+[color=lime]Initiative +150% [size=9]des FR[/size], bis Kampfende
+Erholung Manapoints +200% [size=9]des FR[/size], bis Kampfende
+Eisschaden Magie, Naturgewalt +34%/+34%/+150% [size=9]des FR[/size] , bis Kampfende
+[/color][/td]
+[td align=center][color=lime]
+Angriff Zauber +250% [size=9]des FR[/size], bis Kampfende
+Angriff Naturgewalt +200% [size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Kirschsirup][/td]
+[td align=center][color=lime]CH +1 +25% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center][color=lime]AW Sozial +3 +100% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Mondsteingleiter]
+[size=10]aus dem Dungeon "Mo-Moragh-Zep"[/size][/td]
+[td align=center][color=lime]SN +2 +34% [size=9]des FR[/size],3 Runden 	 
+WA +1 +17% [size=9]des FR[/size], 3 Runden 	 
+Rang [skill: Sprung in letzter Sekunde] +1 +34% [size=9]des FR[/size], 3 Runden 	 
+Rang [skill: Überblick] +1, 3 Runden 	 
+Rang [skill: Sprungangriff] +1 +34% [size=9]des FR[/size], 3 Runden[/color][/td]
+[td align=center][color=red]PW Sozial -75% [size=9]des FR[/size], 3 Runden[/color] 
+[color=lime]PW Falle +75% [size=9]des FR[/size], 3 Runden[/color]
+[color=red]PW NG -75% [size=9]des FR[/size], 3 Runden[/color] 	 
+[color=lime]PW Hinterhalt +75% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Morkas Retter]
+[size=10]aus dem Dungeon "Überfall auf Mühlenbach"[/size][/td]
+[td align=center][color=lime]Rüstung Eis +50%/+50%/+50% [size=9]des FR[/size], 2 Runden
+Anf. Eis -25%/-25%/-25%, 2 Runden[/color][/td]
+[td align=center][color=lime]PW Zauber +100% [size=9]des FR[/size], eine Runde 	 
+PW Zauber +100% [size=9]des FR[/size], 2 Runden 	 
+PW NG +50% [size=9]des FR[/size], eine Runde 	 
+PW NG +25% [size=9]des FR[/size], 2 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Kleiner Mörser mit Stößel][/td]
+[td align=center][color=red]Ini -50%, bis Kampfende[/color]
+[color=lime]Rang [skill: Säurekugel] +75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Mörser mit Stößel]
+[size=10]aus dem Dungeon "Herz der Schatten"[/size][/td]
+[td align=center][color=red]Ini -50%, bis Kampfende[/color]
+[color=lime]Rang [skill: Säurekugel] +3 +75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Orakelkerze der rußenden Ahnung]
+[size=10]aus dem Dungeon "Heilige Hallen"[/size][/td]
+[td align=center][color=lime]Rüstung Psycho +3/+1/+1, bis Kampfende
+WA +20% [size=9]des FR[/size], 3 Runden 	 
+Ini +200% [size=9]des FR[/size], 3 Runden[/color]
+[color=red]Aktionen -1, 3 Runden[/color] 
+[color=lime]MP +34% [size=9]der HS[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Pedrocks magischer Stirnreif]
+[size=10]aus dem Dungeon "Die Manufaktur der Donnerbüchsen"[/size]
+[size=10][color=red]nur für Schütze[/color][/size][/td]
+[td align=center][color=lime]Ini +150% [size=9]des FR[/size], bis bis Kampfende 	 
+Aktionen +1 +8% HS +13% [size=9]des FR[/size], bis bis Kampfende 	 
+Erholung Manapoints +34% [size=9]des FR[/size], bis bis Kampfende
+Rang [skill: Erste Hilfe] +2, bis bis Kampfende
+Wirkung [skill: Erste Hilfe] +100% [size=9]des FR[/size], bis bis Kampfende[/color][/td]
+[td align=center][color=red]AW NK -999 -100%, bis bis Kampfende 	 
+AW FK -999 -100%, bis bis Kampfende 	 
+AW Sozial -10%, bis bis Kampfende 	 
+AW Naturgewalt -999 -100%, bis bis Kampfende 	 
+AW Explosion -999 -100%, bis bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Pedrocks magischer Ring]
+[size=10]aus der Quest "Jenseits des Abgrunds"[/size]
+[size=10][color=red]nur für Schütze[/color][/size][/td]
+[td align=center][color=lime]Ini +150% [size=9]des FR[/size], bis bis Kampfende 	 
+Aktionen +1 +8% HS +13% [size=9]des FR[/size], bis bis Kampfende 	 
+Erholung Manapoints +34% [size=9]des FR[/size], bis bis Kampfende
+Rang [skill: Erste Hilfe] +3, bis bis Kampfende
+Wirkung [skill: Erste Hilfe] +125% [size=9]des FR[/size], bis bis Kampfende[/color][/td]
+[td align=center][color=red]AW NK -999 -100%, bis bis Kampfende 	 
+AW FK -999 -100%, bis bis Kampfende 	 
+AW Sozial -10%, bis bis Kampfende 	 
+AW Naturgewalt -999 -100%, bis bis Kampfende 	 
+AW Explosion -999 -100%, bis bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Pedrocks Umhang des verdeckten Schusses]
+[size=10]aus dem Dungeon "Herz der Schatten"[/size]
+[size=10][color=red]nur für Schütze[/color][/size][/td]
+[td align=center][color=red]Aktionen -1, Rundenende[/color]
+[color=lime]Aktionen +1, bis Kampfende ab nächster Runde[/color][/td]
+[td align=center][color=lime]AW FK +34% [size=9]des FR[/size], bis Kampfende
+PW FK +125%[size=9]des FR[/size], bis Kampfende
+PW NK +125%[size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Kleine Reibschale mit Pistill]
+[size=10][color=red]nur für Schütze[/color][/size][/td]
+[td align=center][color=red]Ini -50%, bis Kampfende[/color]
+[color=lime]Rang [skill: Giftpfeil] +75% [size=9]des FR[/size], bis Kampfende
+Rang [skill: Giftbolzen] +75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Reibschale mit Pistill]
+[size=10]aus dem Dungeon "Herz der Schatten"[/size]
+[size=10][color=red]nur für Schütze[/color][/size][/td]
+[td align=center][color=red]Ini -50%, bis Kampfende[/color]
+[color=lime]Rang [skill: Giftschuss] +75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Rindenstück der Sturmeiche]
+[size=10]aus dem Dungeon "Ein ruhiger Tag im Gasthaus..."[/size]
+[size=10][color=red]nur für Barbar[/color][/size][/td]
+[td align=center][color=lime]Rüstung NK H/S/S +34%/+17%/+0 [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Rituelle Schamanentrommel]
+[size=10]aus dem Quest-Dungeon "Das Rattennest"[/size]
+[size=10][color=red]nur für Schamane[/color][/size][/td]
+[td align=center][color=lime]CH +2 +34% [size=9]des FR[/size], bis Kampfende 	[/color] 
+[color=red]Wa -1, bis Kampfende 	 [/color]
+[color=lime]MP-Reg +4 +100% [size=9]des FR[/size], bis Kampfende 	 
+Wirkung [skill: Beruhigende Worte] +3 +50% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Schminke des traurigen Clowns]
+[size=10]aus dem Dungeon "Katz und Maus"[/size]
+[size=10][color=red]nur für Gaukler[/color][/size][/td]
+[td align=center][color=lime]Charisma +1 unbegrenzt
+Erholung Manapoints +20% [size=9]des FR[/size] unbegrenzt
+Rang [skill: Gaukelei] +1+34% [size=9]des FR[/size] unbegrenzt[/color][/td]
+[td align=center][color=lime]PW Zauber +25% [size=9]des FR[/size] unbegrenzt
+PW Soz +50% [size=9]des FR[/size] unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Schwefelpresse]
+[size=10][color=red]nur für Magier[/color][/size][/td]
+[td align=center][color=lime]Wirkung [i]Feuerzauber[/i] +1 +25% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center][/td][/tr] 
+
+[tr][td align=center][item: Seelenschleier]
+[size=10][color=red]nur für Mönch, Priester[/color][/size][/td]
+[td align=center][color=lime]Willenskraft +1, unbegrenzt[/color][/td]
+[td align=center][color=lime]Parade Nahkampf +2 +20%[size=9]des FR[/size], unbegrenzt
+Parade Fernkampf +2 +20%[size=9]des FR[/size], unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Stiefel der Hast]
+[size=10]aus dem Dungeon "Die blutige Hand"[/size][/td]
+[td align=center][color=lime]SN +25% [size=9]des FR[/size], bis Kampfende 	 
+Ini +75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Talisman eines hinterhältigen Goblins]
+[size=10]aus dem Dungeon "Die alte Mine"[/size][/td]
+[td align=center][color=lime]WA +20% [size=9]des FR[/size], 2 Runden
+Rang [skill: Netz werfen] +20% [size=9]des FR[/size], 2 Runden
+Rang [skill: Wurfwaffen] +20% [size=9]des FR[/size], 2 Runden[/color][/td]
+[td align=center][color=lime]AW FK +34% [size=9]des FR[/size], 2 Runden
+AW Hinterhalt +3 +34% [size=9]des FR[/size], 2 Runden
+PW FK +34% [size=9]des FR[/size], 2 Runden 	 
+PW Zauber +34% [size=9]des FR[/size], 2 Runden[/color] [/td][/tr]
+
+[tr][td align=center][item: Teetablett]
+[size=10]aus dem Dungeon "Offene Rechnung"[/size]
+
+[size=10]bei diesem Gegenstand ist unklar ob weitere Boni
+auf den Betroffenen versteckt sind. (siehe [post:16339953])[/size][/td]
+[td align=center][color=lime]Initiativwurf +150% [size=9]des FR[/size] bis bis Kampfende
+Anzahl Aktionen +1+8% HS +13% [size=9]des FR[/size] bis bis Kampfende
+Erholung Manapoints +34% [size=9]des FR[/size] bis bis Kampfende[/color]
+[color=Red]Rang [skill: Erste Hilfe] -150% [size=9]des FR[/size] bis bis Kampfende[/color][/td]
+[td align=center][color=lime]AW Soz +10% bis bis Kampfende[/color]
+[color=Red]AW NK -999 -100% bis bis Kampfende 	 
+AW FK -999 -100% bis bis Kampfende
+AW NG -999 -100% bis bis Kampfende
+AW Expl -999 -100% bis bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Tiefroter Seidenumhang]
+[size=10]aus dem Dungeon "Das Schloss in den Wolken"[/size][/td]
+[td align=center][color=red]Rüstung Hieb -3 / -1 / 0, 4 Runden
+Rüstung Schneid -2 / -1 / -1, 4 Runden
+Rüstung Stich -2 / 0 / 0, 4 Runden[/color]
+[color=lime]Feuerschaden NK +100%/+175%/+250% [size=9]des FR[/size], 4 Runden
+CH +25% [size=9]des FR[/size], 4 Runden 	 
+SN +25% [size=9]des FR[/size], 4 Runden 	[/color] 
+[color=red]HP-Reg -50% [size=9]des FR[/size], 4 Runden 	 [/color]
+[color=lime]Rang [skill: Tänzeln] +100% [size=9]des FR[/size], 4 Runden[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Traumfänger]
+[size=10]aus dem Dungeon "Der Steinkreis im Moor"[/size]
+[size=10][color=red]nur für Schamane[/color][/size][/td]
+[td align=center][color=lime]Anzahl Aktion +1
+[skill: Leichte Trance] +1+13% [size=9]des FR[/size][/color][/td]
+[td align=center][color=red]Parade Nahkampf -5%
+Parade Fernkampf -5%[/color][/td][/tr]
+
+[tr][td align=center][item: Traumfänger aus menschlichen Knochen und Haaren]
+[size=10]aus dem Dungeon "Expedition zum Feuerarchipel"[/size]
+[size=10][color=red]nur für Schamane[/color][/size][/td]
+[td align=center][color=red]Ini -5%, unbegrenzt 	 [/color]
+[color=lime]Aktionen +2, unbegrenzt 	 
+Rang [skill: Tiefe Trance] +1 +13% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center][color=red]PW NK -5%, unbegrenzt
+PW FK -5%, unbegrenzt[/color][/td][/tr]
+
+[tr] [td][center][item: Verdorbene Brünne]
+[size=10]aus der Clanschlacht "Der Weg nach Aram'Norah (Teil 2b)"[/size][/center][/td] 
+[td][center][color=lime]Geschicklichkeit +17% [size=9]des FR[/size]
+Stärke 17% [size=9]des FR[/size]
+Anzahl Aktionen +8% [size=9]des FR[/size][/color][/td] 
+[td][center][color=Lime]Angriff Nahkampf +34% [size=9]des FR[/size]
+Angriff Fernkampf +34%[/color]
+[color=red]Parade Fernkampf -50% [size=9]des FR[/size]
+Parade Nahkampf -50% [size=9]des FR[/size]
+Parade Zauber -50% [size=9]des FR[/size][/color][/td][/tr]
+
+[tr][td align=center][item: Zahn eines Sumpfdrachen]
+[size=10]aus dem Dungeon "Jagd auf den Sumpfdrachen"[/size][/td]
+[td align=center][/td]
+[td align=center][color=lime]AW NK +3 +50% [size=9]des FR[/size], 5 Runden
+PW Zauber +3 +50% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Zwergischer Prunkspiegel][/td]
+[td align=center][color=lime][skill: Strenger Blick]  +2+17% [size=9]des FR[/size], 3 Runden
+[skill: Imposante Gestalt] +2+17% [size=9]des FR[/size], 3 Runden
+[skill: Verwegener Auftritt] +2+17% [size=9]des FR[/size], 3 Runden[/color][/td]
+[td align=center][color=lime]PW Falle +4+17% [size=9]des FR[/size], 3 Runden
+PW HiHa +4+17% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[/table]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[h1]Übersicht der restlichen Artefakte[/h1]
+Für AdSaGa und AdS gleichermaßen verwendbar.
+
+wenn nicht anders angegeben wirken sie unbegrenzt.
+
+[table border=2]
+[tr][td align=center]Name[/td]
+[td align=center]Boni auf Eigenschaften[/td]
+[td align=center]Boni auf Würfe[/td][/tr]
+
+[tr][td align=center][item: Amulett der Behauptung]
+[size=10]aus [battle_info:WE_t50|Die Befreiung von Herzogin Yuria von Asum'Rahin][/size][/td]
+[td align=center][/td]
+[td align=center][color=lime]PW Sozial +750% [size=9]des FR[/size], Rundenende[/color][/td][/tr]
+
+[tr][td align=center][item: Blechgrille]
+[size=10]aus "Weihnachtsaktion" 2007[/size][/td]
+[td align=center][color=lime]MP-Reg +1 +34% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][color=lime]PW Sozial +4 +50% [size=9]des FR[/size], bis Kampfende[/color]
+[color=red]PW Hinterhalt -4, bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Crizas Weltenlauf][/td]
+[td align=center][color=lime]Ini +2+25% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Damodreds Kreis der Bannung]
+[size=10]aus dem Dungeon "Der purpurne Bannkreis"[/size][/td]
+[td align=center][color=lime]Heiliger Schaden +1+25%/+1+75%/+1+75% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][color=lime]PW Zauber +2 +20% [size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Das Gefäß der Läuterung]
+[size=10]droppt nicht mehr[/size][/td]
+[td align=center][color=red]HP-Reg -4 -34% [size=9]des FR[/size], 7 Runden[/color]
+[color=lime]MP-Reg +2 +25% [size=9]des FR[/size], 7 Runden[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Erstes Blatt des Weidenkätzchens]
+[size=10]aus "Frühlings-Aktion"[/size][/td]
+[td align=center][color=lime]HP +34% [size=9]des FR[/size], unbegrenzt
+MP +2, unbegrenzt[/color][/td]
+[td align=center][color=lime]PW Sozial +2, unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Huberius' Ring]
+[size=10]aus dem Dungeon "Spuk im Zeughaus"[/size][/td]
+[td align=center][color=lime]MP-Reg +50% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Kleine Spieluhr]
+[size=10]aus dem Dungeon "Spuk im Zeughaus"[/size][/td]
+[td align=center][color=red]WA -2, 5 Runden[/color]
+[color=lime]HP-Reg +34% HS, 5 Runden
+MP-Reg +34% HS, 5 Runden[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Krönchen aus Birkenbast]
+[size=10]???[/size][/td]
+[td align=center]
+[color=lime]Mana Schaden +2+25%/+3+50%/+4+75% [size=9]des FR[/size], 3 Runden
+Int +2 +25% [size=9]des FR[/size], 3 Runden
+HP-Reg +2 +25% [size=9]des FR[/size], 3 Runden
+[/color][/td]
+[td align=center][color=lime]AW Zauber +50% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Kugel der unvollkommenen Unsichtbarkeit]
+[size=10]aus dem Dungeon "Der purpurne Bannkreis"[/size][/td]
+[td align=center][color=lime]Ini +25% [size=9]des FR[/size], eine Runde
+Rang [skill: Lautloser Gang] +1 +20% [size=9]des FR[/size], 2 Runden
+Rang [skill: Verschleiern] +1 +20% [size=9]des FR[/size], 2 Runden[/color][/td]
+[td align=center][color=lime]PW NK +3 +34% [size=9]des FR[/size], 2 Runden
+PW FK +3 +34% [size=9]des FR[/size], 2 Runden
+PW Zauber +2 +25% [size=9]des FR[/size],  2 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Lostopf]
+[size=10]aus "WM-Aktion 2010"[/size]
+[color=silver]WICHTIG: Das ? bedeutet [u]hier[/u], dass der 
+Wert davor den einer schwanken kann.
+Von 1% bis 200% des Wertes.[/td]
+[td align=center]ST -1,00 +2?, unbegrenzt ab folg. Runde
+KO -1,00 +2?, unbegrenzt ab folg. Runde
+IN -1,00 +2?, unbegrenzt ab folg. Runde
+GE-1,00 +2?, unbegrenzt ab folg. Runde
+CH -1,00 +2?, unbegrenzt ab folg. Runde
+SN-1,00 +2?, unbegrenzt ab folg. Runde
+WA -1,00 +2?, unbegrenzt ab folg. Runde
+WI-1,00 +2?, unbegrenzt ab folg. Runde
+HP-Reg -1,00 +2?, unbegrenzt ab folg. Runde
+MP-reg -1,00 +2?, unbegrenzt ab folg. Runde[/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Regenbogenfarbenes Pulver des Verschwindens]
+[size=10]aus "???"[/size]
+
+[size=10]bei diesem Gegenstand ist unklar, ob es noch weitere versteckte Boni gibt (siehe [post:16339953])[/td]
+[td align=center][color=lime]Rüstung Feuer/Eis/Blitz/Mana (Zauber) +1+25%/+17%/+0 [size=9]des FR[/size][/color], 3 Runden[/td]
+[td align=center][color=red]Angriff Magisch -20% [size=9]des FR[/size], 3 Runden[/color]
+[color=lime]Parade NK +20% [size=9]des FR[/size], 3 Runden
+Parade FK +20% [size=9]des FR[/size], 3 Runden
+Parade Mag +75% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Rute]
+[size=10]aus "Weihnachtsaktion"[/size][/td]
+[td align=center][color=lime]Schaden NK H/S/S +3 (z), 3 Runden
+Schaden FK H/S/S +3 (z), 3 Runden
+SN +20% [size=9]des FR[/size], 3 Runden
+WA +20% [size=9]des FR[/size], 3 Runden
+Ini +20% [size=9]des FR[/size], 3 Runden[/color]
+[color=red]WI -2, 3 Runden[/color][/td]
+[td align=center][color=lime]AW NK +100% [size=9]des FR[/size], 3 Runden
+AW FK +100% [size=9]des FR[/size], 3 Runden[/color]
+[color=red]PW Sozial -50% [size=9]des FR[/size], 3 Runden[/color]
+[color=lime]PW NK +75% [size=9]des FR[/size], 3 Runden
+PW FK +75% [size=9]des FR[/size], 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Splitter eines Mondsteins][/td]
+[td align=center][color=lime]CH +34% [size=9]des FR[/size], bis Kampfende
+MP-Reg +34% [size=9]des FR[/size], bis Kampfende
+Rang [i]Göttliche Unterstützung[/i] +34% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Steinkreissplitter]
+[size=10]aus dem Dungeon "Der Steinkreis im Moor"[/size][/td]
+[td align=center][color=lime]IN +1, 4 Runden
+MP-Reg +3 +34% [size=9]des FR[/size], 4 Runden[/color][/td]
+[td align=center][color=lime]PW Zauber +5 +50% [size=9]des FR[/size], 4 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Stofflamm]
+[size=10]aus der Osterschlacht 2011[/size][/td]
+[td align=center][color=red]Initiativwurf -20%, bis bis Kampfende[/color]
+[color=lime][skill: Mittagspause] +1+20% [size=9]des FR[/size], bis bis Kampfende[/color][/td]
+[td align=center][color=lime]PW Soz +75% [size=9]des FR[/size] + 25% HS, bis bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Talisman des Koboldweisen]
+[size=10]aus dem Dungeon "Manufaktur im verlassenen Tal“"[/size][/td]
+[td align=center][color=lime]ST +2, 7 Runden
+IN +34% [size=9]des FR[/size], 7 Runden[/color]
+[color=red]WI -34% [size=9]des FR[/size] , 7 Runden[/color][/td]
+[td align=center][color=lime]AW Zauber +3 +50% [size=9]des FR[/size], 7 Runden[/color]
+[color=red]RW NK -3, 7 Runden
+PW FK -3, 7 Runden
+PW Zauber -3, 7 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Thorwin Turnags magischer Fokus]
+[size=10]aus dem Dungeon "Offene Rechnung"[/size]
+
+[size=10]bei diesem Gegenstand ist unklar ob weitere Boni
+auf den Betroffenen versteckt sind. (siehe [post:16339953])[/size][/td]
+[td align=center][color=lime]Fertigkeiten der Klasse [i]Freie Zauber (defensiv)[/i] +25% [size=9]des FR[/size], bis Kampfende
+Fertigkeiten der Klasse [i]Wissen der Alten[/i] +25% [size=9]des FR[/size] bis Kampfende[/color][/td]
+[td align=center][color=lime]AW Zauber +50% [size=9]des FR[/size] bis Kampfende
+PW Zauber +50% [size=9]des FR[/size] bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Umhang des Bleichen][/td]
+[td align=center]Wirkung nur als Set:[/td]
+[td align=center][post:16319280][/td][/tr]
+
+[tr][td align=center][item: Veilchenwasser][/td]
+[td align=center][color=lime]CH +1, bis Kampfende
+WI +25% [size=9]des FR[/size], bis Kampfende
+MP +34% [size=9]des FR[/size] , bis Kampfende[/color][/td]
+[td align=center][color=lime]AW Sozial +4 +34% [size=9]des FR[/size], bis Kampfende
+PW Sozial +2 +34% [size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Vulkanherz]
+[size=10](auch als Artefakt der Schwächung nutzbar)[/size][/td]
+[td align=center]Rang [i]Feuerzauber[/i] +50% [size=9]des FR[/size], bis Kampfende
+Rang [i]Eiszauber[/i] -50% [size=9]des FR[/size], bis Kampfende
+Anf Feuerschaden +15%/+15%/+15%, bis Kampfende
+Eisschaden -15%/-15%/-15%, bis Kampfende[/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Wandlungsglocke]
+[size=10]aus dem Dungeon "Heilige Hallen"[/size][/td]
+[td align=center][color=lime]KO +1+10% [size=9]des FR[/size], bis Kampfende
+ST +1+10% [size=9]des FR[/size], bis Kampfende
+GE +1+10% [size=9]des FR[/size], bis Kampfende
+WI +1+10% [size=9]des FR[/size], bis Kampfende
+SN +1+10% [size=9]des FR[/size], bis Kampfende
+CH +1+10% [size=9]des FR[/size], bis Kampfende
+IN +1+10% [size=9]des FR[/size], bis Kampfende
+WA +1+10% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Wassereimer]
+[size=10](auch als Artefakt der Schwächung nutzbar)[/size][/td]
+[td align=center]Rüstung Feuer +100%/+75%/+50% [size=9]des FR[/size], 2 Runden
+Schaden Feuer (alle) -50%/-100%/-150% [size=9]des FR[/size]  (z), 2 Runden
+Rang [i]Abhärtung[/i] +3, 2 Runden
+Anf. Blitz +25%/+25%/+25%, 2 Runden[/td]
+[td align=center][/td][/tr]
+
+[tr][td align=center][item: Weihrauchbrenner]
+[size=10]aus dem Dungeon "Heilige Hallen"[/size]
+[size=10][color=red]nur für Priester[/color][/size][/td]
+[td align=center][color=lime]WI +4, 7 Runden
+Aktionen +1, 7 Runden[/color]
+[color=red]HP -10%, 7 Runden
+HP-Reg -125% HS, unbegrenzt[/color]
+[color=lime]MP-Reg +34% [size=9]des FR[/size], 7 Runden[/color][/td]
+[td align=center][color=lime]PW NK +200% [size=9]des FR[/size], 7 Runden
+PW FK +200% [size=9]des FR[/size], 7 Runden
+PW Zauber +200% [size=9]des FR[/size], 7 Runden 
+PW Sozial +300% [size=9]des FR[/size], 7 Runden 
+PW NG +150% [size=9]des FR[/size], 7 Runden
+PW Hinterhalt +100% [size=9]des FR[/size], 7 Runden
+PW Krankheit +100% [size=9]des FR[/size], 7 Runden[/color][/td][/tr]
+
+[/table]

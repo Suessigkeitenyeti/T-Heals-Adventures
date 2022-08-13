@@ -1,0 +1,139 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Hinten, Zentrum, Rechts, Links, Vorne
+Schamane: Levelabhängig
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler (mindestens 40HP pls, falls ihr Ausrüstung ändert: NG PW items rein)
+Zentrum: Rest
+Hinten: FKler (mit FK PW)
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Waldräuber und Schützen Spawnen nach Runde 1 rein, Runde 1 HR kann für Buffs genutzt werden, da Anführer PW buffs bekommt
+Allgemein: Runde 1 Buffs, ab Runde 2 angreifen, sollte recht einfach sein
+
+Paladin: Sphäre des Schutzes H/V
+Gladiator: Runde 2 Netzt H
+Mönch: Verschleiern H/V
+Gaukler: -
+Dieb: Beutelschneiden sowM
+Priester: [item: Medaillon mit dem Psalm 15-23: Demosans Schild] H/V
+Schamanin: Runde 1 Pet und Buffs, danach Curare Rechts/Links/V
+Quacksalber: [skill: Experimentelle Stärkung] L ohne violett
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Runde 1 Verschleiern H/V (falls du es noch hast)
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Waldhüter beschwört Schlingpflanzen und greift mit NG an!
+Allgemein: Anders als lvl 1 kann hier in Runde 1 auch schon gut getroffen werden, also Haut raus! NG geht auf die NKler, also NG PW auf L!, wenn der Waldhüter stirbt ist der Kampf zuende
+
+ARF: Rücken -> Vorne (-> restliche Positionen)
+
+Paladin: Sphäre des Schutzes L (NG PW, du solltest von den Schlingpflanzen nicht getroffen werden)
+Gladiator: Netz V
+Mönch: Verschleiern V
+Gaukler: -
+Dieb: Beutelschneiden sowM
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: Stechapfel V sowM
+Quacksalber: Experimentelle Stärkung L mit violett
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Steppenharpyien, greifen per FK an
+Allgemein: Random FK Angriff Positionen, nicht per NK Angreifbar, hohe Magie PW
+
+Paladin: Sphäre des Schutzes V/L (Links in HR)
+Gladiator: Hau alle Netze raus
+Mönch: Verschleiern Zentrum
+Gaukler: -
+Dieb: Ich weiß net ob Beutelschneiden klappt, kannst ja mal ausprobieren, hast eh nix anderes was klappt
+Priester: [item: Kanon: Psalm 12-17 - Acres' Schutz] Zentrum
+Schamanin: Mutterkorn sowM
+Quacksalber: Vorbeugende Heilung H/Z
+Eismagier: Treffen
+Feuermagier: Treffen
+Schütze: Treffen
+Hasa: Treffen
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Tor vorne, Fallen V/L/R, Wächter Hinten
+Allgemein: Fallen PW für Runde 1
+
+Paladin: Sphäre des Schutzes V
+Gladiator: -
+Mönch: Verschleiern V/L
+Gaukler: -
+Dieb: Beutelschneiden wird auf dem Tor nicht klappen, also 1x für den Wärter der Warte, dann Messerkampf
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: Mutterkorn H, irgendwas V
+Quacksalber: SPRENG DAS TOR!!! WUHU!!
+Eismagier: -
+Feuermagier: 1x V -> H sowM -> V sowM
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: Krankheits Angriff, sonst nichts
+Allgemein: 
+
+Paladin: hat nix gg Krankheit
+Gladiator: hat nix gg Krankheit
+Mönch: hat nix gg Krankheit
+Gaukler: hat nix gg Krankheit
+Dieb: hat nix gg Krankheit
+Priester: [item: Aiaras Katechismus zur Genesung der Siechenden] VR Hinten, HR Links
+Schamanin: falls du was gg Krankheiten hast, hier rein
+Quacksalber: falls du was gg Krankheiten hast, hier rein
+Eismagier: hat nix gg Krankheit
+Feuermagier: hat nix gg Krankheit
+Schütze: hat nix gg Krankheit
+Hasa: hat nix gg Krankheit
+
+[hr]
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: nochmal der Wächter, sonst nix. 4 Aktionen, FK und NK
+Allgemein: 
+
+Paladin: Sphäre des Schutzes V
+Gladiator: Netz
+Mönch: Verschleiern V/L
+Gaukler: -
+Dieb: Beutelschneiden, dann Messerkampf
+Priester: [item: Medaillon mit dem Psalm 15-23: Demosans Schild] V
+Schamanin: Mutterkorn (FK hat Durschschuss, gefährlich! und NK  AW sind 80-150)
+Quacksalber: Experimentelle Stärkung L, Vorbeugende Heilung V
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+hat ja ein paar Tage um eingestellt zu werden, falls noch wem Fehler auffallen, oder Verbesserungsvorschläge hat, raus damit!

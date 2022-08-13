@@ -1,0 +1,93 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+[b]Weiter durch den Wald[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Hinten, Zentrum, Links, Rechts, Vorne
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+Hinten: Mönch
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: Essen, Trinken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: [item: Beutel mit Chuva-Larven] Vorne
+Quacksalber: Experimentelle Stärkung mit [item: Probenfläschchen mit violetter Flüssigkeit] ins Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Hinten
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Hinten
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Hinten[/quote]

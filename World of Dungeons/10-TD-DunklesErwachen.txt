@@ -1,0 +1,208 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+Wer kann bitte [item: Knoblauchbrot]  essen/mitbringen!!!
+[item: Horn eines Einhorns] einpacken
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: SdE V/Z, SdM L
+Gladiator: -
+Mönch: Verschleiern V/H
+Gaukler: -
+Dieb: Beutelschneiden
+Priester: -
+Schamanin: -
+Quacksalber: Exp Manaschub Z/H, Exp Stärkung L
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Hohe PW, PW debuffs praktisch (Magische Markierung (noch nicht vorhanden), Ziel Markieren usw) 
+Allgemein: wird nicht zurückgeschlagen, AW buffs und unbegrenzte Buffs hier rausshauen
+
+ARF: 
+Magier: Z/Rest
+FKler: H/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: [skill: Ziel markieren] falls vorhanden, [item: Blasrohrpfeile vergiftet (Mutterkorn)]
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: 1x [item: Buch: Über Kimme und Korn - Abschrift] H, 1x [item: Buch: Almanach der Zauberei - Abschrift] Z
+Hasa: -
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Runde 1 nichts los, ab Runde 2 kommen [npc:Viele kleine Spinnenkrebse], nur NK Angriffe
+Allgemein: sollte kein Problem sein
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V, [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)]
+Quacksalber: [skill: Vorbeugende Heilung] V, [skill: Experimentelle  Stärkung] L
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+Raum 1: [npc:Junger Blutwolf] greifen NK und Soz an
+Raum 2: [skill: Totale Erschöpfung] und kleiner NK/FK
+Allgemein: Soz PW wichtig, rest gut machbar
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Gaukelei]
+Dieb: -
+Priester: [item: Kanon: Psalm 33-02 - Aves' Autorität] H
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: [npc:Junges graues Einhorn] V und [npc:Verletztes Schwarzes Einhorn] H, magisch nicht treffbar (zu hohe PW)
+Allgemein: NUR Hinten Angreifen!
+
+ARF: H/NICHTS
+
+Paladin: [skill: Sphäre der Macht] iR
+Gladiator: Abwarten und nichts Tun
+Mönch: Abwarten und nichts Tun
+Gaukler: falls du es probieren möchtest: [skill: Hinterhalt] SowM -> Angriff wenn du im Rücken stehst
+Dieb: Beutelschneiden H -> falls du es probieren möchtest: [skill: Hinterhalt] SowM -> Angriff wenn du im Rücken stehst
+Priester: -
+Schamanin: [item: Blasrohrpfeile vergiftet (Gnolliger Eiter)] H
+Quacksalber: -
+Eismagier: MP reg und VGs Sparen ([skill: Meditation]/[skill: Askese])
+Feuermagier: MP reg und VGs Sparen ([skill: Meditation]/[skill: Askese])
+Gele: [item: Buch: Über Kimme und Korn - Abschrift] H
+Hasa: -
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: schon wieder ne Kneipgenschlägerei
+Allgemein: ARF beachten, dann kein problem
+
+ARF: Z/V/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: [item: Blasrohrpfeile vergiftet (Gnolliger Eiter)] alle posi
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: NK und NG
+Allgemein: sollte kein probelm sein
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: mit [item: Knoblauchbrot] viel einfacher!, greift auf alle Arten an. In Fledermaus gestalt nur FK
+Allgemein: Soz Angriff als erste Aktion jede Runde muss widerstanden werden
+
+Paladin: [skill: Sphäre der Zuversicht] H/V
+Gladiator: 1st Runde Netze
+Mönch: -
+Gaukler: [skill: Gauklerei]
+Dieb: -
+Priester: [item: Kanon: Psalm 33-02 - Aves' Autorität] H/L
+Schamanin: [item: Blasrohrpfeile vergiftet (Stechapfel)]
+Quacksalber: 2te VR: [skill: Experimentelle Stärkung] L
+Eismagier: -
+Feuermagier: -
+Gele: 1st VR: [item: Unsere Heldentaten: Von Drachen und Greifen] H, 2te VR: [item: Unsere Heldentaten: Von Orks und Ogern] L
+Hasa: -
+
+[hr]
+
+[b]Level 8 [/b]
+
+Besonderheiten der Gegner: keine Gegner
+Allgemein: nix machen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]

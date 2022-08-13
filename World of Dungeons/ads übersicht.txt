@@ -1,0 +1,19 @@
+[h1][color=red]Dieser Thread ist im Umbau, Fehler und fehlende Gegenstände bitte melden![/color][/h1]
+
+[h1]Rund um Artefakte der Stärkung[/h1]
+[skill: Artefakt der Stärkung anwenden] (abgekürzt: AdS) kann angewendet werden um sich selbst zu stärken. Jeder Held hat diese Fertigkeit.
+
+[skill: Artefakt der Stärkung auf Gruppe anwenden] (abgekürzt: AdSaG) kann angewendet werden die Gruppe zu stärken. Nur manche Heldenklassen haben diese Fertigkeit.
+
+[h1]Inhaltsverzeichnis[/h1]
+[list][*][post:16426118|Generatorgegenstände für alle Klassen]
+[*][post:16426119|Generatorgegenstände "Ehrenzeichen" für Paladine]
+[*][post:16426120|Generatorgegenstände "Kriegsfarben" für Barbaren]
+[*][post:16426121|Generatorgegenstände "Stimmgabeln" für Barden]
+[*][post:16426122|Stärkungsamulette aus einer damaligen Monumentaktion]
+[*][post:16426123|Stärkungsamulette aus dem Dungeon "Atreanijsh"]
+[*][post:16426124|Stärkungsamulette nur für AdS]
+[*][post:16426125|Stärkungsamulette für AdS und AdSaGa]
+[*][post:16426127|Boni auf AdS und AdSaGa]
+[*][post:16426126|Trivia]
+[/list]

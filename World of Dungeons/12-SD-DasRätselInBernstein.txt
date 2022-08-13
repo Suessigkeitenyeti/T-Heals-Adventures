@@ -1,0 +1,251 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala
+Zentrum: Rest (wenn sich rausstellt, dass eine Flanke sicher is, NKler dahin)
+Hinten: FKler + FK Pet
+
+VR Aktion:
+Schami: Sehr früh
+Gele + Priester: Früh
+Rest: Spät
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Mittagspause] [item: Knoblauchbrot] Z, irgendwas anderes alle anderne posi (zb Provianttasche)
+Schamanin: [skill: Wesen des Gefährten (Mitstreiter)] H/V
+Quacksalber: Mana Z/H, kein Gesundheitstipps nötig, keine KH Angriffe
+Eismagier: [skill: Gedankenschild]
+Feuermagier: -
+Gele: [skill: Manatransfer] Z
+Hasa: [skill: Verschleiern] V/H
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: [npc:Steinschlag] BG aw ca 40
+Allgemein: nur eine Runde, Angriff kommt bei ini 0-5
+
+Paladin: [skill: Große Sphäre des Schutzes] alle posis (2 mal, H/Z/Rest)
+Gladiator: HdT
+Mönch: [item: Konzentrationsübung des Hasen] H 1x / Z 1x, dann unbegrenzte buffs
+Gaukler: unbegrenzte Buffs
+Dieb: unbegrenzte Buffs
+Priester: unbegrenzte Buffs ([skill: Mittagspause] oder [skill: Gemeinsames Gebet])
+Schamanin: [skill: Leichte Trance] [skill: Echo der Freiheit] H/Z/Rest
+Quacksalber: [skill: Technisches Verständnis]
+Eismagier: [skill: Gedankenschild]
+Feuermagier: nix, NICHT MEDITIEREN!
+Gele: nix
+Hasa: nix
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Assassine mit Blasrohr] L/R
+[npc:Assassine mit Bogen] Z/H
+[npc:Assassine mit Krummdolch] Z/H
+Allgemein: NK/FK/HiHa Angriffe
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: [skill: Hinterhalt entdecken] sowM
+Priester: -
+Schamanin: Pet Rufen, dann Mutterkorn L/R/Z/H/Rest (MS + ES)
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V, [item: Buch: Über Kimme und Korn - Abschrift] H
+Hasa: [skill: Verschleiern] V/Z
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+Raum 1:
+[npc:Steinschlag]
+Raum 2:
+[npc:Steinriese] V/R (wahrscheinlich zufällige Flanke, daher NKler Z für diesen Dungeon)
+Raum 3:
+[npc:Steintor] H ca 1500 hp, starke resistenzen außer gegen Hiebschaden, 0 NK PW
+Allgemein: 
+
+Paladin: [skill: Große Sphäre des Schutzes] alle posis (2 mal, H/Z/Rest)
+Gladiator: Netze R/L/V
+Mönch: -
+Gaukler: [skill: Gauklerei]
+Dieb: Steinschlag ist immun GG Hiha, Steintor hat 500+ PW, Steinriesen haben aber wenig Hiha PW
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V 2x, dann restliche unbegrenzte Buffs anbringen
+Schamanin: Curare MS + ES
+Quacksalber: [skill: Experimentelle Stärkung] Z sowM, Sprengen in HR
+Eismagier: MP Sparen
+Feuermagier: Skill mit höcher HP-Dereg spammen oder [skill: Feuerpfeil] und [skill: Feuerball] abwechseln für maximum Debuff
+Gele: [item: Buch: Die Kunst des Nahkampfes - Abschrift] Z
+Hasa: -
+
+Aussitzen:
+Paladin: 2x [skill: Große Sphäre des Schutzes] H/Z/Rest -> [skill: Große Sphäre der Heilung] (Rang mind 9) H/V/Z Falls Rang 9 nicht erreicht werden kann oder zu MP-hungrig ist bescheid sagen!
+Gladiator: Netzte R/L/V -> 6x Angreifen -> Abwarten und nichts tun
+Mönch: 12x Angreifen -> Abwarten und nichts tun
+Gaukler: 8x Angreifen -> Abwarten und nichts tun
+Dieb: [skill: Beutelschneiden] L/R/V sowM, [skill: Verborgener Schnitt] L/R/V sowM -> Abwarten und nichts tun
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V 2x, dann restliche unbegrenzte Buffs anbringen, theoretisch brauchen wir durch den Pala keine VGs zu verschwenden hier, aber falls das nicht reicht: [item: Kanon: Psalm 03-11 - Aiaras Beistand] Z/H/V
+Schamane: Curare MS + ES ARF: L/R/V sowM -> Abwarten und nichts tun
+Quacksalber: 2x [skill: Experimentelle Stärkung] Z, [skill: Experimenteller Manaschub] V/Z sowM, Vitalitätsschub Z sowM (sollte nicht nötig sein, aber mal ausprobieren) -> Abwarten und nichts tun
+Eismagier: ARF: L/R/V -> Abwarten und nichts tun
+Feuermagier: ARF: L/R/V -> Abwarten und nichts tun
+Gele: [Skill: Manatransfer] Z/V -> Abwarten und nichts tun
+Hasa: 1x [skill: Verschleiern V/H], ARF: L/R/V -> Abwarten und nichts tun
+[hr]
+
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Der Fluch des Zwergenherrschers] V
+[npc:Feuerelementar] V/R
+[npc:Dschinn des Feuers] Z
+Allgemein: 
+staker Soz Debuff [skill: Der Fluch von Kargash-Peak]
+Magie Level, hohe Hiha PW, Eisschaden MVP
+
+Paladin: [skill: Große Sphäre der Zuversicht] Z/H/V 1x, dann [skill: Sphäre der Erholung] Z oder [skill: Sphäre der Elemente] Z
+Gladiator: nix
+Mönch: nix
+Gaukler: Gauklerei
+Dieb: nix
+Priester: [item: Kanon: Psalm 33-02 - Aves' Autorität] Z 1x, dann [item: Kanon: Psalm 05-05 - Schutz gegen die dunkle Kunst] V
+Schamanin: unbegrenzte Buffs
+Quacksalber: [skill: Vorbeugende Heilung] V
+Eismagier: 1x je [skill: Eiswolke] V/R/L, dann [skill: Eisgeschoss] SowM
+Feuermagier: [skill: Magischer Schutz] V, wahrscheinlich negative Anfälligkeit zu Feuer, also ehm Energie?
+Gele: [item: Buch: Almanach der Zauberei - Abschrift] Z, [item: Buch: Die defensive Zauberkunst - Abschrift] V
+Hasa: nix
+
+[hr]
+
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Zwergenskelett mit Axt und Schild] R
+[npc:Dunkelheit] Z
+[npc:Zwergenskelett mit Armbrust] Z/H
+Allgemein: 
+500er aw NG [skill: Dunkelheit]
+Viel kleiner FK V
+Viel kleiner Soz
+
+ARF: R/L/V/Z/H/iR
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 13-13 - Acres' Kunst] H
+Schamanin: Mutterkorn MS + ES
+Quacksalber: -
+Eismagier: ARF: H/Rest
+Feuermagier: ARF: H/Rest
+Gele: [item: Buch: Über Kimme und Korn - Abschrift] H, [item: Buch: Schadensvermeidungsstrategien - Abschrift] V
+Hasa: -
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner:
+[npc:Ratte] alle posis
+[npc:Riesenratte] alle posis
+Allgemein: >110 Gegner auf einmal, keiner hat mehr als 10 hp oder irgendwelche pws
+Mana sparend angreifen, Selbstbuffs nicht nötig außer MP-Reg, VGs Sparen!
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Straßenfeger]
+Dieb: [skill: Verborgener Schnitt]
+Priester: -
+Schamanin: Gnolliger Eiter MS, kein ES nötig
+Quacksalber: -
+Eismagier: [skill: Meditation], Dann [skill: Energiegewitter]
+Feuermagier: [skill: Meditation], Dann [skill: Energiegewitter]
+Gele: -
+Hasa: kein [skill: Verschleiern]
+
+[hr]
+
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Zwergenskelett mit schwerem Kriegsbeil] V
+[npc:Untoter Herrscher der Zwerge] Z
+[npc:Untoter Meister des Handwerkes] Z
+[npc:Zwergenskelett mit Armbrust] Z
+Allgemein: 
+Handwerker und Herrscher buffen andere, Handwerker Defensiv, Herrscher Offensiv
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 13-13 - Acres' Kunst] H, [item: Kanon: Psalm 22-01 - Samuels Tat] V
+Schamanin: Mutterkorn MS + ES
+Quacksalber: [skill: Experimentelle Stärkung] Z
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V, [item: Unsere Heldentaten: Von Drachen und Greifen] H, [item: Unsere Heldentaten: Von Orks und Ogern] Z
+Hasa: -
+
+[hr]
+
+
+Aussitzen:
+Paladin: 2x [skill: Große Sphäre des Schutzes] H/Z/Rest -> [skill: Große Sphäre der Heilung] (Rang mind 9) H/V/Z Falls Rang 9 nicht erreicht werden kann oder zu MP-hungrig ist bescheid sagen!
+Gladiator: Netzte R/L/V -> 6x Angreifen -> Abwarten und nichts tun
+Mönch: 12x Angreifen -> Abwarten und nichts tun
+Gaukler: 8x Angreifen -> Abwarten und nichts tun
+Dieb: [skill: Beutelschneiden] L/R/V sowM, [skill: Verborgener Schnitt] L/R/V sowM -> Abwarten und nichts tun
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V 2x, dann restliche unbegrenzte Buffs anbringen, theoretisch brauchen wir durch den Pala keine VGs zu verschwenden hier, aber falls das nicht reicht: [item: Kanon: Psalm 03-11 - Aiaras Beistand] Z/H/V
+Schamane: Curare MS + ES ARF: L/R/V sowM -> Abwarten und nichts tun
+Quacksalber: 2x [skill: Experimentelle Stärkung] Z, [skill: Experimenteller Manaschub] V/Z sowM, Vitalitätsschub Z sowM (sollte nicht nötig sein, aber mal ausprobieren) -> Abwarten und nichts tun
+Eismagier: ARF: L/R/V -> Abwarten und nichts tun
+Feuermagier: ARF: L/R/V -> Abwarten und nichts tun
+Gele: [Skill: Manatransfer] Z/V -> Abwarten und nichts tun
+Hasa: 1x [skill: Verschleiern V/H], ARF: L/R/V -> Abwarten und nichts tun
+
+genau drauf achten wie oft ihr etwas macht, in der "hau drauf" konfig waren auch einige die ihre Skills zu oft genutzt haben, wenn diese für Raum 1 und 2 gedacht waren aber bis Runde 12 weiter genutzt wurde, wenn da steht 1x X oder 2x Y, dann genau 1x oder 2x nutzen!!!
+
+
+für lvl 5 kleine änderungen:
+Schamane: Gefährte buff nicht H/V sondern V/H
+Gele: FK-Fertigkeiten oder FK-PW buch V asap, danach hinten buffen

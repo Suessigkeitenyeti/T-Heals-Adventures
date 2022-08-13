@@ -1,0 +1,88 @@
+[quote=Gim Lee][quote=Abu ibn Ali Benim@Barkladesh][b]1. Stille Wasser sind tief[/b] - Standarddungeon 
+
+[ratetable=Stille Wasser sind tief]
+[ri:general]   3   [/ri]
+[ri:def_level]   2   [/ri]
+[ri:def_type]   Nahkampf, Naturgewalt   [/ri]
+[ri:att_level]   2   [/ri]
+[ri:att_type]   Beliebig   [/ri]
+[ri:note]    Stille Wasser sind natürich nicht nur tief sondern vor allem kalt!  [/ri]
+[rl:    9760171  ]
+[/ratetable]
+[b]1.1. Aufbau, Stufenempfehlung, Verfügbarkeit[/b]
+4 Level mit 4 Räumen - Empfohlen für die Stufen 5 - 7 (offen ab Stufe 4)
+[color=lightgreen][i]Verfügbar auf allen Welten[/i][/color]
+
+[b]1.2. Belohnungen[/b]
+[post:16480677|Informationen hierzu findet ihr hier]
+
+[b]2.1. Hintergrund:[/b]
+Spät in der letzten Nacht habt ihr einem armen, älteren Mann in der Taverne ausgeholfen, so dass er sich eine Mahlzeit und die Übernachtung leisten konnte. Als Helden habt ihr euch selbstverständlich nichts weiter dabei gedacht, bis heute ein junger Mann an euch heran tritt. Er dankt euch dafür, dass ihr seinem Vater geholfen habt und erklärt, dass seine Familie zwar tatsächlich arm sei, er aber über Informationen verfüge, die sich für richtige Helden als nützlich erweisen könnten.
+
+Er erzählt, dass an einem nahegelegenen Fluß einst eine Gruppe vermögender Händler von Goblins überfallen worden sei. Einer der Händler entkam schwer verwundet und offenbarte dem örtlichen Heiler noch, dass er seine Wertgegenstände vor den Goblins verborgen habe, bevor er seinen Verletzungen erlag. Unklar ist nur, ob die Goblins das Versteck gefunden haben.
+
+Ihr dankt dem jungen Mann und beratschlagt dann längere Zeit, ob dieser Schatz tatsächlich noch zu finden sein könnte. Letztendlich entschließt ihr euch nach dem Ort zu suchen.
+
+[b]2.2. Informationen in der Enzyklopädie:[/b]
+Link zur Enzy und ggf. Karte
+
+[b]2.3. Hinweise zur Taktik:[/b]
+1. Level: Viel Angriff hilft viel.
+2. Level: Schlagt schnell zu, andernfalls werdet ihr nur so weggeschossen.
+3. Level: Ein nasses, vitales Monster. Lasst euch aber dadurch nicht beeindrucken und greift alle kräftig an.
+4. Level: Die hat Kerrunch sicher bei sich 'rausgeschmissen....
+
+[b]2.4. Überlebende berichten:[/b]
+[post:13784678|Die Heldentaten der fiesen Knüppelpossi: Stille Wasser sind tief]
+
+[b]3. Auswahl der findbaren dungeonspezifischen Uniques:[/b]
+[list]
+[*][item: Zahn einer Wasserechse]
+[*][item: Schuppe einer Wasserechse]
+[*][item: Schlauer Fuchs]
+[*][item: Schmutzige Luntenschlosspistole]
+[/list]
+
+[b]4. Besonderheiten:[/b]
+[i]- keine bekannt -[/i][/quote]
+
+
+Vorne: Paladin, Gladiator
+Zentrum Mönch
+Rechts: NK
+Hinten: Rest
+
+ARF > Rücken,H,R,L,Z,V
+Blasrohr Standard Curare
+
+Level 1
+
+Essen
+Priester / 15-23 > V 
+
+Level 2 
+
+Priester / 12-17 > Z
+Hasa / Verschleiern > V, Z
+Mönch / Flachmann
+Gaukler / Gaukelei
+
+
+Level 3
+
+Trinken
+
+Schamane / Stechapfelpfeil
+Mönch / Wechsel nach Rechts
+Priester / 05-05 > V // 03-11 > H
+Hasa / Verschleiern > V,R
+Quacki / Vorbeugende Heilung > H
+
+KEIN EISSCHADEN
+
+Level 4 
+
+Gaukler / Gaukelei
+Priester / 15-23 > V // 08-15 > R
+Quacki / Vitalitätsschub > V // Vorbeugende Heilung > H
+Hasa / Verschleiern V u. R[/quote]

@@ -1,0 +1,91 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+Eiswaffen Ausrüsten, wenn sie kein gewaltiger Schadensverlust sind, sonst muss [hero: TYet] lvl 2 alleine Aufräumen
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Rechts: NKler
+Zentrum: Rest
+Hinten: Magier
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Terug Nur (Berserker)] Vorne NK/KH
+[npc:Oger] Rechts NK/Soz
+[npc:Orkanführer] Zentrum NK
+[npc:Orkschamane] Zentrum ZA
+[npc:Schwarzelfheiler] Zentrum Buffs
+
+Allgemein: Unbegrenzte Buffs hier anbringen, ARF R/V/Z/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Prophezeien] V
+Dieb: -
+Priester: [skill: Mittagspause] mit [item: Provianttasche] H/Rest sollte reichen
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)] R/V
+Quacksalber: -
+Eismagier: [skill: Gedankenschild] V/Rest
+Feuermagier: [skill: Kraft des Eises], wenn du Eisschaden in lvl 2 machst
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Flammenirrwisch] V/L/R/Z/H/iR - NK/ZA - fast Immun gegenüber allen Schadensarten außer Eis, [skill: Flammenkuss] auf Blocker, 26 HP-dereg!!!
+[npc:Feuerball] Z - Sehr schnelle Falle, Posi Übergreifend NK-Reihenfolge
+Allgemein: 
+ARF: iR/L/R/Rest
+
+Paladin: [skill: Sphäre der Elemente] H, [skill: Sphäre der Erholung] H
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Prophezeien] V
+Dieb: [skill: Beutelschneiden] und [skill: Verborgener Schnitt] um hp-dereg anzubringen
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)] Alle Posi, damit Blocker nicht getroffen wird
+Quacksalber: [skill: Vorbeugende Heilung] V, [skill: Experimenteller Manaschub] H/Rest
+Eismagier: ALL THE DMG
+Feuermagier: Wenn möglich [skill: Eisgeschoss] oder [skill: Angriffszauber] unter MR skillen und mit Eisschaden hier angreifen!!!, wenn nicht, dann [skill: Feuerpfeil] für HP-Dereg
+Gele: [item: Buch: Almanach der Zauberei - Abschrift] H, [skill: Magische Berührung] mit Eisschaden
+Hasa: [skill: Verschleiern] V/H
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Vierfarbiges Elementar] nutzt [skill: In Rage geraten], [skill: Erddolch] und [skill: Große Giftwolke] (NG und NK), resistent gegen Feuer, nicht resistent gegen Heilig
+Allgemein: muss schnell gekillt werden, sonst killt es uns
+
+Paladin: [skill: Spähre der Macht] R, [skill: Spähre des Schutzes] V
+Gladiator: [item: Orkisches Wurfnetz] -> [item: Wurfnetz] -> [item: Todesurteil]
+Mönch: -
+Gaukler: [skill: Prophezeien] V
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] R, [item: Kanon: Psalm 02-02 - Aiaras Opfer] Z
+Schamanin: -
+Quacksalber: [skill: Experimentelle Stärkung] R, [skill: Vorbeugende Heilung] V
+Eismagier: -
+Feuermagier: [skill: Feuerpfeil] nur ein Ziel
+Gele: [item: Unsere Heldentaten: Von Orks und Ogern] R, [item: Buch: Almanach der Zauberei - Abschrift] H, [item: Unsere Heldentaten: Von Drachen und Greifen] Z
+Hasa: [skill: Verschleiern] V/H
+
+[hr]
+
+
+Eiswaffe nicht vergessen für lvl 2, besonders wichtig für Rastilion, da Energie gar nichts bringt

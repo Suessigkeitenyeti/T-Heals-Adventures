@@ -1,0 +1,32 @@
+[quote=Gim Lee]Der Weg zur Schlacht bei Kargash Peak
+
+Aufstellung:
+Blocker > V
+NK > R
+FK'ler > H
+Rest > Z
+
+Standard:
+Gaukler > Prophezeien > V, R
+Hasa > VS > V, R
+Schamane > WdSaM > Z
+Priester > Gemeinsames Gebet > H, R, Z, V / 0815 > R
+Jäger > WG > R
+
+Level 1)
+Jäger > VR > HiHa entdecken
+Gelehrter > SvS > V
+Rest: Standard
+Dauerpushes anbringen
+
+Level 2)
+AR > H, L, R
+
+Gelehrter > SvS > V, R
+SZ > FK-Parade > Z
+
+Level 3)
+AR > Z, L, Rest
+
+Gelehrter > SvS > V, R
+SZ > FK-Parade > Z[/quote]

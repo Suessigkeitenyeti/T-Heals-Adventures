@@ -1,0 +1,417 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+VR Aktionen:
+Priester: Früh
+Dieb: Spät
+
+[hr]
+
+Aufstellung:
+Vorne: Pala
+Links: NKler (inkl Dieb)
+Zentrum: Rest
+Hinten: FKler
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: -
+Gladiator: HdT ohne [item: Fässchen mit Radeburger Feuer], siehe Begründung lvl 6
+Mönch: [skill: Heilkräuter anwenden] [item: Sichelbeere (getrocknet)]
+Gaukler: -
+Dieb: -
+Priester: [skill: Mittagspause] [item: Provianttasche] sollte reichen
+Schamanin: VR: [skill: Wesen des Gefährten (Mitstreiter)] H/V -> [item: Blasrohrpfeile vergiftet (Curare)] MS, ES
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Experimenteller Manaschub] Z/H/L/V, [skill: Gesundheitstipps]
+Eismagier: [skill: Gedankenschild] Z/Rest
+Feuermagier: -
+Gele: [skill: Manatransfer] Z, [item: Buch: Mana - die Winde der Magie - Abschrift] Z/H
+Hasa: [skill: Verschleiern] V/H
+
+Mönch: [skill: Verschleiern] V/H
+Gladi: -
+Dieb: HdT ohne [item: Fässchen mit Radeburger Feuer], siehe Begründung lvl 6, [skill: Trinken] [item: Fässchen mit Radeburger Feuer] ist ok aber nicht nötig
+Klima: [skill: Modifikation: Schutz], [skill: Manaschild]
+Gele: [skill: Technisches Verständnis], [skill: Manatransfer] Z, [item: Buch: Mana - die Winde der Magie - Abschrift] Z/H
+Hasa: -
+Jäger: [skill: Heilkräuter anwenden] [item: Sichelbeere (getrocknet)]
+Barde: [skill: Mittagspause] [item: Provianttasche] sollte reichen, Manasup Z/H
+Quacki: [skill: Experimentelle Stärkung] L, [skill: Experimenteller Manaschub] Z/H/L/V, [skill: Gesundheitstipps]
+Priester: -
+Eismagier: -
+XZ-Magier: [skill: Gedankenschild] Z/Rest
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+Raum 1:
+[npc:Altes Zeughaus]
+Raum 2:
+[npc:Nasser glitschiger Boden]
+[npc:Baufälliges Dach]
+[npc:Morsche Bohlen]
+Allgemein: 
+Raum 1: ca 100 Soz debuff [skill: Unheimliche Atmosphäre]
+Raum 2: NG ca 20, FK V+H ca 90, Falle Z ca 30
+Fokus hier liegt dabei FKler, NKler und Blocker vor Debuff zu Schützen, sorry Magier/Supporter
+
+
+Paladin: 1x VR [skill: Große Sphäre der Zuversicht] H/Z/L/V, 2x [skill: Große Sphäre des Schutzes] H/Z/L/V
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Gaukelei] dann unbegrenzte buffs
+Dieb: [skill: Fallen enddecken] Z/H/L/V
+Priester: 1x [item: Kanon: Psalm 33-02 - Aves' Autorität] H, 1x [item: Kanon: Psalm 12-17 - Acres' Schutz] L
+Schamanin: [skill: Leichte Trance] + 2x [skill: Echo der Freiheit] H/Z/Rest
+Quacksalber: 1x [skill: Experimenteller Manaschub] V/L
+Eismagier: [skill: Magischer Schild]
+Feuermagier: [skill: Magischer Schild]
+Gele: 1x [item: Buch: Die Kraft des Willens - Abschrift] L
+Hasa: nix
+
+Mönch: -
+Gladi: -
+Dieb: VR AdSaGa [item: Magischer Talisman gegen böse Geister] H/V/L/Z, HR [skill: Fallen enddecken] Z/H/L/V
+Klima: [item: Feder: Gischtfink] und [item: Feder: Ringelhabicht] R, [item: Feder: Kupferfalke] H
+Gele: [item: Buch: Die Kraft des Willens - Original (gut erhalten)] L
+Hasa: -
+Jäger: -
+Barde: [skill: Gaukelei]
+Quacki: 1x [skill: Experimenteller Manaschub] V/L
+Priester: 1x [item: Kanon: Psalm 33-02 - Aves' Autorität] H, 1x [item: Kanon: Psalm 12-17 - Acres' Schutz] L
+Eismagier: [skill: Kraft des Eises] -> [skill: Magischer Schild]
+XZ-Magier: [skill: Wandlung] -> VR [skill: Magischer Schild], HR [skill: Gedankenschild]
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+Raum 1:
+[npc:Morsche Treppe]
+Raum 2:
+[npc:Geisterhund] V/L/Z/H (wahrscheinlich alle Posi zufällige Verteilung)
+Allgemein: 
+150 NK PW
+110-130 FK PW
+30-50 ZA PW
+110 ZA AW, wenn der Erfolgreich auf alle ist, dann iR -> ZA PW im Z buffen als "HiHa Blocker"
+
+Paladin: [skill: Große Sphäre des Schutzes] H/Z/L/V
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Großer Exorzismus]
+Schamanin: -
+Quacksalber: -
+Eismagier: [skill: Magischer Schild] -> [skill: Magischer Schutz] Z -> Angriff
+Feuermagier: [skill: Magischer Schild] -> Angriff
+Gele: -
+Hasa: -
+
+Mönch: -
+Gladi: -
+Dieb: [item: Magischer Talisman gegen böse Geister] Z
+Klima: Magisch Angreifen, ich weiß nicht ob Untote Tiere anfällig gegen Psycho oder Arkaner Schaden sind, wahrscheinlich beides nicht
+Gele: -
+Hasa: -
+Jäger: -
+Barde: -
+Quacki: -
+Priester: [skill: Großer Exorzismus]
+Eismagier: [skill: Magischer Schild] -> Angriff
+XZ-Magier: [skill: Magischer Schild] -> [skill: Magischer Schutz] Z sowM -> Angriff
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Maron, der Schmied] R (untot), [skill: Kommt so langsam in Fahrt]
+Allgemein: 
+400 HP
+110% Heilige Anfälligkeit
+10% Eis (Magie)
+0% Gift (alle)
+0% Säure (alle)
+33% Feuer (NK sicher, glaub alle)
+1x Soz Angriff, dann NK + Posi übergreifenden NK V/L
+
+Paladin: [skill: Aura des Paladin] -> NK
+Gladiator: [item: Plantagenwächter-Netz] -> [item: Wurfnetz] (falls du nich triffst) -> NK
+Mönch: -
+Gaukler: [skill: Gaukelei] -> NK
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, [item: Kanon: Psalm 13-13 - Acres' Kunst] H
+Schamanin: [skill: Lockruf der Natur] H, [skill: Wesen des Gefährten (Mitstreiter)] H/V -> [item: Blasrohrpfeile vergiftet (Curare)] 1x MS -> ES
+Quacksalber: -
+Eismagier: 1x [skill: Eisgeschoss] -> [skill: Gedankenschild] -> 1x [skill: Eiswolke] -> [skill: Eisgeschoss]
+Feuermagier: 1x [skill: Feuerpfeil] -> 1x [skill: Feuerball] -> [skill: Feuerpfeil]
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V/L
+Hasa: -
+
+Mönch: -
+Gladi: -
+Dieb: -
+Klima: [skill: Illusion aktivieren] H, [item: Feder: Kupferfalke] R
+Gele: -
+Hasa: -
+Jäger: [item: Brennende Nessel (vertrocknet)] L/H
+Barde: [skill: Gaukelei]
+Quacki: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, [item: Kanon: Psalm 13-13 - Acres' Kunst] H, [skill: Heiliges Inferno von Akbeth]
+Eismagier: 1x [skill: Eisgeschoss] -> 1x [skill: Eiswolke] -> [skill: Eisgeschoss]
+XZ-Magier: -
+
+[hr]
+
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+Keine Gegner
+Allgemein: 
+VGs und MP Sparen, Unbegrenzte VR buffs hier
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Gemeinsames Gebet] L/H
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+Mönch: -
+Gladi: -
+Dieb: -
+Klima: -
+Gele: -
+Hasa: -
+Jäger: -
+Barde: -
+Quacki: -
+Priester: -
+Eismagier: -
+XZ-Magier: -
+
+[hr]
+
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Wasserdschinn] V/Z
+[npc:Tote Elfendame] H
+Allgemein: 
+[skill: Eisiges Wasser] aw ca 50 + diverse andere nicht unbegrenzte NG und Soz Angriffe
+25% Heiliger Anfälligkeit
+75% Feuer (alle)
+5-10% Schneid (NK)
+0% Psycho (ZA)
+0% Gift (alle)
+0% Säure (alle)
+Massive Eis Rüstung
+hohe Magie PW
+ok-ish FK PW
+kaum NK PW
+
+Paladin: [skill: Große Sphäre der Zuversicht] H/Z/L/V
+Gladiator: 1x Netz H -> NK
+Mönch: -
+Gaukler: [skill: Gaukelei]
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, [item: Kanon: Psalm 13-13 - Acres' Kunst] H
+Schamanin: [skill: Wesen des Gefährten (Mitstreiter)] H, [item: Blasrohrpfeile vergiftet (Stechapfel)] MS, ES, ES
+Quacksalber: -
+Eismagier: MP/VGs Sparen
+Feuermagier: -
+Gele: -
+Hasa: -
+
+Mönch: -
+Gladi: -
+Dieb: AdSaGa [item: Magischer Talisman der Geister der Natur] V/H/L/Z
+Klima: [skill: Illusion aktivieren] R
+Gele: [item: Unsere Heldentaten: Von Drachen und Greifen] H, [item: Unsere Heldentaten: Von Orks und Ogern] L
+Hasa: -
+Jäger: [item: Brennende Nessel (vertrocknet)] L/H
+Barde: [skill: Gaukelei]
+Quacki: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, [item: Kanon: Psalm 13-13 - Acres' Kunst] H endweder Doppelbuffen oder danach Inferno
+Eismagier: MP/VGs Sparen
+XZ-Magier: [item: Spruchrolle der Treffsicherheit] H
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Holzstapel] V, 0 NK PW
+Allgemein: 
+wir bekommen [npc: Schützling] in unserer Gruppe Z/H mit nur ganz wenig HP, wenn wir zu wenig Feuerschaden machen erfrieren sie (-8 HP/Runde), wenn wir genug machen bekommen sie 2HP/Runde dazu
+250% Anfälligkeit Feuer
+0% Anfälligkeit Rest
+
+Ziel: 600 < x < 700 Feuerschaden machen
+Cortana hat 2 Aktionen
+Gim hat 3 Aktionen
+Tarantula hat 2 Aktionen
+Tyadanu hat 2 Aktionen
+[skill: Kleiner Segen] trifft 3 Leute (Rang 24 -> 18) -> 45 Feuer Pro Angriff -> mit 6 Angriffen 270 Feuerschaden, mit 7 Angriffen 315 Feuerschaden, mit 8 Angriffen 360 Feuerschaden, mit 9 Angriffen 405 Feuerschaden
+[skill: Großer Segen] trifft 4 Leute (Rang 21 -> 15,75)  -> 39,375 Feuer Pro Angriff -> mit 8 Angriffen 312 Feuerschaden -> mit 9 Angriffen 351 Feuerschaden
+[item: Fässchen mit Radeburger Feuer] mit HdT (Rang 10 -> 4,5) -> 11,25 Feuer Pro Angriff -> mit 9 Angriffen 99 Feuerschaden
+0,375+0,25 < 1, durchs casten auf Int der WoD Engine ignorier ich die Nachkommastellen ab hier
+270 + 351 = 621 Feuerschaden ----- ok
+315 + 351 = 666 (lol) Feuerschaden ----- ok
+360 + 312 = 672 Feuerschaden ----- ok (Wenn Gim Lee nur 2 Aktionen immer nutzen würde)
+405 + 351 = 756 Feuerschaden ----- zu viel Schaden
+Alle "ok" Werte sind zu hoch, als dass der HdT buff ok wäre, also bitte HdT nicht mit [item: Fässchen mit Radeburger Feuer] nutzen oder ganz weglassen!!!
+
+Das Einfachste und Sicherste ist alle 4 NKler 2 mal Angreifen zu lassen mit GS und KS sowM ohne Fässchen, die erste Runde könnte eng werden, da Sacerdos langsamer als die NKler ist, also greift Gim da 3 mal an
+KEINE FEUERWAFFEN AUSRÜSTEN
+GANZ GENAU KONFEN!
+
+
+Paladin: Abwarten und nichts tun, Heilen ab leicht verwundet
+Gladiator: NUR NK
+Mönch: (3x Angriff empK) -> (2x Angriff, 1x Abwarten alles Standard), keine Alternativ Aktionen, kein Heilen!
+Gaukler: NUR NK
+Dieb: NUR MK, kein HiHa!
+Priester: VR: [skill: Großer Segen] [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L sowM, [skill: Kleiner Segen] [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L sowM
+Schamanin: [skill: Sitz!], Abwarten und nichts tun
+Quacksalber: [skill: Experimenteller Manaschub] Z/L/Rest, Heilen ab leicht verwundet
+Eismagier: Abwarten und nichts tun (oder [skill: Meditation] / [skill: Askese])
+Feuermagier: Abwarten und nichts tun (oder [skill: Meditation] / [skill: Askese])
+Gele: [skill: Manatransfer] Z, [item: Buch: Mana - die Winde der Magie - Abschrift] Z
+Hasa: Abwarten und nichts tun
+
+
+Ziel: 600 < x < 700 Feuerschaden machen
+Camelus hat 2 Aktionen
+Fiesberti hat 3 Aktionen
+Senthor hat 2 Aktionen
+Idrena hat 2 Aktionen
+[skill: Kleiner Segen] trifft 3 Leute (Rang 24 -> 18) -> 45 Feuer Pro Angriff -> mit 7 Angriffen 315 Feuerschaden
+[skill: Großer Segen] trifft 4 Leute (Rang 18 -> 13,5)  -> 33,75 Feuer Pro Angriff -> mit 9 Angriffen 297 Feuerschaden
+[item: Fässchen mit Radeburger Feuer] mit HdT (Rang 12 -> 5) -> 12,5 Feuer Pro Angriff (13 mit GS) -> mit 9 Angriffen 117 Feuerschaden
+Fiesberti hat Feuerwaffe -> 2,6 Basis -> 6.5 Feuer pro Angriff (mit mit GS) -> mit 3 Angriffen 21 Feuerschaden
+Senthor Trinkt [item: Fässchen mit Radeburger Feuer] -> 7 Feuer pro Angriff -> 17,5 Feuer pro Angriff -> mit 2 Angriffen 35 Feuerschaden
+
+315 + 297 + 21 + 35 = 668 Feuerschaden ----- ok
+Alle "ok" Werte sind zu hoch, als dass der HdT buff ok wäre, also bitte HdT nicht mit [item: Fässchen mit Radeburger Feuer] nutzen oder ganz weglassen!!!
+
+Das Einfachste und Sicherste ist GS auf NKler und Blocker und KS auf NKler für genug aber nicht zu viel Feuerschaden
+
+Mönch: Nur NK, kein [skill: Verschleiern], keine Heilung!
+Gladi: Nur NK mit Feuerwaffe
+Dieb: Nur MK
+Klima: Nur NK, keine Klingenmagie
+Gele: [skill: Manatransfer] Z
+Hasa: Abwarten und nichts tun
+Jäger: Abwarten und nichts tun
+Barde: Abwarten und nichts tun
+Quacki: [skill: Experimenteller Manaschub] Z/H/L/V
+Priester: VR: [skill: Großer Segen] [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L sowM, [skill: Kleiner Segen] [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L/V sowM
+Eismagier: Abwarten und nichts tun (oder [skill: Meditation] / [skill: Askese])
+XZ-Magier: Abwarten und nichts tun (oder [skill: Meditation] / [skill: Askese])
+
+[hr]
+
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Flut] iR
+Allgemein: 
+1x NG Angriff AW ca 50-60, kaum Schaden, reduziert FK PW gewaltig (evtl auf 0)
+1 FK Angriff auf zufällige Positionen AW 30-60 zwischen 5(Erfolg) und 40(kritischer Erfolg) Hiebschaden
+6 Runden überleben, sollte easy sein
+
+
+Paladin: [skill: Große Sphäre des Schutzes] Z/H/L/V sowM
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: [skill: Magischer Schild], [skill: Dimensionsprung]
+Feuermagier: [skill: Magischer Schild], [skill: Dimensionsprung]
+Gele: -
+Hasa: [Skill: Verschleiern] H/Z/L/V sowM
+
+Mönch: -
+Gladi: -
+Dieb: AdSaGa [item: Magischer Talisman der Geister der Natur] V/Z/L/H
+Klima: iwann so runde 4-6: [item: Feder: Kupferfalke] R
+Gele: -
+Hasa: -
+Jäger: -
+Barde: -
+Quacki: -
+Priester: -
+Eismagier: [skill: Magischer Schild], [skill: Dimensionsprung]
+XZ-Magier: -
+
+[hr]
+
+
+[b]Level 8 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Insektenschwarm] V/R
+[npc:Riesenratte] V
+[npc:Teufelsratte] R
+[npc:Gemeine Fledermaus (Schwarm)] Z (ist ein "Gelände", also nicht angreifbar, 10 Aktionen, NK, KH)
+[npc:Ratte] Z
+Nachschub: mehr von allem
+Allgemein: 
+12 Runden
+
+Paladin: [skill: Große Sphäre des Schutzes] V/Z
+Gladiator: keine Netze
+Mönch: -
+Gaukler: [skill: Gaukelei]
+Dieb: wenig HP also einfach [skill: Vorborgener Schnitt]
+Priester: -
+Schamanin: [item: Blasrohrpfeile vergiftet (Gnolliger Eiter)] MS sowM, ES
+Quacksalber: [skill: Experimenteller Manaschub]
+Eismagier: [skill: Energiegewitter] oder [skill: Eiswolke]
+Feuermagier: [skill: Energiegewitter] oder [skill: Feuerball]
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] Z
+Hasa: [skill: Verschleiern] V/Z
+
+Mönch: [skill: Verschleiern] V/Z
+Gladi: -
+Dieb: -
+Klima: [skill: Illusion aktivieren] R
+Gele: -
+Hasa: -
+Jäger: -
+Barde: [skill: Gaukelei]
+Quacki: -
+Priester: -
+Eismagier: -
+XZ-Magier: -
+
+[hr]

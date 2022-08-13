@@ -1,0 +1,120 @@
+[quote=Gim Lee][quote=Hyazinth Wasserblume (Ca)@Xerasia][h1]Ein einfacher Botengang[/h1][i]Quest ab Stufe 2[/i]
+
+[b]Ort/e der Handlung[/b]: [list][*]Auf dem Weg nach Tiefenfels. (Dungeon: Auf nach Tiefenfels).
+[*]Ein alter Wehrgang von Tiefenfels aus Richtung klagende Sümpfe (Dungeon: Durch den alten Wehrgang).
+[*]Quer durch die klagenden Sümpfe bis zum Forschungsturm Hartmuts Sohns im Süden der Sümpfe (Dungeon: In die klagenden Sümpfe).
+[*]Der Forschungsturm von Hartmuts Sohn in den klagenden Sümpfen (Dungeon: Der Turm).
+[*]Das Lager der Rattenmenschen nahe dem Forschungsturm in den klagenden Sümpfen (Dungeon: Das Rattennest).[/list]
+[b]Handlung[/b]:
+
+"Euer langjähriger Freund, der Gelehrte Hartmut Hohenstein, hat euch beauftragt, seinem Sohn eine Nachricht zu überbringen.  Da Hartmut ein wirklich langjähriger Freund ist und außerdem auch noch ganz gut bezahlt, nehmt ihr den Auftrag an ..."
+
+Um die Nachricht zu Hartmuts Sohn zu bringen, müssen sich die Helden zu dem Forschungsturm nahe der klagenden Sümpfe begeben. Zunächst aber geht es erst einmal [em]Auf nach Tiefenfels[/em]. So verlassen sie ihre Heimat und machen auf den Weg, der zwei Tage dauert. Während der Reise werden sie jeweils von Banditen, von Orks und von veränderten Menschen überfallen.
+
+Die Helden haben sich entschieden [em]Durch den alten Wehrgang[/em] zu gehen, um zum klagenden Moor zu gelangen. Sie folgen den Tunneln und kämpfen sich dabei durch eine Horde von Untoten.
+
+Die Helden gelangen [em]In die klagenden Sümpfe[/em] und kämpfen sich durch sie durch bis zum Forschungsturm. Dieser wurde aber von Rattenmenschen überfallen. Sie haben Hartmuts Sohn entführt und den Turm geplündert.
+
+Die Helden beschließen zuerst den [em]Turm[/em] genauer zu untersuchen. Dort machen sie Bekanntschaft mit dem Forschungsvorhaben von Hartmuts Sohn - einem Golem. Ansonsten ist in dem Turm aber nicht viel nützliches zu finden.
+
+Die Rattenmenschen haben sich einen Weg in den Turm hineingegraben - im Keller befindet sich ein großes Loch. Die Helden machen sich auf [em]Das Rattennest[/em] auszuräuchern und Hartmuts Sohn zu retten. Sie kämpfen sich durch Horden von Rattenmenschen und befreien am Ende Hartmuts Sohn.
+
+[b]Charaktere[/b]: Hartmut Hohenstein ist der Auftraggeber dieser Quest. Hier wird klar, dass er einen Sohn hat.
+[b]Anknüpfpunkte[/b]: Keine ersichtlich.
+[b]Versionen/Trigger[/b]: Keine bekannt.[/quote]
+
+
+[b]Standards zur Taktik:[/b]
+
+[b]Auf nach Tiefenfels[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Links, Rechts, Vorne
+Schamane: Mutterkorn
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: nur Pack
+Allgemein: Essen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Ein Paar Ork Bogenschützen und Nahkämpfer
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Auerochse, Flächennahkampfangriff
+Allgemein: Trinken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: Curare
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne, Zentrum
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Veränderte Menschen mit Bogen und Nahkämpfer
+Allgemein: Trinken die 2.
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne, Zentrum[/quote]

@@ -1,0 +1,62 @@
+[quote=Sacerdos]Aufstellung:
+Vorne: Ritter, Mönch
+Zentrum: NK
+Hinten: Alle Anderen
+
+
+ARF Standard , Heilung Standard
+Hubert ist immer mit an Bord und muss überleben
+
+Lvl 1
+Ein großer Eber mit 3 Aktionen und AoE
+Wilder Eber (jung) greift im Nahkampf an (Rammangriff/65)
+
+GdM sA Vo 1x
+KR SvS Vo 1x
+kS 15-23 Vo 1x
+
+Lvl 2
+Einige Wölfe
+Wolf1 greift im Nahkampf an (Biss/44)
+
+GdM sA Vo 1x
+KR SvS Vo 1x
+kS 15-23 Vo 1x
+
+
+Lvl 3
+kein Gegner
+
+Lvl 4
+Waldgnome.
+Gemeiner Waldgnom mit Blasrohr1 greift per Fernkampf an (Blasrohr (Gnollinger Eiter)/26)
+auf vorne
+Waldgnomtiertreiber1 greift im Nahkampf an (Stangenwaffen/40)
+Angriff: Hinten, Zentrum
+ARF iR, Re,Li, Hi,Ze,Vo
+GdM PF Vo 2x
+KR SvS Vo 2x
+kS 15-23 Vo 2x
+
+
+Lvl 5
+Paar Schützen sonst NK
+Betrunkener Holzfäller mit Armbrust2 greift per Fernkampf an (Armbrust schießen (Bolzen)/32) auf zentrum
+
+Angriff: Hinten, Zentrum
+GdM PF Ze 2x in VR
+KR SvS Vo 1x
+kS 15-23 Ze 2x in VR
+
+
+Lvl 6
+Goblins. Heiler, Schützen, Schamanen und Hinterhalt.
+Goblin-Zusammenflicker2 greift per Fernkampf an (Schleuder (Fustibal)/32) auf vorne, zentrum
+Goblinsöldner2 greift im Nahkampf an (Schwertkampf/35
+
+Angriff: Rücken, Zentrum, Hinten
+GdM PF Ze 2x in VR, GdM sA Vo in HR
+KR SvS Vo 1x
+kS 15-23 Ze auch in HR
+
+Barde und Priester anschauen ob sich Lvl5 und Lvl6 mit Mana ausgeht; wenn nicht dann halt so oft das es sich ausgeht[/quote]

@@ -1,0 +1,139 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+Schamane: Levelabhängig
+Essen: Nkler: [item: Knoblauchbrot], würde für dann noch ein paar einkaufen (falls ihr CH auf 6 habt)
+Priester und FKler: Bitte 1x für beide Fkler Munition weihen und nicht verschwenden!
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler
+Zentrum: Rest
+Hinten: Magier
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Dunkler kleiner Geist (nur Magie!)
+Allgemein: So viele unbegrenzte Selbstbuffs wie möglich nutzen (Essen!), Manaentzug hinten
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, Falls vorhanden [skill: Exorzismus]
+Schamanin: 
+VR: [skill: Die Geister der Natur] (selbst auf 1 gibt dir das nen ini boost und sonst kannst du hier nichts machen)
+HR: Blocker Pet Vorne
+Quacksalber: -
+Eismagier: [skill: Magischer Schild]!!!
+Feuermagier: [skill: Magischer Schild]!!!
+Schütze: -
+Hasa: Verschleiern H/V
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 2 Räume, fast identisch: Skelettte NK V/R/L, Schütze Z/H
+Allgemein: Heiliger/Feuerschaden sehr effektiv, Stich sehr ineffektiv, soziale Angriffe
+
+Paladin: Sphäre der Zuversicht V/L
+Gladiator: -
+Mönch: -
+Gaukler: Gauklerei
+Dieb: Fallen entschärfen (1x)
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: 1x Mutterkorn Hinten danach Curare L/R/V
+Quacksalber: Vorbeugende Heilung V, Experimentelle Stärkung (ohne Probenfläschchen) Links
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern V/L
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 2 Räume: 1st: Fallen, 11HP je ; 2te: Zombies auf allen Positionen (inkl Rücken)
+Allgemein: Zombies greifen Sozial, NK und mit Krankheit an
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gauklerei
+Dieb: VR: Fallen Entdecken V 1x, dann NK, nicht Hinterhalt, Zombies stehen hinten und würden dich angreifen!
+Priester: 1x [item: Kanon: Psalm 47-11 - Rashons Obhut] falls möglich, sonst 1x [item: Medaillon mit dem Psalm 15-23: Demosans Schild] Hinten; danach [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: Curarae Rücken/R/L/V
+Quacksalber: Exp Stärkung (ohne Probenfläschchen) L, Vorbeugende Heilung V
+Eismagier: -
+Feuermagier: -
+Schütze: 1x VR: Fallen Entdecken L (muss nicht hoch sein, nur zur Sicherheit), Rücken mit geweihter Munition, rest normal
+Hasa: Verschleiern H/V, Rücken mit geweihter Munition und Pistolen, Rest ohne geweihte Munition
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Skellet NK V/L/Z ; Schützen Z
+Allgemein: Champion auf der Flanke mit 3 Aktionen, Verblichener Zentrum mit Buffs/Debuffs
+ARF: Rücken/Rechts/Links/Zentrum/Hinten/Vorne
+
+Paladin: Sphäre des Schutzes V
+Gladiator: Netz R/L sowM Fischernetz > Spinnennetz
+Mönch: Trinken!
+Gaukler: Gauklerei
+Dieb: Hier ist Hinterhalt wieder ok
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L, 1st HR: [item: Medaillon mit dem Psalm 15-23: Demosans Schild] V
+Schamanin: Curarae L/R sowM, Stechapfel H sowM, Curarae V sowM
+Quacksalber: Vorbeugende Heilung V sowM, Experimentelle Stärkung L (mit Probenfläschchen) sowM
+Eismagier: ARF!
+Feuermagier: ARF!
+Schütze: Heilige Munition R/L, rest normal, ARF!
+Hasa: Verschleiern V/L, Heilige Pistolen und Munition R/L, keine heilige Munition Rest, ARF!
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: BOSS! Wir müssen das Mana von dem Reduzieren um zu gewinnen!
+Allgemein: KONFIG FÜR DIESES LEVEL SEHR WICHTIG!!! (Magieangriffe Vorne und Hinten), wenn wer noch Ideen zur MP Abzug hat, hier kreativ werden! Boss hat Recht gute PW, nicht extrem, aber 90%-100% Resistenz auf alles außer (Tiernahrung) ehm Heiligen Schaden aber ne HP Reg von 20/Runde und Giftschaden auf NK
+
+
+Paladin: Sphäre des Schutzes V
+Gladiator: Netz
+Mönch: Trinken!
+Gaukler: -
+Dieb: -
+Priester: [item: Medaillon mit dem Psalm 15-23: Demosans Schild] V,  1st HR: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: Stechapfel sowM
+Quacksalber: Vorbeugende Heilung V sowM, Experimentelle Stärkung L (falls noch da Probe, sonst egal) sowM
+Eismagier: Hoffen, dass du triffst
+Feuermagier: Hoffen, dass du triffst
+Schütze: -
+Hasa: Verschleiern V/L/H
+
+kleine änderung:
+Rast geht ins Zentrum, ich sollte genug HP haben um 2 mal getroffen werden zu können ohne zu sterben (hoffendlich)
+[item: Medaillon mit dem Psalm 15-23: Demosans Schild] bitte nicht vergessen nachzulegen!
+
+lvl 2:
+Mutterkorn H wird zu Mutterkorn H/Z (hatte den im zentrum übersehen, sry)
+
+lvl3:
+Blasrohr ARF bitte richtig einstellen! Curarae in den Rücken hätte Rastilion am leben gehalten
+(15-23 hätte sicher auch geholfen)
+
+lvl4:
+Vorbeugende Heilung V sowM wird zu Vorbeugende Heilung Z sowM
+Stechapfel H sowM wird zu Mutterkorn Z sowM (hatte den Verblichenen Überschätzt/unsere FKler snipes unterschätzt)
+
+lvl 5:
+beide Magier: Magischer Schutz Z sowM, danach angreifen. ich hatte übersehen, dass die Angriffe zufällig sind, sah wie nur Hinten aus
+
+edit: falls sonst noch ver verbesserungsvorschläge hat, raus damit!

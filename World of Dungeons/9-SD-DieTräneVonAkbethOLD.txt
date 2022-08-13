@@ -1,0 +1,87 @@
+[quote=Gim Lee]Aufstellung:
+Vorne: Ritter
+Zentrum NK
+Hinten: Alle Anderen
+
+
+Angriffsreihenfolge: Rücken, Hinten, Zentrum, Rechts, Links, Vorne
+
+
+Standard: Gaukler > Prophezeien > V, Z
+
+Level 1 Vor dem Tempel
+
+Akbethtempelwache mit Flegel vorne, rechts
+Akbethtempelwache mit Flegel8 greift im Nahkampf an (Hiebwaffen/81)
+
+die heilen sich immer wieder
+
+Hasa - Verschleiern vorne
+Ritter - Hauptmann zentrum
+Gelehrter - VR Buch: Schadensvermeidungsstrategien - Abschrift vorne
+HR Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift zentrum
+
+
+Level 2 Der Brunnen
+
+Der Brunnen des Akbeth greift magisch an (Akbeths Segen/504)
+
+Mana sparen. keine buffs
+
+
+Level 3 Ein Wachraum
+
+Akbethtempelwache mit Flegel vorne, links, rechts
+Carossifanatiker mit Flegel zentrum
+Akbethtempelwache mit Flegel7 greift sozial an (Verfluchen/38/9 MP) vorne
+Carossifanatiker mit Flegel greift im Nahkampf an (Hiebwaffen/120)
+
+wie lvl 1 nur
+
+Gaukler > Gaukelei
+
+Level 4 Im Geheimgang
+
+Repetierbolzenfalle
+alle starken angriffe auf vorne!
+6 fallen mir nur einem helden der entschärft wird eine aufgabe!
+
+Jäger - VR Fallen entdecken vorne
+        HR Fallen entschärfen
+
+
+Level 5 Der Gang setzt sich fort
+
+Akbethtempelwache mit Flegel links, rechts, zentrum, hinten
+Priester zentrum
+Carossi-Eiferer hinten
+Priester greift magisch an (Heiliges Inferno des Akbeth/61/9 MP) vorne
+Akbethtempelwache mit Flegel5 greift sozial an (Verfluchen/48/9 MP) vorne
+Carossi-Eiferer greift sozial an (Verdammen/121/18 MP) vorne
+
+ARF hinten, zentrum, links, rechts, vorne
+Magier Magischer Schutz vorne
+Hasa - Verschleiern vorne
+Ritter - Hauptmann hinten
+Gelehrter - VR Buch: Schadensvermeidungsstrategien - Abschrift vorne
+HR Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift zentrum
+VR Manareg hinten
+
+
+Level 6 Der heilige Raum
+
+Akbethtempelwache mit Flegel vorne, links, rechts, hinten
+Schattenelfmagier hinten
+Carossi-Eiferer zentrum
+Carossifanatiker mit Hellebarde greift im Nahkampf an (Stangenwaffen/115)
+Priester1 greift sozial an (Verdammen/68/14 MP)
+Priester1 greift magisch an (Heiliges Feuer des Akbeth/53/10 MP)
+
+wie level 5
+
+Level 7 Die Träne von Akbeth
+
+ein sehr hoher fallen entschärfen skill muss her! ca. 60!
+Jäger- VR Fallen entdecken vorne
+        HR Fallen entschärfen
+Magier Magischer Schutz VR zentrum, HR vorne[/quote]

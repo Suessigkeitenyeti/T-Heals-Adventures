@@ -1,0 +1,104 @@
+[quote][pre]
+Gegenstand - Heldenring der "Weißen Kittel"
+
+Viele Abenteurer nehmen die Heilkünste ihrer Mitstreiter für selstbstverständlich - wer hätte je von einer erfolgreichen Heldengruppe gehört in welcher niemand heilen kann? Und doch werden die Leistungen der Heiler oft kaum gewürdigt oder gar gefeiert.
+Schon vor [Jahrzehnten, hunderten... ] begannen Heiler daher die Tradition ihre Taten festzuhalten, und so zumindest unter ihresgleichen die Ehre zu erhalten die ihnen gebührt.
+Im Laufe der Zeit wandelte sich die Tradition, wurde extrovertierter, und rasch waren Flugblätter und Aushänge welche die Leistungen dieses oder jenes Heiler priesen in Tavernen, auf Märkten und selbst in finsteren Gassen so zahlreich zu finden, das sie zur Plage wurden.
+Auch mischten sich schnell werbende Texte von Scharlatenen darunter, welche ihre schwachen Leistungen übertrieben. Um dem Chaos Herr zu werden wurden die "Weißen Kittel" gegründet. Ihre Zweigstellen findet man in jeder größeren Ortschaft, und ihre regelmäßigen Boten halten auch die abseits gelegenen Orte auf dem Laufenden. Jede Zweigstelle führt akribisch Buch, und regelmäßig werden diese Aufzeichnungen verschiedener Orte verglichen um eine belastbare Darstellung der erreichten Taten der verschiedenen Mitglieder zu besitzen.
+Jene Heiler die sich durch besondere Kühnheit, Heldenmut, oder Unerschrockenheit auszeichnen werden in speziell gefertigten Pamphleten beworben, und ihre Berühmtheit lässt sie meist schnell Teil der erfahrensten Heldengruppen werden.
+Die jährlichen Abgleichungen der Aufzeichnung aller einzelnen Zweigstellen entwickelte sich bald zu seiner eigenen Festivität bei welcher alle Heiler die besonders oft erwähnt wurden, oder mit den herausragendsten Taten auffielen für die Wahl [...] nominiert werden. Die drei Heiler mit den meisten Stimmen erhalten diesen Ring, der einen strahlenden Heiler darstellt welcher über die Gruppe wacht. Jeder Abenteurer der einen dieser Ringe zu Gesicht bekommt weiß, dass ein Meister seines Faches vor ihm steht.
+
+
+Nach einer Idee von T' Yet
+
+Details
+Besonderheiten				:g0::g0: 2x veredelbar
+Klassen
+					für alle Heldenklassen
+Völker
+					ausschließlich für:
+					[*] Grenzländer
+
+Voraussetzung 				Stufe ab 22
+					[skill:Heraldik] ab 12
+					[skill: Typisch Grenzländer] ab 8
+Hitpoints 				22/22
+Wert					176 Gold/176 Gold
+Unique 					Unique in Gruppe
+Anwendungen insgesamt 			unbegrenzt
+Anwendungen pro Dungeon			unbegrenzt
+Anwendungen pro Kampf 			unbegrenzt
+Wirkung 				-
+Benötigt 				-
+Wo getragen? 				Tasche
+
+Gegenstandsklasse 			[wiki:Gegenstandsklasse - Wappen] (max. 2 Gegenstände tragbar)
+					[wiki:Gegenstandsklasse - Siegelring] (max. ein Gegenstand tragbar)
+ggf. mit Bonus auf (Probe/Wirkung)	Veredelungsart: Zierart
+Fertigkeiten				[skill:Heraldik]
+ggf. mit Bonus auf (Probe/Wirkung)
+
+Designed by 		DESIGNER
+
+
+Auswirkungen auf den Besitzer des Gegenstands
+
+Diese Boni und Mali wirken (soweit nicht anders angegeben), wenn der Gegenstand getragen wird.
+
+Boni auf den Rang von Fertigkeiten
+Fertigkeit						Modifikator
+alle Fertigkeiten der Klasse Heilfertigkeiten		[color=lime]+2[/color]
+alle Fertigkeiten der Klasse Lieder der Heilung		[color=lime]+2[/color]
+[skill:Erste Hilfe]						[color=lime]+2[/color]
+[skill:Beruhigende Worte]					[color=lime]+2[/color]	
+[skill:Hand Auflegen]						[color=lime]+2[/color]
+[skill:Gesang der Heilung]					[color=lime]+2[/color]
+[skill:Heraldik]						[color=lime]+2(a)[/color]
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird
+
+Boni auf Paraden
+Angriffsart						Modifikator
+Fernkampf						[color=lime]+4[/color]
+Zauber							[color=lime]+4[/color]
+Sozial							[color=lime]+4[/color]
+(a) nur, während der Gegenstand mit einer der oben genannten Fertigkeiten angewendet wird
+
+
+Auswirkungen auf den Betroffenen des Gegenstands
+
+Diese Boni und Mali wirken nur, wenn der Gegenstand mit einer der oben genannten Fertigkeiten
+eingesetzt wird.
+
+Boni auf den Rang von Fertigkeiten
+Fertigkeit						Modifikator				Dauer		Bemerkung
+[skill:Erste Hilfe]						[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+[skill:Beruhigende Worte]					[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+[skill:Hand Auflegen]						[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende	
+[skill:Gesang der Heilung]					[color=lime]+17% des Fertigkeitenrangs[/color]		bis Kampfende		
+alle Fertigkeiten der Klasse Heilfertigkeiten		[color=lime]+34% des Fertigkeitenrangs[/color]		bis Kampfende	
+alle Fertigkeiten der Klasse Lieder der Heilung		[color=lime]+34% des Fertigkeitenrangs[/color]		bis Kampfende		
+
+Boni auf die Wirkung von Fertigkeiten
+Fertigkeit						Modifikator				Dauer		Bemerkung
+alle Fertigkeiten der Klasse Heilfertigkeiten		[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+alle Fertigkeiten der Klasse Lieder der Heilung		[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+
+Boni auf Paraden
+Angriffsart						Modifikator				Dauer		Bemerkung
+Fernkampf						[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+Zauber							[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+Sozial							[color=lime]+50% des Fertigkeitenrangs[/color]		bis Kampfende		
+[/pre][/quote]
+
+[hr]
+
+Vergleichbare Gegenstände sind die aktuell bekannten Siegelringe, wie zum Beispiel:
+[item: Dekodierring der ''Studica Arcanum''] oder [item: Bruderschaftsring von Sards Schlitzern]
+
+Ich fand einen Paradebonus stilechter als einen Bonus auf Messerkampf oder sowas, 
+
+Es sieht nach einer Menge Fertigkeiten die hierdurch gebufft werden, aber da jeder Heiler nur Zugang zu einer der Fertigkeiten hat, sind es am Ende für jeden möglichen Heiler die Basis-Heilung und jeweils die "große" Variante.
+Auch dass Heilfertigkeits Gaben damit gebufft werden halte ich nicht für zu stark, da es ohnehin sehr einfach ist den kompletten Bonus durch Gegenstände zu bekommen. 
+Auch ein Aktiver Bonus von 50% auf die Wirkung und 34% auf den Rang lässt sich alternativ durch [skill: Bücher lesen] mit [item: Buch: Handbuch der heilenden Künste] erledigen, was zugegeben nicht alle Heilenden Klassen können, aber mir noch nie als "zu stark" vorgekommen ist.
+
+Emppfohlener Droport: unspeziefisch ab Stufe 22/23 (beziehungsweise wie andere Siegelringe)

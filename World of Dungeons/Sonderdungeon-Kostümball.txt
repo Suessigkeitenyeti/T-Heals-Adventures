@@ -1,0 +1,120 @@
+[table border=2][tr] [td]Trigger Nr.	[/td] [td]Bezeichnung[/td] [td]Kostüme[/td] [td]Belohnung[/td][/tr]
+       [tr] [td]1 [/td][td]Preisverleihung "Bestes Gruppenkostüm"
+Platz #1[/td] [td]alle 12 Helden unterschiedlich kostümiert[/td] [td][item: Die kostümierten Helden]  [/td][/tr]
+[tr] [td]2 [/td] [td]Preisverleihung "Bestes Gruppenkostüm"
+Platz #2 [/td] [td]alle Helden kostümiert -
+wobei nicht alle Kostüme unterschiedlich sind [/td] [td][item: Medaillon mit dem Gruppenkonterfei] [/td][/tr]
+[tr] [td]3 [/td] [td]"Der Kasper und der Räuber" [/td] [td]1x Räuberkostüm, 1x Gauklerkostüm [/td] [td][item: Narrenkappe des kaiserlichen Harlekins] [/td][/tr]
+[tr] [td]4 [/td] [td]"Dornröschen" [/td] [td]1x Hexenkostüm, 1x Prinzessinenkostüm [/td] [td][item: Goldene Spindel] [/td][/tr]
+[tr] [td]5 [/td] [td]"Rettung der Prinzessin durch den König" [/td] [td]1x Königskostüm, 1x Drachenkostüm (vorderer Teil),
+1x Drachenkostüm (hinterer Teil), Prinzessinnenkostüm [/td] [td][item: Kupferne Drachenschuppe], [item: Rote Drachenschuppe] oder [item: Weiße Drachenschuppe] [/td][/tr]
+[tr] [td]6 [/td] [td]"Kleiner Schwank mit viel Magie" [/td] [td]2x Feenkostüm, 2x Hexenkostüm, 2x Magierkostüm [/td] [td][item: Beutel mit goldenem Feenstaub] [/td][/tr]
+[tr] [td]7 [/td] [td]"Eine gefährliche Verwechslung" [/td] [td]3x Hasardeurenkostüm [/td] [td][item: Esmeraldas Amulett] [/td][/tr]
+[tr] [td]8 [/td] [td]"Rettung der holden Maid aus böser Macht" [/td] [td]2x Hasardeurenkostüm, 2x Räuberkostüm,
+1x Prinzessinnenkostüm [/td] [td][item: Blonde Haarlocke einer Adligen] [/td][/tr][/table]
+
+
+Tragbarkeit der Kostüme:
+Harlekin =   nicht für  Barbar  Gaukler  Schamane
+Barbar =   nicht für  Barbar
+Zauberer =   nicht für  Magier
+Drache Vorne = Alle dürfen
+Drache Hinten = Alle dürfen
+Polizist = Alle dürfen
+Räuber = Alle dürfen
+Prinzessin = Alle dürfen
+König =   nicht für  Barbar
+Hexe = Alle dürfen
+Fee = Alle dürfen
+Hasardeur=  nicht für  Hasardeur
+
+[list][*] Alle Helden unterschiedlich kostümiert triggert 1, 3, 4, und 5
+
+[*]2 Feen, 2, Hexen, 2 Magier, 2 Räuber, 3 Hasardeure und 1 Prinzessin triggert 2, 6, 7 und 8. [/list]
+
+[hr]
+
+Prinzessin: 
+[item: Rosa Kleid] 
+[item: Kleines Krönchen] 
+[item: Elegante Prinzessinnenschühchen]
+[item: Halskette mit edlem Saphir (Imitat)] 
+[item: Rosa Strumpfhose] 
+
+Barbar:
+[item: Fellrüstung mit Muskelimitaten] 
+[item: Riesige Doppelblattaxt (Imitat)] 
+[item: Echte Ledersandalen] 
+[item: Prunkvoller Lendenschurz] 
+
+Narr:
+[item: Buntes Lederwams (Imitat)] 
+[item: Bunte Lederstiefel (Imitat)] 
+[item: Bunte Lederhose (Imitat)] 
+[item: Narrenkappe (Imitat)] 
+[item: Bunte Lederhandschuhe (Imitat)] 
+
+König:
+[item: Königliches Gewand (Imitat)] 
+[item: Prunkvolles Rüschenhemd] 
+[item: Herrscherszepter (Imitat)]  
+[item: Königskrone (Imitat)] 
+[item: Vergoldete Stiefel (Imitat)] 
+[item: Edle Herrenstrumpfhose] 
+
+Zauberer:
+[item: Total das mächtige Zauberbuch]
+[item: Spitzer Zauberhut (Imitat)] 
+[item: Robe des großen Magus (Imitat)] 
+[item: Zauberstab (Imitat)]
+
+Hexe:
+[item: Schwarze Plüschkatze] 
+[item: Hexenstiefelchen] 
+[item: Falsche Warze] :
+[item: Hexenbesen (Imitat)] 
+[item: Schwarzer Hexenumhang (Imitat)]
+
+Drache hinten: 
+[item: Drachenrücken (hinterer Teil)] 
+[item: Drachenbauch] 
+[item: Hinterbeine des Drachenkostüms]
+[item: Drachenschwanz]
+
+Drache vorn: 
+[item: Drachenhals]
+[item: Drachenkopf] 
+[item: Drachenrücken (vorderer Teil)]
+[item: Vorderbeine des Drachenkostüms] 
+
+Fee:
+[item: Glitzerzauberstab] 
+[item: Stoffbespanntes Drahtgestell in Flügelform] 
+[item: Glitzernde Feenschuhe (Imitat)] 
+[item: Perücke mit silbernen Strähnen] 
+
+
+Räuber :
+[item: Schwerer Gürtel mit Säbelimitat] 
+[item: Falscher Vollbart]
+[item: Schwarzer Filzhut] 
+[item: Räuberpistole]
+[item: Abgetragener Lederumhang]
+
+
+Polizist:
+[item: Rote Kelle] 
+[item: Gürtel mit Guhmyknüppel] 
+[item: Weiße Schirmmütze] 
+[item: Grüne Hose] 
+[item: Beiges Leinenhemd] 
+
+Hasardeur:
+[item: Prächtige Jakobinerstiefel mit Zwillingsrohren (Imitat)]
+[item: Schwarze Kniehose]
+[item: Leinenhemd mit feiner Spitze] 
+[item: Waffengehänge mit Zierdegenimitat] 
+[item: Überwurf der Tiefenfelser Garde (Imitat)]
+[item: Lederhut der Tiefenfelser Garde (Imitat)]
+
+[hr]

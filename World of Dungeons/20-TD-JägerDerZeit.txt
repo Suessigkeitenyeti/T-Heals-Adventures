@@ -1,0 +1,67 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+Tiere:
+Vorne:
+Links:
+Zentrum:
+Hinten:
+
+Heilung:
+Heil-Schami: ab leicht verwundet
+Sozial-Schami: ab leicht verwundet
+Flex-Schami: ab leicht verwundet
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]

@@ -1,0 +1,20 @@
+FALLS wir irgendwann da nochmal rein gehen und das schaffen wollen müssen wir die paar buffs die wir haben besser timen, da ich grad übermüdet bin hab ich wahrscheinlich iwo falsch gerechnet (is auch der Grund weswegen ich keine ganze konfig mache), aber das hier sollte ansonsten klappen:
+
+Lvl 4 passiert folgendes:
+Runde 1 drängt Hubert sich nach vorne
+Runde 2 Fuchtelt er sinnlos rum
+Runde 3 Macht er ne Pause
+Runde 4 und folgende greift er mit [skill: Fechtwaffen]
+
+dabei wird er im NK und Magisch Angegriffen, wenn wir unsere Buffs coordinieren klappt das (einmal sollten wir schaffen für Medallie und ggf uniques)
+
+Pala: ab start: VR [skill: Sphäre des Schutzes] HR [skill: Sphäre der Elemente]
+Schami: wenn du Trancen hast: alle Ungeraden Runden: [skill: Echo der Freiheit] und alle Geraden Runden [skill: Echo der Wut] ansonsten Wesen(Mitstreiter) falls du noch das tank pet nutzt
+Gaukler: [skill: Prophezeien], selbst wenns net hoch is, kannst eh net selbst angreifen
+Mönch: Verschleiern
+Quacki: Vitaschub -> Vorbeugende Heilung -> Vitaschub -> Exp Stärkung -> Vita (usw)
+Gele: HR 1 [item: Buch: Ein Hauch von Magie - kleine Übungen zur Manaregeneration] Hinten - VR 4 [item: Unsere Heldentaten: Von Orks und Ogern]
+Priester: [item: Medaillon mit dem Psalm 15-23: Demosans Schild]
+Ich: VR 1, 4, 8: [skill: Magischer Schutz] VR 3, 5, 7 [item: Spruchrolle der Treffsicherheit] - HR [item: Spruchrolle des Wolfes]
+
+Abwarten und nichts tun: Gladi, Hasa (außer hasa hat mehr verschleiern als mönch), Dieb, Rast (außer du möchtest für den einen Dungen Schutzzauber unter MR skillen und eine Spruchrolle einpacken, würde es für mich viel viel leichter machen ^^)

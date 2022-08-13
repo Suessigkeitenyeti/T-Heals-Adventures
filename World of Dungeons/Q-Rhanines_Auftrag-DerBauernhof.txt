@@ -1,0 +1,117 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Links: NKler
+Zentrum: Rest
+Hinten: -
+
+Tiere:
+Vorne: Rest Wildhund
+Links:
+Zentrum:
+Hinten: Heil, Soz, Flex Wildhund
+
+Heilung:
+Heil-Schami: ab leicht verwundet
+Sozial-Schami: ab leicht verwundet
+Flex-Schami: ab leicht verwundet
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: Nur NK-Angriffe, aber dafür Gegner im Rücken. mit den Wildhunden sollte das aber auch kein Problem sein
+Allgemein: 
+FK-Jäger sollte [item: Bogen aus leichtem Haselnussholz] durch die letzte Quest bekommen haben haben und der NK-Jäger einen Umhang des Bösen Räubers durch Minis, je mehr Umhänge desto besser, da die MP-Reg ziemlich gut sein wird für geraume Zeit, Priorität nach dem Jäger haben die Heiler!
+Hieb Ausweichen ist für unseren Blocker jetzt da und unsere Heiler haben die Beruhigenden Worte um den ein oder anderen Treffer auszugleichen
+Falls wir mehr Bögen bekommen haben sollten: ggf Support Jäger auch Bogen schießen
+
+Blocker Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Hügel-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Grenzi-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Jäger: [skill: Messerkampf]
+Blasrohr: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+FK-Jäger: [skill: Bogen schießen]
+Hagel: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Schnee: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Supp-Jäger: [skill: Messerkampf]
+Sozial-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+Heil-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+Flex-Schami: [skill: Lockruf der Natur] H - [skill: Krallenhand]
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Mutierter Kartoffelkäfer] V/L/R
+Allgemein: 
+
+Blocker Schami: -
+NK-Hügel-Schami: -
+NK-Grenzi-Schami: -
+NK-Jäger: -
+Blasrohr: -
+FK-Jäger: -
+Hagel: -
+Schnee: -
+Supp-Jäger: -
+Sozial-Schami: -
+Heil-Schami: -
+Flex-Schami: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Ratte] L/R/iR (viele)
+Allgemein: 
+
+Blocker Schami: -
+NK-Hügel-Schami. -
+NK-Grenzi-Schami: -
+NK-Jäger: -
+Blasrohr: -
+FK-Jäger: -
+Hagel: -
+Schnee: -
+Supp-Jäger: -
+Sozial-Schami: -
+Heil-Schami: -
+Flex-Schami: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Bandit] V/L/iR
+Allgemein: 
+
+Blocker Schami -
+NK-Hügel-Schami: -
+NK-Grenzi-Schami: -
+NK-Jäger: -
+Blasrohr: -
+FK-Jäger: -
+Hagel: -
+Schnee: -
+Supp-Jäger: -
+Sozial-Schami: -
+Heil-Schami: -
+Flex-Schami: -
+
+[hr]
+
+Eig nix zu sagen, solange die Hunde in lvl 1 kommen sollte der Dungeon weit einfacher sein als der davor

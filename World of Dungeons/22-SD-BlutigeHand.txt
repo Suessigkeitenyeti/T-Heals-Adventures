@@ -1,0 +1,168 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF IST NICHT STANDARD, BITTE BEACHTEN!
+ARF > Im Rücken, Rechts, Zentrum, Hinten, Links, Vorne 
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+Links [item: Knoblauchbrot] oder [item: Grüner Spinat]
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: [npc:Riesenbaumwürger] Links + Rechts, Fliegend!, Runde 1 noch sehr hohe PW, Greift per KH und ZA an
+Allgemein: NKler unbegrenzte Buffs anbringen
+
+Blocker Schami:
+NK-Hügel-Schami: Anrufung der Naturgeister mit Bärenmaske Hinten -> Links -> Rest
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Mutterkorn (mehrfachschuss), Stechapfel (einzelschuss)
+FK-Jäger:
+Hagel:
+Schnee: Adsaga Krankheit sowm
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami: [skill: Echo der Wut] H, [skill: Echo der Elemente] Z/H
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 2 [/b]
+1. Raum
+Besonderheiten der Gegner: [npc:Schwarzelfkrieger] V/L/R, [npc:Schwarzelf mit Balester] Z -> FK auf Links -> Vorne, [npc:Schwarzelfmusikus] H
+Allgemein: nur Hiha und FK gefährlich
+
+2. Raum
+Besonderheiten der Gegner: [npc:Schwarzelffechtmeister] V, [npc:Schwarzelfkrieger] L/R, [npc:Schwarzelf mit Balester] Z -> FK auf Links -> Vorne, [npc:Schwarzelfmagier] Z, [npc:Schwarzelfheiler] Z/H
+Allgemein: FK und Magier gefährlich
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Mutterkorn Z, Curare V/L/R
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami: Freiheit Links, Wut Links
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 3 [/b]
+1. Raum
+Besonderheiten der Gegner: [npc:Schwarzelfkrieger] V/L, [npc:Schwarzelf mit Balester] H -> FK auf Links -> Vorne, [npc:Schwarzelfheiler] H, [npc:Schwarzelfmeuchler] H
+Allgemein: FK gefährlich
+
+2. Raum
+Besonderheiten der Gegner:  wie Raum 1
+Allgemein:  wie Raum 1
+
+3. Raum
+Besonderheiten der Gegner: wie Raum 1
+Allgemein: wie Raum 1
+
+ARF: im Rücken -> Hinten -> Zentrum -> Rest
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Mutterkorn H, Curare V/L/R
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami: Freiheit Links, Wut Links
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 4 [/b]
+1. Raum
+Besonderheiten der Gegner: [npc:Zwergenskelett mit schwerem Kriegsbeil] V + Flanken, [npc:Zwergenskelett mit schwerer Armbrust] alle Posis, [npc:Untoter Zwergenmusikus] Z
+Allgemein: Heiliger Schaden, Heilige Munition etc. Geringe PW und Anfälligkeiten, Hohe HP
+
+2. Raum
+Besonderheiten der Gegner: [npc:Zwergenskelett mit schwerem Kriegsbeil] V + Flanken, [npc:Zwergenskelett mit schwerer Armbrust] Z/H, [npc:Untoter Zwergenmusikus] Z, [npc:Untoter Zwergenmagus] Z, [npc:Untoter Herrscher der Zwerge] Z
+Allgemein: Musiker und Magus haben Prio
+
+Blocker Schami: Böse Geister Bannen
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Mutterkorn H, Gneiter Z, Curare V
+FK-Jäger:
+Hagel:
+Schnee: 
+Supp-Jäger: Nessel Links
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: [npc:Aqualuxkrieger] V, [npc:Aqualuxjäger] Z flieht wenn allein
+Allgemein: Krieger nicht gefährlich, Jäger extrem gefährlich da [skill: Blasrohr (Edorin)] auf Flanke, wenn wir nur eine Runde brauchen ist der debuff aber irrelevant
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami: VR WdGM Links
+NK-Jäger:
+Blasrohr: WdGM, WdGG, Banner Links
+FK-Jäger:
+Hagel:
+Schnee: [item: Magisches Kleinod der Geschwindigkeit] Links, Adsaga Macht Hinten
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+
+[b]Level 6 [/b]
+1. Raum
+Besonderheiten der Gegner: [npc:Schwarzelffechtmeister] V, [npc:Schwarzelfkrieger] V, [npc:Drakharin] L, [npc:Schwarzelf mit Balester] Z, [npc:Schwarzelfheiler] Z, [npc:Schwarzelfmagier] Z
+Allgemein: Wir haben [npc:Tumbor Brummkalox, der verstoßene Zwergengeneral] auf unserer Seite V, extrem Hohe AW und Schadenswerte 
+
+2. Raum
+Besonderheiten der Gegner: [npc:Drakharin] V+L, [npc:Schwarzelfkrieger] V, [npc:Criza, die Läuferin] Z, [npc:Gronk, der Zoowächter] Z, [npc:Schwarzelfheiler] Z, [npc:Schwarzelfmagier] Z, [npc:Normyra, die Stürmische] H
+Allgemein: Benamte NPCs sind gefährlich, Normyra greift alle per NK und NG an und hat bis zu ihrer dritten Aktion 0% Anfälligkeit, danach höhere Anfälligkeit -> niedrige Ini um Sie auszuschalten, Criza greift per FK an (massive Debuffs) und ruft Fallen und ist sehr schnell, Gronk greift Soz und NK an
+
+ARF: Rechts -> Zentrum -> Links -> Vorne
+ARF für langsame (ca 60 ini und langsamer): Hinten -> Zentrum -> Rest 
+
+Blocker Schami: WdGM, WdGG V
+NK-Hügel-Schami: Runenring
+NK-Grenzi-Schami: Antimagiebanner Hinten
+NK-Jäger:
+Blasrohr: Stechapfel Z, Curare V/L/R, Gneiter H
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]

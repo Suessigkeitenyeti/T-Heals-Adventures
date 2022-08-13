@@ -1,0 +1,106 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Links, Rechts, Vorne
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+Hinten: NK
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: nur NK und 1 Sozialangriff
+Allgemein: Essen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gauklerei
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: Vitalitätsschub Vorne, Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Viel im Rücken und nach Hinten
+Allgemein: Trinken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Hinten, 12-17 Hinten
+Schamanin: -
+Quacksalber: Vitalitätsschub Hinten, Experimentelle Stärkung Hinten, Vorbeugende Heilung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Hinten
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Raserbär – Hohe NK-PW aber keine FK PW u. Magie PW
+Allgemein: Trinken
+
+Paladin: -
+Gladiator: Netz
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: Gnolliger Eiter
+Quacksalber: Vitalitätsschub Vorne
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Hinterhalt
+Allgemein: -
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: HiHa entdecken
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: Vitalitätsschub Vorne, Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern > Vorne, Hinten
+
+[hr][/quote]
+
+
+Ok NEU:
+
+Vorne Blocker
+Zentrum NK
+Hinten Rest
+
+Level 1 demzufolge Experimentelle Stärkung Zentrum
+
+sonst alles gleich!

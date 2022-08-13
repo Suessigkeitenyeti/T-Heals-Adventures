@@ -1,0 +1,239 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: [skill: Sphäre der Macht] L, [skill: Spähre der Erholung] filler
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Mittagspause] [item: Knoblauchbrot]
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)]
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Gesundheitstipps]
+Eismagier: [skill: Gedankenschild]
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Schneewolf] V/R/L - NK/KH/Soz
+[npc:Schneewolf (rasend)] V/R/L - NK/KH
+Allgemein: 2 Räume, sehr einfach, unbegrenzte Buffs anbringen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Mittagspause] [item: Knoblauchbrot]
+Schamanin: -
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Gesundheitstipps]
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: keine
+Allgemein: Unbegrenzte VR buffs anbringen, evtl [skill: Manatransfer]
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: [skill: Gesundheitstipps]
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: [npc:Fallgrube] 1000 HP, ca 30er AW auf V
+Allgemein: unbegrenzte HR Buffs
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Fallen entdecken] wer auch immer von euch es höher hat auf V/L/Rest, bitte absprechen!!! Der andere aufs Z/H/Rest
+Dieb: [skill: Fallen entdecken] wer auch immer von euch es höher hat auf V/L/Rest, bitte absprechen!!! Der andere aufs Z/H/Rest
+Priester: -
+Schamanin: -
+Quacksalber: [skill: Gesundheitstipps]
+Eismagier: -
+Feuermagier: -
+Gele: [skill: Fallen entdecken] wer auch immer von euch es höher hat auf V/L/Rest, bitte absprechen!!! Der andere aufs Z/H/Rest
+Hasa: -
+
+[hr]
+
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Wildling mit Speer] V
+[npc:Wildling mit Schleuder] Z
+[npc:Wildlingschamane] Z
+Allgemein: einfach, standard sollte reichen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Gesundheitstipps]
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Yeti-Kind (gefangen)] Zentrum
+[npc:Yeti-Falle] Hinten ca 150 hp
+[npc:Yeti-Weibchen] im Rücken [skill: Rundumhieb]
+Allgemein: wenn wir das Kind umhauen nutzt die Mutter [skill: Mächtiges Brüllen] mit 600er AW
+Wenn die Falle ausgeschaltet ist, ist der Kampf vorbei, wir können versuchen die Mutter als erstes auszuschalten, die Falle oder beides. da wir Dieb, Gaukler und Gele haben würde ich sagen versuchen wir die Falle zuerst auszuschalten
+ARF: iR/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Fallen entschärfen]
+Dieb: [skill: Fallen entschärfen]
+Priester: -
+Schamanin: -
+Quacksalber: [skill: Vitalitätsschub] H mit [item: Golemfestigungstinktur] oder höchster Wirkstufe, [skill: Experimentelle Stärkung] L
+Eismagier: -
+Feuermagier: -
+Gele: [skill: Fallen entschärfen]
+Hasa: -
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: [npc:Fallgrube]
+Allgemein: genau wie lvl 3
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Fallen entdecken] wer auch immer von euch es höher hat auf V, bitte absprechen!!! Der andere aufs Zentrum
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: [skill: Gesundheitstipps]
+Eismagier: -
+Feuermagier: -
+Gele: [skill: Fallen entdecken] wer auch immer von euch es höher hat auf V, bitte absprechen!!! Der andere aufs Zentrum
+Hasa: -
+
+[hr]
+
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: [npc:Kirrash] untot! [skill: Leichengift] erste Aktion
+Allgemein: 
+
+Paladin: -
+Gladiator: Netze
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Aiaras Katechismus zur Genesung der Siechenden] oder [item: Kanon: Psalm 47-11 - Rashons Obhut] erste VR auf Zentrum, danach [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: -
+Quacksalber: 1x [skill: Gesundheitstipps] falls noch nötig, dann [skill: Experimentelle Stärkung] L
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 8 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Wildling mit Speer] V
+[npc:Haendar, der Yetijäger] H
+[npc:Wildling mit Schleuder] H
+[npc:Wildlingschamane] H
+Allgemein: 
+
+Paladin: [skill: Sphäre des Schutzes] Z
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Medaillon mit dem Psalm 15-23: Demosans Schild] H
+Schamanin: [item: Blasrohrpfeile vergiftet (Mutterkorn)] H
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 9 [/b]
+
+Besonderheiten der Gegner: keine Gegner
+Allgemein: 
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+

@@ -1,0 +1,205 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Hinten, Zentrum, Rechts, Links, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala
+Rechts: NKler
+Zentrum: Rest
+Hinten: FKler
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: [Skill: Sphäre des Schutzes] V
+Gladiator: HdT L/Rest
+Mönch: [item: Rotes Rostblatt (frisch)]
+Gaukler: -
+Dieb: -
+Priester: [item: Wurstbrotbox]
+Schamanin: Wesen H/V
+Quacksalber: [skill: Experimentelle Stärkung] R, [skill: Technisches Verständnis]
+Eismagier: [skill: Gedankenschild]
+Feuermagier: -
+Gele: -
+Hasa: [item: Stopftabak mit getrocknetem Einblatt (Beutel)], [skill: Verschleiern] V/R
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Rogard, der Möchtegern] V 74 HP
+Allgemein: 
+schneller dran sein als der und ihn killen bevor er dran kommt funktioniert
+hab nur NK PW werte zwischen 100 und 170 zur verfügung, also keine ahnung was der wirklich kann.
+(Greift im FK die Flanken/alle Posis an oder Straßenfeger)
+
+Paladin: [skill: Sphäre der Macht] R
+Gladiator: NK
+Mönch: NK
+Gaukler: NK
+Dieb: -
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V
+Schamanin: Curare ES sowM -> MS standard
+Quacksalber: -
+Eismagier: Angriff
+Feuermagier: -
+Gele: [item: Buch: Die Kunst des Nahkampfes - Abschrift] R
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Torwächter mit Hellebarde] V/L
+[npc:Torwächter (Hauptmann)] Z wirkt [skill: Hauptmann] auf Verbündete
+Allgemein: 
+NK AW 100-150
+NK PW 50-90
+FK PW 70-80
+ZA PW 50-70
+sollten wir alles gut treffen und kein Problem mit den PW haben, hier unbegrenzte Buffs anbringen
+
+Paladin: -
+Gladiator: HdT, NK
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: Curare MS, ES
+Quacksalber: -
+Eismagier: [skill: Eisgeschoss] Z, Wolke Rest
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Torwächter mit Hellebarde] V
+[npc:Bilgar Troi (Hofmagier)] H
+[npc:Pater Helgrund] H
+[npc:Torwächter (Hauptmann)] H
+[npc:Torwächter mit Armbrust] H
+Allgemein: 
+bekannte Gegner und:
+[skill: Großer Segen (Psalm 08-15 - Demosans reinigendes Feuer)]
+[skill: Eiswolke]
+AW und PWs sind nichts außergewöhnliches
+ZA auf V
+FK auf V/R/Z ([skill: Durchschuss] aw ca 80-120)
+Fokus auf die FKler zuerst, rest sollte einfach danach fallen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V
+Schamanin: Mutterkorn H, Curare V
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] R/V
+Hasa: -
+
+[hr]
+
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Leibwächter des Grafen] V/L
+[npc:Blozoid, Hausmagier der Familie Wolflund] H Feuermagie
+[npc:Ferengard, Chef der Leibgarde] H Pala mit [skill: Netz werfen (mittleres Wurfnetz)] auf V 
+[npc:Medikus des Grafen] H Quacki
+[npc:Torwächter mit Armbrust] H
+Allgemein: 
+hier Tut alles weh, vor allem sollte unser Blocker nicht vom FK getroffen werden, erste HR Aktion
+
+Paladin: [skill: Sphäre des Schutzes] V
+Gladiator: -
+Mönch: [item: Magischer Talisman des Beschützers] V
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V
+Schamanin: Wesen V/H, Mutterkorn H, Curare V
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V
+Hasa: -
+
+[hr]
+
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Assassine mit Blasrohr] V/Z
+[npc:Assassine mit Bogen] R/Z
+[npc:Assassine mit Krummdolch] Z
+[npc:Ferrig, der Meuchelmörder] Z
+[npc:Sir Wolflund (besessen)] Z
+ich gehe davon aus, dass die normalen Assasinen auf zufälligen Positionen R/L/V/Z auftauchen können
+Allgemein: 
+HiHa Angriffe zwischen 50-90 kommen rein
+NK nicht mehr so gefährlich -30 aw ca), FK dafür noch mehr (+20 aw ca)
+
+Paladin: -
+Gladiator: -
+Mönch: [item: Magischer Talisman der Aufmerksamkeit] R, [item: Magischer Talisman des Beschützers] V/H
+Gaukler: -
+Dieb: HiHa Entdecken
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] V, [item: Kanon: Psalm 13-13 - Acres' Kunst] H
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Unsere Heldentaten: Von Drachen und Greifen] H
+Hasa: -
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Energiebarriere (groß)] massive HP Reg keine PW
+10% Hieb/Stich/Schneid
+33% Feuer
+0% Gift
+33% Eis
+[npc:Haron der Dunkle, Magier des schwarzen Zirkels] nicht angreifbar außer sozial und flieht wenn die Barriere down is
+Allgemein: 
+Barriere ist Sprengbar, hehe
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] R
+Schamanin: -
+Quacksalber: SPRENGEN!!! (um die HR frei zum Sprengen zu haben evtl VH auf alle wirken in VR)
+Eismagier: -
+Feuermagier: [Skill: Segen des Feuers] R
+Gele: [item: Unsere Heldentaten: Von Orks und Ogern]
+Hasa: -
+
+[hr]

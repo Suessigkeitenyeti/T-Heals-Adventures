@@ -1,0 +1,114 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Links, Rechts, Vorne
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+Hinten: NK
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Pff, Orks
+Allgemein: Essen, Trinken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 05-05 Vorne
+Schamanin: Larvenbeutel Vorne
+Quacksalber: Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Hinten
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: Sparen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 05-05 Vorne, 15-23 Vorne
+Schamanin: -
+Quacksalber: Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne[/quote]

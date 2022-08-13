@@ -1,0 +1,150 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+Hinten: NKler
+
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: [npc:Märchenriese]: >2600 HP, Flanke oder Vorne, [skill: Aufstampfen] auf Hinten mit AW bis zu 40 (würde Timmy umhauen), keine PW
+Allgemein: wir müssen [npc:Timmy, der Bauernjunge] Hinten beschützen
+
+NK-Grenzi-Schami: [skill: Anrufung der Naturgeister] Hinten sowm vor allem anderen
+Schnee: [item: Magisches Kleinod der Geister der Natur] Hinten
+Heil-Schami: [skill: Echo der Freiheit] Hinten sowm
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Gräber (NK auf Vorne, steht vorne + Flanken), Jäger (FK auf Vorne, stehen hinten), Schamanen (FK auf Zentrum, Magie auf Vorne, stehen Hinten) und Häuptling (ruft Fallen, steht Hinten)
+Allgemein: wir müssen [npc:Märchenprinz] Vorne beschützen
+
+ARF: Hinten -> Rest
+
+Blocker Schami: [npc:Märchenprinz] blockt mit Hieb ausweichen, Geschoss ausweichen und Magieresistenz -> WdGM + WdGG Vorne
+Blasrohr: Mutterkorn H, Curare Rest
+Supp-Jäger: Prophen Vorne
+Heil-Schami: Freiheit Vorne
+Schnee: [item: Magisches Kleinod des Beschützers]
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Hohe ZA PW, [npc:Virana, die Königstochter] im Zentrum hat PW von 500-600, greift mit sozial auf Vorne an (SEHR Gefährlich!), flieht wenn fast alle anderen Gegner weg sind
+Allgemein: wir müssen [npc:Märchenmusikant] im Zentrum beschützen, viel Schaden hilft viel
+
+ARF: Hinten -> Rest -> Zentrum
+
+Schnee: [item: Magischer Talisman gegen böse Geister] Vorne
+Supp-Jäger: Prohen Vorne
+Heil-Schami: Freiheit vorne, Wut Hinten
+
+[hr]
+
+
+[b]Level 4 [/b]
+1. Raum
+Besonderheiten der Gegner: [npc:Wüstenlöwe] eine Flanke, sehr schwach gegen Eisschaden
+Allgemein: [npc:Aswadi - Krieger] x12 Vorne, greift mit Schwerkampf an, [npc:Aswadi - Schütze] x11 Hinten, greift mit Doppelschuss an, [skill: Unbarmherzige Hitze] auf alle
+
+2. Raum 
+Besonderheiten der Gegner: [npc:Sandteufel] Hinten, Zentrum, greifen Magisch mit starken Debuffs an
+Allgemein: [npc:Aswadi - Krieger] x12 Vorne, greift mit Schwerkampf an, [npc:Aswadi - Schütze] x11 Hinten, greift mit Doppelschuss an, [skill: Unbarmherzige Hitze] auf alle, nach einer Runde [skill: Sandsturm]
+
+NK-Hügel-Schami: kleine Runenmagie Zwergenherrscher (damit du nur noch eine Anwendung später hast)
+Blasrohr: WdGM + WdGG Hinten sowm; Bannerträger Strauchdiebe 1x Hinten
+FK-Jäger: Falls wir haben Frosthauch
+Hagel: Your time to shine
+Schnee: [item: Magisches Kleinod der Macht] 1x Zentrum -> Hinten, your time to shine
+Supp-Jäger: kein Prophen notwendig, 14 Leute vorne ;-)
+Heil-Schami: Ich würde Wut -> Ele -> Freiheit, falls du damit bei all den Zielen überhaupt durchkommst
+
+[hr]
+
+
+[b]Level 5 [/b]
+3 Identische Räume
+Besonderheiten der Gegner: Katapult samt Besatzung hinten, Katapult nimmt viel Feuerschaden und hat keine (!!!) Paraden
+Allgemein: erste Runde wird Geladen, zweite wird dann gefeuert, Wenn wir Besatzung oder Katapult vor Runde 2 Besiegen kommt kein Angriff
+
+Blocker Schami: NK, nicht Magie!
+Blasrohr: Gneiter
+FK-Jäger: Brandpfeil
+Schnee: 2te VR: [item: Magisches Kleinod der Geister der Natur] Zentrum -> Hinten -> Vorne 1x
+Supp-Jäger: Nessel
+Sozial-Schami: Angriff der Schaden macht, falls du hast
+Heil-Schami: Elemente, da die Extra Aktion durch Wut nichts bringt, wenn wir sie in einer Runde besiegen
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: [npc:Silberfell] Vorne, [npc:Silberfell - Junges] xViele eine Flanke
+Allgemein: Mutter hat ca 200er pw, Kinder fast nichts, bis zu 300er AWs vorne
+
+Blasrohr: Curare
+Supp-Jäger: Prophen V
+Sozial-Schami: Verschrecken
+Heil-Schami: Freiheit V
+
+[hr]
+
+
+[b]Level 7 [/b]
+1. Raum:
+Besonderheiten der Gegner: Dornenranken die mehr Anfällig zu Schneidschaden als Hiebschaden sind! Juhu endlich lohnt sich unsere Masse an Krallenhänden! (besonders gegen Feuer schwach)
+Allgemein: wir müssen [npc:Kind] im Zentrum beschützen, [skill: Behindern] auf alle Posis
+
+2. Raum:
+Besonderheiten der Gegner: zusätzlich noch Wurzeln im Rücken, [skill: Würgen] nach Hinten mit 200+ AW
+Allgemein: wir müssen [npc:Kind] im Zentrum beschützen, [skill: Behindern] auf alle Posis
+
+3. Raum:
+Besonderheiten der Gegner: mehr von zuvor
+Allgemein: wir müssen [npc:Kind] im Zentrum beschützen, [skill: Behindern] auf alle Posis
+
+Blocker Schami: NK, keine Magie
+NK-Hügel-Schami: die letzte Anwendung Zwergenherrscher für Raum 1. In Raum 2 und 3 zu Gefährlich, da Gegner im Rücken
+Blasrohr: Gneiter
+FK-Jäger: Brandpfeile
+Schnee: Macht Hinten/Vorne, Natur Zentrum
+Supp-Jäger: Nessel
+Heil-Schami: Freiheit Zentrum -> Hinten -> Vorne, Wut Hinten
+
+[hr]
+
+
+[b]Level 8 [/b]
+
+1. Raum:
+Besonderheiten der Gegner:  Jagdhunde Vorne, Anführer und Meute dahinter, Hiha und Waffengift (Psycho)
+Allgemein: wieder Kinder zu beschützen
+
+2. Raum:
+Besonderheiten der Gegner: [npc:Schwarzes Einhorn] Vorne, greift sozial an, ruft Imps, dann NK. Imps heilen sich durch Feuerschaden
+Allgemein: Runde 4 bekommen wir einen Buff der +500 Heiligen Schaden macht
+
+
+Blasrohr: HiHa entdecken
+FK-Jäger: kein Brandpfeil
+Schnee: böse Geister vorne
+Supp-Jäger: Gift
+
+[hr]
+
+Notiz für Grurk: Falls lvl 8 zu viele Probleme machen sollte, dann Kleine Runenmagie nicht in lvl 4 und 7, sondern dafür in 8 in beiden Räumen

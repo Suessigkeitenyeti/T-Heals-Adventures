@@ -1,0 +1,128 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler
+Zentrum: FKler
+Hinten: Rest
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner:
+Raum 1:
+[npc:Orkaxtkämpfer] V/R
+[npc:Orksöldner] V/R
+[npc:Goblin mit Netz] Z
+[npc:Orkaxtwerfer] H
+
+Raum 2:
+[npc:Orkaxtkämpfer] L/R
+[npc:Orksöldner] L/R
+[npc:Goblin mit Netz] H
+[npc:Orkaxtwerfer] H
+
+Raum 3:
+[npc:Orksöldner] V/L/R
+[npc:Terug Nur (Berserker)] L
+[npc:Terug Nur (Krieger)] R
+[npc:Goblin mit Netz] Z
+[npc:Orkmeuchler] Z/H
+
+Allgemein: 
+ARF: iR/R/L/H/Z/V
+Hiha entdecken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Orkbogenschütze (in großer Entfernung)] V/L/R greien Z an
+
+Allgemein: 
+FK/ZA Level, ein [skill: Pfeilhagel] Z/H dann verschwinden, FK-PW/Rüstung auf Z
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Harpyie] V
+[npc:Harpyie mit Armbrust] V
+
+Allgemein: 
+FK/ZA Level
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+

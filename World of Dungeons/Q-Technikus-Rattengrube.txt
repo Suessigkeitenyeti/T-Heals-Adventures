@@ -1,0 +1,117 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Links, Rechts, Vorne
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker, Larvenbeutel
+Zentrum: Magier (Magieparade pushen)
+Hinten: Rest
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: Essen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 12-17 auf Zentrum
+Schamanin: -
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Zentrum
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Böse Magier Zentrum und Hinten
+Allgemein: -
+
+Paladin: -
+Gladiator: Netz Zentrum
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 05-05 Zentrum
+Schamanin: Stechapfel
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Zentrum
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Haufen Ratten
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+
+Paladin: -
+Gladiator: Netz Hinten
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 12-17 Zentrum
+Schamanin: -
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne, Zentrum
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: Große Ratten
+Allgemein: -
+
+Besonderheiten der Gegner: Riesenratten
+Allgemein: Trinken
+
+
+Paladin: -
+Gladiator: Netz Vorne
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne (VR), 03-11 Hinten (HR)
+Schamanin: ARF Im Rücken, Vorne, Zentrum, Hinten
+Quacksalber: Vitalitätsschub Vorne, Vorbeugende Heilung Hinten
+Eismagier: ARF Im Rücken, Vorne, Zentrum, Hinten
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern > Vorne, Zentrum[/quote]

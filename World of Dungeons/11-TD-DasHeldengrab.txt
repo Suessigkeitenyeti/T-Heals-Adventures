@@ -1,0 +1,99 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+[skill: Erst mal was Essen!]
+Pala: [item: Lebkuchen] (Rang 3 nötig)
+NKler: [item: Weihnachtskekse] (Rang 1 nötig, Rang 4/5 optimal)
+Rest: [item: Provianttasche] (Rang 1 nötig, Rang 4 optimal)
+
+[hr]
+
+Aufstellung:
+Links: NKler
+Zentrum: Pala
+Hinten: Resten
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Riesenblindwurm] - massig hp, 2 aktionen, FK oder Soz aw, fast keine pw (<20), magieresistenz 150
+Allgemein: 
+Magier zurückhalten, rest druff, unbegrenztes zeug drauf hier
+
+Paladin: [skill: Spähre der Macht] L
+Gladiator: 1x Netz (Kampfbegrenzt, nicht dungeonbegrenzt), HdT [item: Fässchen mit Radeburger Feuer] (hau Rast für das zweite an) L/H/V
+Mönch: -
+Gaukler: [skill: Gauklerei]
+Dieb: -
+Priester: [skill: Mittagspause] - Knoblauchbrot - [skill: Gemeinsames Gebet] L (falls vorhanden)
+Schamanin: [skill: Blasrohrpfeile vergiftet (Mutterkorn)] sowM
+Quacksalber: -
+Eismagier: [skill: Magischer Schutz] Z - [skill: Gedankenschild] sowM
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Felsgolem] L/R
+[npc:Fratzen-Gargoyle] L/H
+Allgemein: wieder kaum PWs, diesmal auch kaum ZA PW
+ARF: R/L/Rest
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: [skill: Gauklerei]
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Knochenzwilling Krucr] startet Links
+[npc:Knochenzwilling Kricr] startet Rechts
+Allgemein: 
+Alle Ungeraden Runden: [skill: Brüderlicher Schutz] von Rechts auf Links (Daher sind die NKler Links)
+Alle Geraden Runden: [skill: Wo bin ich?] auf beide
+Zusammen 4 Aktionen jede Runde, wer die aktionen hat wechselt aber
+NK Aws von 100-200
+PWs:
+NK: 110-160
+FK: 50-90
+ZA: 40-80
+
+ARF: R/L/Rest
+
+Paladin: [skill: Große Sphäre des Schutzes] L/V
+Gladiator: Alle Netze R sowM, dann druff
+Mönch: [skill: Artefakt der Stärkung auf Gruppe anwenden] mit [item: Magischer Talisman des Beschützers] V/L sowM, [item: Magischer Talisman der Macht] H standard abwechselnd mit Selbstbuffs
+Gaukler: [skill: Prophezeien] V/L
+Dieb: Keine Ahnung wie Hiha hier Funktioniert, [skill: Beutelschnitt] und [skill: Verborgener Schnitt] ansonsten abwechselnd? priorität ARF: R/L/Rest
+Priester: [item: Kanon: Psalm 22-01 - Samuels Tat] Z sowM, [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L sowM, [skill: Großer Exorzismus] oder [skill: Exorzismus] oder [skill: Heiliges Inferno des Akbeth] als filler R, was auch immer du hast
+Schamanin: [item: Blasrohrpfeil vergiftet (Curare)] R (ungerade Runden) -> [skill: Leichte Trance] [skill: Echo der Wut] L + [skill: Echo der Elemente] H (gerade Runden)
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Vorbeugende Heilung] Z
+Eismagier: [item: Spruchrolle der Treffsicherheit] L sowM, [skill: Eisgeschoss] R/L/Rest
+Feuermagier: [skill: Feuerpfeil] R/L/Rest
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V, [item: Unsere Heldentaten: Von Orks und Ogern] L, [item: Buch: Die Kunst des Nahkampfes - Abschrift] L, [skill: Manatransfer] Filler
+Hasa: [skill: Verschleiern] V/L, [skill: Feuerstoß]
+
+[hr]
+

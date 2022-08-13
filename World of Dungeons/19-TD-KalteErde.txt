@@ -1,0 +1,223 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: Rest
+Hinten: FKler + NKler
+
+Heilung:
+Heil-Schami: ab leicht verwundet
+NebenHeiler-Schami: ab verwundet
+
+Dauerbuffs:
+GR [item: Pfeifentabak (Auslese) (Beutel)]
+Große Runenmagie: [item: Guter Runenring der Zähigkeit] V/H
+Mipa: [item: Bekömmlicher Obstsalat] Z -> [item: Halbes Schwein] Überall
+HK: [item: Sichelbeere (getrocknet)] Z/V -> [item: Rotes Rostblatt (frisch)] H 
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Tiere, Nur NK, alle Posis
+Allgemein: Sehr gut für unbegrenzte Buffs
+
+ALLE: Angriffe iR -> Tiere holen -> 2 Runden buffs oder nichts tun -> den Tieren helfen den Rest aufzuräumen
+
+Blocker Schami: NK PW -> Restliche Buffs
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Curare
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger: kein WG, kein Prophen
+Sozial-Schami:
+Heil-Schami: Freiheit V -> Gedankenschild
+Flex-Schami:
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Räuber mit Boss, soz Angriffe
+Allgemein: Hiha und Soz Angriffe sind das einzig Gefärhliche, hier Restliche Buffs raushauen!
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Hiha Enddecken; Stechapfel
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Zombies, niedrige ZA-PW, Krankheit
+Allgemein: 2 Räume, im 2ten gibts noch Ghule auf den Flanken
+
+Blocker Schami: Trollkopf -> Böse Geister Bannen
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee: Adsaga [item: Magischer Talisman gegen Krankheiten] V/H
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 2 Räume: 1st niedrige Ini NG; 2te Fallen die magisch Angreifen
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger: Fallen entschärfen sowm
+Blasrohr:
+FK-Jäger: Fallen entschärfen sowm
+Hagel:
+Schnee: Adsaga [item: Magischer Talisman der Geister der Natur]
+Supp-Jäger: Fallen entschärfen sowm
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: Untod (spektral) aka nur Magie und Heilig gut
+Allgemein:
+
+Blocker Schami: Trollkopf -> Böse Geister Bannen (auch wenn sehr unwahrscheinlich, dass es trifft)
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: 1x Falle und 1x Barriere, Falle kann durch die Barriere entschärft werden
+Allgemein: VGs sparen
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger: Fallen entschärfen sowm
+Blasrohr:
+FK-Jäger: Fallen entschärfen sowm
+Hagel:
+Schnee:
+Supp-Jäger: Fallen entschärfen sowm -> Sprengen
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: Stufe 43 Boss Dämon mit 5 Aktionen
+[npc:Dreigehörnter Xhant]
+Anfälligkeiten:
+Hieb 75%
+Stich 60-70%
+Schneid
+Feuer 50%
+Eis vermutung: 50%
+Blitz 50%
+Gift 0%
+Säure 50% (?)
+Psycho 0%
+Heilig 75%
+
+PWs:
+NK ca 100
+FK ca 140
+ZA ca 130
+
+Blocker Schami: Trollkopf -> Wesenbuffs
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr: Curare
+FK-Jäger:
+Hagel:
+Schnee: [item: Magischer Talisman der Macht] H/Z, [item: Magischer Talisman des Beschützers] V
+Supp-Jäger: WG Feuer oder WG Eis H
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 8 [/b]
+
+Besonderheiten der Gegner: keine Gegner
+Allgemein: VGs sparen
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+[b]Level 9 [/b]
+
+Besonderheiten der Gegner: Keine Gegner
+Allgemein: VGs sparen
+
+Blocker Schami:
+NK-Hügel-Schami:
+NK-Grenzi-Schami:
+NK-Jäger:
+Blasrohr:
+FK-Jäger:
+Hagel:
+Schnee:
+Supp-Jäger:
+Sozial-Schami:
+Heil-Schami:
+Flex-Schami:
+
+[hr]
+
+@DirtySchami: Wenn das zu viele verschiedene Adsaga VGs sind, dann lass lvl 4 böse Geister und lvl 7 Beschützer weg! Die anderen sind wichtiger

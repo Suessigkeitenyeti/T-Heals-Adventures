@@ -1,0 +1,177 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Links: NKler
+Zentrum: Rest
+Hinten: FKler
+
+[hr]
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: -
+Allgemein:  -
+
+Paladin: VR + HR [skill: Sphäre der Macht] H/L, [skill: Sphäre der Erholung] V/L
+Gladiator: -
+Mönch: [skill: Verschleiern] V
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 08-15 - Demosans reinigendes Feuer] L
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)]
+Quacksalber: [skill: Experimentelle Stärkung] L, [skill: Experimenteller Manaschub] Filler
+Eismagier: -
+Feuermagier: -
+Gele: 
+Hasa: -
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Nur ZA und FK AW möglich, ZA AW auf Vorne
+Allgemein: sollte nicht schwer sein
+
+Paladin: keine Sphären L, ggf. [skill: Sphäre der Elemente] V
+Gladiator: [item: Orkisches Wurfnetz], dann andere Netze
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [item: Kanon: Psalm 05-05 - Schutz gegen die dunkle Kunst] V - [skill: Unheilvolles Gemurmel]
+Schamanin:[item: Blasrohrpfeile vergiftet (Stechapfel)] sowM
+Quacksalber: 1x [skill: Vorbeugende Heilung] V
+Eismagier: [skill: Magischer Schutz] V
+Feuermagier: -
+Gele: [item: Buch: Die defensive Zauberkunst - Abschrift] V, [item: Unsere Heldentaten: Von Drachen und Greifen] H
+Hasa: -
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: NKler + [npc:Schweres Holztor] V, FKler H
+Allgemein: [npc:Riesenrattenmensch] hat mit 70 den höchten AW, alles ez
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: SPREEEEENGEN! V sonst std
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Nur NKler
+Allgemein: noch einfacher als Level 2
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Nur NKler, aber dafür welche im Rücken
+Allgemein: NOCH einfacher als Level 3, 30er AW sollten auch die FKler Hinten schaffen
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: [npc:Schimmelbefall (rote Sporen)] greift per NG an [skill: Sporen (roter Schimmel)]
+Allgemein: VGs und MP sparen
+
+Paladin: VR + HR [skill: Sphäre des Schutzes] V/Z/H
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: [skill: Dimensionssprung]
+Feuermagier: [skill: Dimensionssprung]
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: Nur eine [npc:Riesenamöbe] mit starken Resistenzen, Feuerschaden ist am besten
+Allgemein: 
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 7 [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: -
+Gladiator: Netze iR
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: 1x [skill: Vorbeugende Heilung] V/L/Z
+Eismagier: -
+Feuermagier: -
+Gele: [item: Unsere Heldentaten: Von Orks und Ogern] L, [item: Buch: Schadensvermeidungsstrategien - Abschrift] V
+Hasa: -
+
+[hr]
+
+
+am besten heute noch einstellen, damit wir das ASAP machen können für mehr exp!

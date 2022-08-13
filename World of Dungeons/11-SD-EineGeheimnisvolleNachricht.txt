@@ -1,0 +1,191 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Hinten, Zentrum, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: Pala + Blocker Pet
+Zentrum: Rest
+Hinten: NKler
+
+[hr]
+
+
+[b]Level Standard [/b]
+
+Besonderheiten der Gegner: 
+Allgemein: 
+
+Paladin: [skill: Sphäre der Erholung] V/Z
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: [skill: Mittagspause] - Basic
+Schamanin: -
+Quacksalber: [skill: Experimentelle Stärkung] H, ]skill: Experimenteller Manaschub] H/Z
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: [skill: Verschleiern] V/H
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Leibwächter mit Peitsche] V
+[npc:Leibwächter mit Schlagring] V/R/Z
+[npc:Junger Adeliger] Z
+Allgemein: 
+NW und FK PW >110, teilweise bis 170
+ZA Pw <100
+Wenn Blocker nicht fällt, aber easy
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)]
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V, [item: Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift] H
+Hasa: -
+
+[hr]
+
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Dieb mit Keule] V/L
+[npc:Dieb mit Messergürtel] Z
+[npc:Dieb mit Schleuder] Z
+[npc:Fahrender Magier] Z
+Allgemein: 
+FK V und Z
+Magie auf H
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: [item: Blasrohrpfeile vergiftet (Mutterkorn)] Z
+Quacksalber: -
+Eismagier: [skill: Magischer Schutz] H
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Schmuggler mit Schwert] V/Z/iR
+[npc:Schmuggler mit Donnerbüchse] L/R/H
+Allgemein: 
+ARF: H/L/R/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: [skill: Verschleiern] Z
+
+[hr]
+
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Versiegelte Tür] V	
+[npc:Der stählerne Sarkophag] H - [skill: Seelen der Verdammnis ausschicken] - [npc:Verdammte Seele]
+Allgemein: 
+Sarkophag hat nur 5 HP, wenn wir also irgendeinen HP-dereg drauf bekommen ist das in einer Runde fertig
+ARF: H/Rest
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: irgendein gift sowM
+Quacksalber: -
+Eismagier: -
+Feuermagier: [skill: Feuerpfeil]
+Gele: -
+Hasa: -
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Riesenamöbe] V/iR
+Allgemein: 
+sehr ungefährlich, dauert nur ewig, hp-dereg ist bester Freund mal wieder
+wenn noch unbegrenzte Buffs fehlen, hier rein
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Gele: -
+Hasa: -
+
+[hr]
+
+
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: 
+[npc:Rotauge mit Schwert] V
+[npc:Veränderter Assassine] V - 7 Aktionen!!! - [skill: Hinterhältiges Manöver]
+[npc:Veränderter Mensch mit vier Armen] V
+[npc:Rotauge mit Armbrust] Z
+[npc:Schamane der Veränderten (Bär)] Z - [skill: Säureregen]
+[npc:Rotauge mit Giftkugel] H
+Allgemein: 
+Der Assasine darf nicht in den Rücken kommen, der Schamane is der zweit gefährlichste Gegner
+ARF: iR/Z/V/H/Rest
+
+Paladin: -
+Gladiator: Netze iR
+Mönch: -
+Gaukler: -
+Dieb: [skill: Hinterhalt entdecken (spät)
+Priester: 1st VR: [item: Kanon: Psalm 12-17 - Acres' Schutz] sehr früh H, [item: Kanon: Psalm 22-01 - Samuels Tat] V, [item: Kanon: Psalm 05-05 - Schutz gegen die dunkle Kunst] Z
+Schamanin: [item: Blasrohrpfeile vergiftet (Curare)] iR/V, [item: Blasrohrpfeile vergiftet (Mutterkorn)] H/Z
+Quacksalber: [skill: Vitalitätsschub] H, [skill: Vorbeugende Heilung] Z, rest std
+Eismagier: -
+Feuermagier: -
+Gele: [item: Buch: Schadensvermeidungsstrategien - Abschrift] V - [item: Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift] H
+Hasa: [skill: Hinterhalt entdecken] (spät), [skill: Verschleiern] H/V
+
+[hr]
+
+joar fixe version, wird evtl nochmal überarbeitet, wenn ich wieder wach bin

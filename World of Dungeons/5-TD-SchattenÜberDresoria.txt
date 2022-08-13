@@ -1,0 +1,112 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF >Im Rücken, Rechts, Links, Zentrum, Vorne, Hinten 
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Zentrum: Blocker
+Hinten: Rest
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Schattenboxen
+Allgemein: Essen
+
+Paladin: Sphäre der Zuversicht 
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Zentrum
+Schamanin: Larvenbeutel Zentrum
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Zentrum
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Mehr Schattenboxen
+Allgemein: -
+
+Paladin: Sphäre der Zuversicht 
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: HiHa entdecken
+Priester: 15-23 Zentrum
+Schamanin: -
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern Zentrum
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: noch mehr Schattenboxen
+Allgemein: -
+
+Paladin: Sphäre der Zuversicht 
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: HiHa entdecken
+Priester: 15-23 Zentrum
+Schamanin: -
+Quacksalber: Vitalitätsschub Zentrum
+Eismagier: -
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern Zentrum
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Böse Magie auf 4 Ziele aus dem Zentrum nach Hinten
+Allgemein: Trinken
+
+
+Paladin: Sphäre der Zuversicht 
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: HiHa entdecken
+Priester: 05-05 Hinten, 03-11 Hinten
+Schamanin: Stechapfel ins Zentrum, danach wieder Standard
+Quacksalber: Vitalitätsschub Hinten, Vorbeugende Heilung Hinten, Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern Hinten, Zentrum
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: neue ARF Rücken, Hinten, Zentrum, Rechts, Links, Vorne
+
+Paladin: Sphäre der Zuversicht 
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: HiHa entdecken
+Priester: 15-23 Zentrum, 03-11 Hinten
+Schamanin: Stechapfel
+Quacksalber: Vorbeugende Heilung Hinten, Experimentelle Stärkung Hinten
+Eismagier: -
+Feuermagier: -
+Schütze: HiHa entdecken
+Hasa: Verschleiern Zentrum, Hinten[/quote]

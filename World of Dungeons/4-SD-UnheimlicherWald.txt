@@ -1,0 +1,92 @@
+[quote=Gim Lee][quote=Abu ibn Ali Benim@Barkladesh][b]1. Unheimlicher Wald[/b] - Standarddungeon 
+
+[dungeonrating:37] 
+[b]1.1. Aufbau, Stufenempfehlung, Verfügbarkeit[/b]
+Version 1: 4 Level mit 4 Räumen - Empfohlen für die Stufen 4 - 6 (offen ab Stufe 4)
+[color=lightgreen][i]Verfügbar auf allen Welten[/i][/color]
+Version 2: 5 Level mit 5 Räumen - Empfohlen für die Stufen 4 - 6 (offen ab Stufe 4)
+[color=lightgreen][i]Verfügbar auf allen Welten[/i][/color]
+
+[b]1.2. Belohnungen[/b]
+[post:16480677|Informationen hierzu findet ihr hier]
+
+[b]2.1. Hintergrund:[/b]
+Im nahegelegenen Wald soll sich eine Schar Orks versteckt halten, die einen Angriff auf eure Stadt plant. Ihr greift zu eurer Ausrüstung und zieht in das Dickicht, um der Sache auf den Grund zu gehen.
+
+[b]2.2. Informationen in der Enzyklopädie:[/b]
+Link zur Enzy und ggf. Karte
+ 
+[b]2.3. Hinweise zur Taktik:[/b]
+[b]1. Level: [/b][i]Heizt den Gegnern ordentlich ein![/i]
+[b]2. Level: [/b][i]Unterschätzt die Magie nicht, oder gleicht es durch einen vitalen Barbar aus.[/i]
+[b]3. Level: [/b][i]Giftig! Lasst eure(n) Schützen auch mal heilen.[/i]
+[b]4. Level: [/b][i]Ein wahrer Berg an Lebenspunkten. Zielt schnell nach hinten, oder ihr werdet von hinten auseinandergenommen.[/i]
+
+[b]2.4. Überlebende berichten:[/b]
+[post:13784733|Die Heldentaten der fiesen Knüppelpossi: Unheimlicher Wald]
+
+[b]3. Auswahl der findbaren dungeonspezifischen Uniques:[/b]
+[list]
+[*][item: Stachel eines Riesenmoskitos]
+[*][item: Amulett des Orkschamanen]
+[*][item: Jägermütze]
+[*][item: Fell des Leithammels]
+[*][item: Hohlwurzel-Stiefel]
+[*][item: Mystisches Fell einer Beutelratte]
+[*][item: König des Dschungels]
+[*][item: Monars Ring] (nur im Bonuslevel! (Version 2))
+[*][Item: Schlangenarmband]
+[*][item: Fensterläden des Lebkuchenhauses] (Version 4)
+[*][item: Hexenstiefelchen] (Version 4)
+[*][item: Krümel vom Lebkuchenhaus] (Version 4)
+[/list]
+[b]4. Besonderheiten:[/b]
+Version 1: Standardversion
+Version 2: [item: Zerknüllter Zettel] und Vollmond *) lösen zusammen einen Bonuslevel aus, der einmalig besucht werden kann. ([i]nicht für Mini-Gruppen (< 6 Helden)![/i])
+[i]Es scheint für Doppellegenden in Level 4 andere (stärkere) Gegner zu geben.[/i]
+[i]Version 3: Es gibt ein Halloween-Special mit veränderten Texten, aber gleichen Belohnungen![/i]
+Version 4: Es gibt eine Version mit einem Haus im Halbdunkel. Auslöser unklar, womöglich in der Woche vor und nach Vollmond.
+
+[b]*) Vollmond in Ezantoh:[/b] ([post:16262555|Changelog]) Die Vollmondtage sollten nun mit den Tagen übereinstimmen, die man im Internet recherchieren kann.
+An dem ausgewiesenen Tag ist dann jeweils von 0:00 Uhr bis 23:59 Uhr für die Berechnung Vollmond![b][/quote]
+
+
+Vorne: Paladin, Gladiator
+Zentrum Rest
+Hinten NK
+
+ARF > Rücken,H,L,R,Z,V
+Blasrohr Standard Curare
+
+Level 1
+
+Essen
+Priester / 15-23 > V // 08-15 > H
+Quacki / Vitalitätsschub > V
+Hasa / Verschleiern > V, H
+
+
+Level 2 
+
+Trinken
+
+Quacki / Vitalitätsschub > V // Vorbeugende Heilung > V
+Priester / 03-11 > V // 15-23 > V
+Hasa / Verschleiern > V
+Schamane / Stechapfelpfeile > Hinten // Curare > Vorne
+
+
+Level 3
+
+Priester / 15-23 > V // 03-11 > V
+Quacki / Vitalitätsschub > V
+
+Level 4 
+
+Trinken, wenn nochmal geht
+
+Gaukler / Gaukelei
+Priester / 15-23 > V // 03-11 > Z // 08-15 > H
+Quacki / Vitalitätsschub > V // Vorbeugende Heilung Z
+Hasa / Verschleiern V u. H
+Schamane / ARF Links, Zentrum, Hinten[/quote]

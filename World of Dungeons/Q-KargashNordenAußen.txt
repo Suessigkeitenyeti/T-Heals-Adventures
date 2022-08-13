@@ -1,0 +1,28 @@
+[quote=Gim Lee]Im Norden der Schlacht (äußerer Ring)
+
+Aufstellung:
+Blocker > V
+NK > L
+FK'ler > Z
+Rest > H
+
+Standard:
+Gaukler > Prophezeien > V, L
+Hasa > VS > V, L
+Schamane > WdSaM > H
+Priester > Gemeinsames Gebet > H, R, Z, V / 0815 > L
+Jäger > WG > L
+
+Level 1)
+Gelehrter > SvS > Vorne / HR > SvS > H
+SZ > Wiesel > V
+Jäger > HiHa entdecken
+Dauerbuffs
+
+Level 2)
+AR: H, Z, R, L
+
+Gelehrter > VR > KuK > Z / HR > KdN > V, L
+Schamane > Geisterflug > Z, H, R, V
+UZ > Adler > Z
+SZ > Wolf > V[/quote]

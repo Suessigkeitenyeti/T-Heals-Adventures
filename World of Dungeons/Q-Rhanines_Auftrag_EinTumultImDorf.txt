@@ -1,0 +1,43 @@
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs/Standard
+ARF > Im Rücken, Rechts, Links, Zentrum, Hinten, Vorne
+
+[hr]
+
+Aufstellung:
+Vorne: -
+Links: -
+Zentrum: Alle
+Hinten: -
+
+Tiere:
+Vorne: Alle Wildhund
+Links:
+Zentrum:
+Hinten:
+
+[hr]
+
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: nur NK und Soz Angriffe
+Allgemein: Einziges Lvl, Wir nutzen die Wildhunde hier wie die Dohlen früher, da Schamanen und Jäger beide [skill: Hieb ausweichen] erst ab Stufe 2 bekommen
+
+Blocker Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Hügel-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Grenzi-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+NK-Jäger: [skill: Messerkampf]
+Blasrohr: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+FK-Jäger: [skill: Messerkampf]
+Hagel: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Schnee: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Supp-Jäger: [skill: Messerkampf]
+Sozial-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Heil-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+Flex-Schami: [skill: Lockruf der Natur] V - [skill: Krallenhand]
+
+[hr]
+
+"Taktik" lol

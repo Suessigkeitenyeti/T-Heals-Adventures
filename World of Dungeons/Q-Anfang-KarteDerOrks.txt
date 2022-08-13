@@ -1,0 +1,34 @@
+[quote=Gim Lee]Karte der Orks
+
+Vorne: Paladin, Gladiator
+Zentrum: NK
+Hinten: Rest
+
+ARF > Rücken,H,R,L,Z,V
+Blasrohr Standard Mutterkorn
+
+Level 1
+
+Essen
+Priester / 15-23 > V
+
+Level 2
+
+Trinken
+
+Priester / 15-23 > V
+Hasa / Verschleiern > V, Z
+Gaukler / Gaukelei
+
+
+Level 3
+
+Priester / 15-23 > V
+
+Level 4
+
+Trinken 2. Prio
+
+Priester / 15-23 > V
+Quacki / Vorbeugende Heilung > Z
+Hasa / Verschleiern V u. Z[/quote]

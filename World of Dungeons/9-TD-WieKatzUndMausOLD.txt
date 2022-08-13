@@ -1,0 +1,116 @@
+[quote=Gim Lee]Aufstellung:
+Vorne: Ritter
+Links: NK
+Rechts: Sumpfdohlen ab lvl 3
+Zentrum: FK
+Hinten Alle Anderen
+
+
+ARF Rücken, Hinten, Zentrum, Rechts, Links, Vorne
+AdSaG Kleines Amulett der Kraft
+
+Standard: Gaukler > Prophezeien > V, L
+Hasa: VS > V, L
+
+Level 1 Tumulte in Keller
+
+Diebe links, rechts, zentrum
+Dieb2 greift im Nahkampf an (Messerkampf/62)
+
+Dauerbuffs und Eigenbuffs.
+
+Level 2 Die Tiefen des Kerkers
+Orkbrecher vorne
+Dieb links, rechts
+Baasra, Taschendieb     zentrum
+Orkschamane hinten
+
+ARF hinten zuerst
+sonst kein problem
+
+Level 3 Bereich 1/2 Zum Turm!
+
+Schattenelf mit Armbrust hinten
+Schattenelfmagier hinten
+Orkanführer zentrum
+Schwarzelf vorne, rechts
+Schattenelf mit Armbrust2 greift per Fernkampf an (Durchschuss/83/6 MP) vorne, flanke
+Schwarzelf mit Dolch1 greift im Nahkampf an (Messerkampf/37)
+
+Level 3 Bereich 2/2
+Schwarzgewandeter Assassine rechts
+Schwarzgewandeter Assassine greift hinterhältig an (Hinterhalt/31)
+
+sehr hohe paraden auf alles FK noch am ehesten
+entweder AW hoch pushen oder
+so viel magienagriffe als möglich da er bei jedem angriff mana verbraucht und verschwindet wenn er keines mehr hat.
+
+Ritter - Hauptmann zentrum
+Magier - Spruchrolle der Treffsicherheit zentrum
+Hasa - Verschleiern vorne, links, zentrum
+Gelehrter - VR Buch: Die Kunst des Fernkampfes - Abschrift zentrum
+HR Buch: Schadensvermeidungsstrategien - Abschrift vorne
+VR: Buch: Schadensvermeidungsstrategien - Abschrift links
+
+
+Level 4 Bereich 1/2 So schnell euch die Füße tragen
+
+Orkbrecher vorne
+Oger links
+Schattenelfschwertmeister     rechts
+Orkschamane zentrum
+Orkaxtwerfer hinten
+Schattenelfschwertmeister greift im Nahkampf an (Schwertkampf/103)
+Orkschamane greift magisch an (Feuerball/49/19 MP) vorne
+Orkaxtwerfer2 greift per Fernkampf an (Wurfwaffen (Wurfaxt)/50) vorne
+
+Level 4 Bereich 2/2 
+Tarmir, König der Diebe links
+Tarmir sieht den angebrannten Zettel und ist doch etwas verwundert:
+
+ARF: Rücken, Zentrum, Hinten Rest
+
+Ritter - Hauptmann links
+Magier - Magischer Schutz vorne
+Hasa - Verschleiern vorne, links
+Gelehrter - VR Buch: Schadensvermeidungsstrategien - Abschrift vorne
+HR Buch: Das Ein-Mal-Eins des Zuschlagens - Abschrift links
+
+
+Level 5 Luftige Höhen
+
+Abgrund
+Tarmir, König der Diebe zentrum
+Dieb mit Donnerbüchse hinten
+Dieb mit Donnerbüchse2 greift per Fernkampf an (Donnerbüchse/45) zentrum, links, vorne, hinten
+
+könnennicht angegriffen werden.also nur paraden pushen
+in VR und HR mit folgender reihenfolge:
+zentrum, links, vorne, hinten
+
+Hasa - Verschleiern
+Gelehrter - Buch: Schadensvermeidungsstrategien - Abschrift
+
+Level 6 Der Abgang
+Diebe vorne, rechts, hinten
+Dieb mit Armbrust hinten
+Gehilfe des Meisterdiebes4 greift per Fernkampf an (Wurfwaffen (Wurfmesser)/66) zentrum
+
+
+Ritter - Hauptmann links
+Magier - Magischer Schutz vorne
+Hasa - Verschleiern vorne, zentrum
+Gelehrter - VR/HR Buch: Schadensvermeidungsstrategien - Abschrift zentrum, vorne[/quote]
+
+
+und mit magische Angriffe sind irgendwelche magischen Angriffe gemeint!
+Dieb, Quacki, Hasa, Pala [skill: Artefakt der Schwächung anwenden]
+Priester exorzismus, murmeln, inferno, iwas davon oder so
+Schami [skill: Eiswasser]
+Magier... joar die haben glaub keine Zauber :thinking:
+
+Gaukler, Gladi, Gele, Mönch (bis 10) hat nix, der greift wie normal an
+
+Und das Ziel ist nicht ihn zu treffen, sondern das Mana des Assasinen zu Verbrauchen. Der müsste Fliehen, wenn er keine MP mehr hat und er verliert durch jeden Magischen Angriff MP. Wenn das richtig eingestellt ist, sollte das einfacher sein (und vor allem Konstanter) als mit nur 1-2 Buffs auf Treffer zu hoffen.
+
+Auch noch wichtig: das ist ein 2 Raum Level mit Gegnern in beiden Räumen auf derselben Posi, von daher könnte der erste Raum mit dieser Methode etwas länger dauern, aber unser Gele kann ja weiterhin Buffen und Magier + NKler ändern ja nichts bei ihren Angriffen, sollte also auch ohne optimierte Raum 1 Konfig funktionieren (und weniger Probleme machen als versuchen gezielt zu pushen)

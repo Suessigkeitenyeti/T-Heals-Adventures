@@ -1,0 +1,115 @@
+[quote=Gim Lee][b]Standards zur Taktik:[/b]
+[b]Durch den verwunschenen Wald[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Rechts, Links, Vorne
+Schamane: Curare
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Zentrum: NK
+Hinten: Rest
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: Mutterkorn
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Pflanzen auf den Flanken
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 08-15 Zentrum
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Bären und Bestienmeister
+Allgemein: Trinken
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 15-23
+Schamanin: -
+Quacksalber: Vitalitätsschub Vorne
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: -
+Allgemein: Trinken die 2.
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: Vitalitätsschub Vorne
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: Sind zu weit weg für Nahkampf
+Allgemein: -
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: 12-17 Acres‘ Schutz auf Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne[/quote]

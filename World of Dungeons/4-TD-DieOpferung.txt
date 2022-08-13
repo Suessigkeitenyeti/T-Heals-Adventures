@@ -1,0 +1,182 @@
+[quote=Gim Lee][quote=Abu ibn Ali Benim@Barkladesh][b]1. Die Opferung [/b] - Termindungeon (alle 2 Tage)
+
+[dungeonrating:249]
+[b]1.1. Aufbau, Stufenempfehlung, Verfügbarkeit[/b]
+6 Level mit 6 Räumen - Empfohlen für die Stufen 5 - 7 (offen ab Stufe 4)
+[color=lightgreen][i]Verfügbar auf allen Welten[/i][/color]
+
+[b]1.2. Belohnungen[/b]
+[post:16480677|Informationen hierzu findet ihr hier]
+
+[b]2.1. Hintergrund:[/b]
+An einem strahlenden Sommertag kommt ihr auf eurer Reise von Fraon nach Tilien an einem kleinen Dorf vorbei.
+Über dem Gasthaus steigt Rauch auf und eure knurrenden Mägen sind das ausschlaggebende Argument für eine kurze Pause mit Mittagessen. Kein Auftrag zwingt euch zur Eile und eure Geldbeutel sind gut gefüllt, nichts spricht also gegen einen gemütlichen Aufenthalt.
+Schon von Weitem könnt ihr erregte Stimmen im Gasthaus hören. Dort findet wohl eine sehr hitzige Diskussion statt. Nun, das soll euch nicht schrecken und ihr tretet munter ein, nur um von einer aufgebrachten Menge angestarrt zu werden.
+
+[b]2.2. Informationen in der Enzyklopädie:[/b]
+Link zur Enzy und ggf. Karte
+
+[b]2.3. Hinweise zur Taktik:[/b]
+Level 1 : Falsche Verdächtigungen sind nicht zu unterschätzen
+Level 2 : Herumgeheule und viele gefährliche Wesen im Walde
+Level 3 : Angsteinflößende Bestien stellen sich euch in den Weg
+Level 4 : Befreit die Kundschafter aus den Fängen der Wildtiere, ebenfalls werdet ihr auf komische Menschen treffen welche euch nicht gut gesonnen sind
+Level 5 : Immer mehr mutierte Kreaturen, der Ritualleiter und die Teilnehmer sind nicht überzeugt. Der Ritualleiter hält erstaunlich viel aus
+Level 6 : Das nahezu unantastbare Abbild eines Dämons verspottet euch 
+
+
+[b]2.4. Überlebende berichten:[/b]
+[post:13784752|Die Heldentaten der fiesen Knüppelpossi: Die Opferung]
+
+[b]3. Auswahl der findbaren dungeonspezifischen Uniques:[/b]
+[list]
+[*][item: Leichter Reiterbogen des Elohin Morgentau]
+[*][item: Amulett der Schatten]
+[*][item: Einfacher Knochenstab des Blitzes]
+[*][item: Schwerer Kurzbogen des Elohin Morgentau]
+[*][item: Unsere Heldentaten: Von Orks und Ogern]
+[*][item: Unsere Heldentaten: Von Drachen und Greifen]
+[*][item: Stiefel aus Schwarzbärenfell]
+[*][item: Abzeichen der Stollenblitzer]
+[/list][/quote]
+
+
+
+[b]Standards zur Taktik:[/b]
+
+Bei "-" Selbstbuffs
+ARF > Im Rücken, Zentrum, Hinten, Links, Rechts, Vorne
+Schamane: Curare
+Quacki : Schwer verwundet = Alchemistische Regeneration sonst normal heilen
+
+[hr]
+
+Aufstellung:
+Vorne: Blocker
+Links: NK + Dieb mit Finte
+Zentrum: FK
+Hinten: Rest
+
+[hr]
+
+[b]Level 1 [/b]
+
+Besonderheiten der Gegner: Nutzloses Pack
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: -
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 2 [/b]
+
+Besonderheiten der Gegner: Rudel Wölfe
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: -
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 3 [/b]
+
+Besonderheiten der Gegner: Schwarzbären
+Allgemein: -
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: -
+
+[hr]
+
+[b]Level 4 [/b]
+
+Besonderheiten der Gegner: Wölfe und Tiermenschen
+Allgemein: -
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 15-23 Vorne
+Schamanin: -
+Quacksalber: -
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern > Vorne, Links
+
+[hr]
+
+[b]Level 5 [/b]
+
+Besonderheiten der Gegner: Magischer Säureangriff auf Vorne, FK auf Flanke
+Allgemein: Hier nur schlechteres Trinken, Level 6 ist wichtiger
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: -
+Priester: 05-05 Vorne
+Schamanin: ARF Vorne, Hinten
+Quacksalber: Vorbeugende Heilung > Vorne, Links
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne, Links
+
+[hr]
+[b]Level 6 [/b]
+
+Besonderheiten der Gegner: Soziale, Magische Angriffe, Boss hat sehr hohe FK und Magieparade
+Allgemein: Trinken
+
+
+Paladin: -
+Gladiator: -
+Mönch: -
+Gaukler: Gaukelei
+Dieb: Finte
+Priester: Vorrunde 08-15 Links aufrechterhalten, Hauptrunde 03-11 Links, Zentrum
+Schamanin: -
+Quacksalber: Vorrunde und Hauptrunde Vorbeugende Heilung Hinten, Vorne
+Eismagier: -
+Feuermagier: -
+Schütze: -
+Hasa: Verschleiern Vorne und Links
+
+[hr][/quote]

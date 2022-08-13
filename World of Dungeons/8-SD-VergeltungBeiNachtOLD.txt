@@ -1,0 +1,80 @@
+[quote=Gim Lee]Aufstellung:
+Vorne: Blocker
+Links: NK
+Zentrum: Rest
+Hinten: Gaukler
+
+Standard: Gaukler > Prophezeien > V, L, H
+Hasa > VS > V, L, H
+Schamane > WdSM > Z
+
+Die Paraden sind hier standardmäßig eher mittelmäßig (max. 50), die AWs halten sich auch in Grenzen.
+Problem: Jede Position bekommt was ab! Daher bitte entweder HP, oder eigene Paraden gegen NK und FK hochziehen.
+
+
+Lvl 1
+
+1 Wildling mit Axt V (NK AW 50), Viele Wildlinge L (NK AW 50), viele Wildlinge mit Wurfeisen Z/H (FK AW 40 ins Z)
+
+Gele: FK Parade Z
+sonst Standard
+
+
+Lvl 2
+
+Wildlinge mit Axt V/L (NK AW 50, Kampfgebrüll AW 50), mehr Wildlinge Z (NK AW 30), Medizinmann Z (Magie AW 50 auf V), Wundheiler Z
+
+Gele: Magieparade V
+Magier: MS V
+
+
+Lvl 3
+
+Viele Wildkatzen V/L/iR (NK AW 50), 1 Wildling L (NK AW 90)
+
+Gele: NK Parade H/V
+
+
+Lvl 4
+
+Brüllaffen V/L/Z/iR (FK AW 50 auf jede Position, Sozial AW 30) können nicht im NK angegriffen werden. Ihr Sozialangriff zieht FK Parade
+
+Ihre Paraden gegen FK und Magie liegen bei 70!
+
+Gele: FK Parade Z/L/H
+Hasa: Verschleiern H/Z/L
+Magier > UZ > Adler > Z
+
+FK und Magie bitte auch selbstständig AW erhöhen
+
+
+Lvl 5
+
+Leibwächter V/L/R (NK AW 70), Wundheiler H
+
+Standard
+
+
+
+Lvl 6
+
+Leibwächter V (NK AW 80, NK Parade 90), Medizinmänner Z (Magie AW 40 auf V), Wundheiler H, Gespielinnen H, Wildlinge mit Wurfeisen H (FK AW 30 auf Z), 1 Wildkatze iR (NK AW 50)
+Kromm L (NK AW 100, Kampfgebrüll AW 70) hat 100 HP, greift 3x die Runde an und hat mit 70-80 gegen NK/FK die höchsten Paraden. Mit Magie ist er eher zu treffen.
+
+Unser NK wird durch den Leibwächter mit 90 NK Parade aufgehalten, daher sollten die FK/Magier das Feld etwas räumen.
+
+Gele: NK Parade V, FK Parade Z, NK AW L
+Ritter: Hauptmann L/H
+Magier > UZ > Adler > Z
+
+ARF Magie: L debuffen, dann H/L/V/Z
+ARF FK: iR/H/Z/V/L
+
+
+Lvl 7
+
+Wilde Herde aus Flusspferden greift am Ende der ersten Runde alle Positionen an (NK AW 50 V, 40 Z, 30 H), anschließend kommen noch drei normale NK Angriffe (AW 60). Sind nicht angreifbar
+
+Gele: NK Parade Z/L
+Hasa: Verschleiern L/H
+Magier: Magischer Schild[/quote]

@@ -1,0 +1,138 @@
+[h1]Verbrauchsgüter[/h1]
+
+[h2]Nur [skill: Artefakt der Stärkung anwenden] möglich[/h2]
+
+[table border=2]
+[tr][td align=center]Name[/td]
+[td align=center]Boni auf Eigenschaften[/td]
+[td align=center]Boni auf Fertigkeiten[/td]
+[td align=center]Boni auf Würfe[/td][/tr]
+
+[tr][td align=center][item: Aromatischer Balsam][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Rang [skill: Hand auflegen] +1+50% [size=9]des FR[/size], unbegrenzt 
+Wirkung +67% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center]-[color=lime][/color][/td][/tr]
+
+[tr][td align=center][item: Destillat aus Rosenblüten][/td]
+[td align=center][color=lime]Charisma +50% [size=9]des FR[/size], 3 Runden
+Charisma +50% [size=9]des FR[/size], eine Runde[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=red]Angriff Hinterhalt -10%, 3 Runden[/color]
+[color=lime]Angriff Sozial +5 +FR, 3 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Opferkerze][/td]
+[td align=center][color=lime]Willenskraft +17% [size=9]des FR[/size], unbegrenzt
+Heilung Hitpoints +1+20% [size=9]des FR[/size], unbegrenzt
+Erholung Manapoints +1+20% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Zauber +34% [size=9]des FR[/size], unbegrenzt
+Parade Sozial +50% [size=9]des FR[/size], unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Schutzbalsam der Chunirit][/td]
+[td align=center][color=lime]Rüstung Hiebschaden +50%/+25%/+17% [size=9]des FR[/size], unbegrenzt, wirkt nach 3 Runden
+Rüstung Schneidschaden +50%/+25%/+17% [size=9]des FR[/size], unbegrenzt, wirkt nach 3 Runden
+Rüstung Stichschaden +50%/+25%/+17% [size=9]des FR[/size], unbegrenzt, wirkt nach 3 Runden[/color]
+[color=red]Heilung Hitpoints -2-17% [size=9]des FR[/size], 3 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=red]Parade Nahkampf -25% [size=9]des FR[/size], unbegrenzt
+Parade Fernkampf -25% [size=9]des FR[/size], unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Zunderschwamm (frisch)][/td]
+[td align=center][color=lime]Rang Heilfertikeiten +34% [size=9]des FR[/size], unbegrenzt
+Rang Pyrotechnika +34% [size=9]des FR[/size], unbegrenzt
+Rang [skill: Brandpfeil] +34% [size=9]des FR[/size], unbegrenzt[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Angriff Explosion +50% [size=9]des FR[/size], unbegrenzt[/color][/td][/tr]
+
+[tr][td align=center][item: Zunderschwamm (getrocknet)][/td]
+[td align=center][color=lime]Rang Heilfertikeiten +50% [size=9]des FR[/size], unbegrenzt
+Rang Pyrotechnika +50% [size=9]des FR[/size], unbegrenzt
+Rang [skill: Brandpfeil] +50% [size=9]des FR[/size], unbegrenzt[/color]
+[color=red]Anfällig Feuerschaden (alle) +10%/+10%/+10%, unbegrenzt[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Angriff Explosion +75% [size=9]des FR[/size], unbegrenzt[/color][/td][/tr]
+
+[/table]
+
+[h2]Auch [skill: Artefakt der Stärkung auf Gruppe anwenden] möglich[/h2]
+
+[table border=2]
+[tr][td align=center]Name[/td]
+[td align=center]Boni auf Eigenschaften[/td]
+[td align=center]Boni auf Fertigkeiten[/td]
+[td align=center]Boni auf Würfe[/td][/tr]
+
+
+[tr][td align=center][item: Veilchenwasser][/td]
+[td align=center][color=lime]Charisma +1, bis Kampfende
+Willenskraft +25% [size=9]des FR[/size], bis Kampfende
+Mana +34% [size=9]des FR[/size], bis Kampfende[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Angriff Sozial +4+34% [size=9]des FR[/size], bis Kampfende
+Parade Sozial +2+34% [size=9]des FR[/size], bis Kampfende[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman der Aufmerksamkeit][/td]
+[td align=center][color=lime]Wahrnehmung +34% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Hinterhalt +34% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman der Geister der Natur][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Naturgewalt +100% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman der Geschwindigkeit][/td]
+[td align=center][color=lime]Schnelligkeit +25% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]+ 50% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman der Kraft][/td]
+[td align=center][color=lime]Stäke +50% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman der Macht][/td]
+[td align=center][color=lime]Schaden Hiebschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden
+Schaden Schneidschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden
+Schaden Stichschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden
+Schaden Feuerschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden
+Schaden Eisschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden
+Schaden Blitzschaden (alle)(z) +34%/+50%/+50% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman des Beschützers][/td]
+[td align=center][color=lime]Anfälligkeit Hiebschaden (alle) -20%/-10%/-10%, 5 Runden
+Anfälligkeit Schneidschaden (alle) -20%/-10%/-10%, 5 Runden
+Anfälligkeit Stichschaden (alle) -20%/-10%/-10%, 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Nahkampf +75% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman des Wissens][/td]
+[td align=center][color=lime]Intelligenz +34% [size=9]des FR[/size], 5 Runden
+Erholung Manapoints +34% [size=9]des FR[/size], 5 Runden[/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman gegen böse Geister][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Zauber +50% [size=9]des FR[/size], 5 Runden
+Parade Sozial +100% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+
+[tr][td align=center][item: Magischer Talisman gegen Krankheiten][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center][color=lime]Parade Krankheiten +100% [size=9]des FR[/size], 5 Runden[/color][/td][/tr]
+[/table]
+
+
+
+[tr][td align=center][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td]
+[td align=center]-[color=lime][/color][/td][/tr]
+[color=lime][/color]
+[size=9]der HS[/size]
+[size=9]des FR[/size]
