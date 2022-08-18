@@ -18,12 +18,15 @@ for Stufe in Stufendir:
     #print(DungeonHTMLPfad)
     if DungeonHTMLPfad[:1]!=[]:
     #EHHH? IDK MAN, ich brauche ein Tupel mit gleich viele Namen und Pfaden oder ne andere Möglichkeit die HTML Tabelle zu basteln
-        for BerichtPfad in DungeonHTMLPfad:
-            DungeonStufenTupel = (DungeonNamen, DungeonHTMLPfad)
-        print(DungeonStufenTupel)
+    #maybe schleife 1 - geht alle elemente in htmlpfad durch, dann schleife 2 für alle elemente darin, pack das equivalent in dem berichtpfad da rein
+        for BerichtPfadList in DungeonHTMLPfad:
+            for BerichtPfad in BerichtPfadList:
+                toss, BerichtName = BerichtPfad.rsplit('\\', 1)
+                DungeonStufenTupel = (BerichtName, BerichtPfad)
     #DAS SCHEINT HIER ZWISCHEN NICHT ZU FUNKTIONIEREN
-        #Mache Tabelle für alle Dungeons auf der Stufe
-        #print(ul(li(a(name, href=link)) for name, link in DungeonStufenTupel))
+                #Mache Tabelle für alle Dungeons auf der Stufe
+                print(DungeonStufenTupel)
+                print(ul(li(a(BerichtName, href=BerichtPfad))))
     else:
         print(Stufe[9:] + ' hat keine Dungeons!')
 
